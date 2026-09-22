@@ -3,13 +3,12 @@
 # tai sahkopostin tekstia.
 
 site:
-title: "Hankintailmoitusten seuranta"
+  title: "Hankintailmoitusten seuranta"
   subtitle: "Julkiset hankinnat, viikkoseuranta tiistaista maanantaihin"
   timezone: "Europe/Helsinki"
   base_url: "https://lslander.github.io/Hankintailmoitukset/"
   # Montako edellista seurantajaksoa sailytetaan sivulla ja tilassa.
   keep_periods: 12
-
 # ---------------------------------------------------------------------------
 # Seurantajakso
 # ---------------------------------------------------------------------------
