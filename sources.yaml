@@ -1,0 +1,206 @@
+# Hankintailmoitusten seuranta: kaikki saadettava on tassa tiedostossa.
+# Koodia ei tarvitse koskea, kun haluat muuttaa CPV-koodeja, avainsanoja
+# tai sahkopostin tekstia.
+
+site:
+  title: "Hankintailmoitusten seuranta"
+  subtitle: "Julkiset hankinnat, viikkoseuranta tiistaista maanantaihin"
+  timezone: "Europe/Helsinki"
+  base_url: "https://KAYTTAJATUNNUS.github.io/hankintaseuranta/"
+  # Montako edellista seurantajaksoa sailytetaan sivulla ja tilassa.
+  keep_periods: 12
+
+# ---------------------------------------------------------------------------
+# Seurantajakso
+# ---------------------------------------------------------------------------
+# Jakso on AINA tiistai 00:00 - maanantai 23:59:59 Suomen aikaa.
+# Ajo tehdaan maanantaina, jolloin maanantain iltapaivan ilmoitukset eivat
+# viela ole julkaistu. Siksi haku ei kysy nimellista jaksoa vaan
+# vesirajaa (state.json: watermark): haetaan kaikki, mita on julkaistu
+# edellisen ajon katkaisuhetken jalkeen. Nain yhtaan ilmoitusta ei jaa
+# valiin eika mikaan tule raportoiduksi kahdesti, vaikka ajo myohastyisi
+# tai se ajettaisiin kesken viikon.
+period:
+  # 1 = maanantai ... 7 = sunnuntai (ISO). Jakso paattyy tahan paivaan.
+  ends_on_weekday: 1
+  length_days: 7
+
+# ---------------------------------------------------------------------------
+# Hilman AVP-hakurajapinta
+# ---------------------------------------------------------------------------
+api:
+  search_url: "https://api.hankintailmoitukset.fi/search/eformnotices"
+  # Azure Cognitive Search -rajapinnan versio. Hilma ei vaadi tata, mutta
+  # se on hyva pitaa mukana, jos taustapalvelu joskus alkaa vaatia.
+  api_version: "2020-06-30"
+  # Avain luetaan ymparistomuuttujasta HILMA_API_KEY.
+  # Hae ilmainen avain: https://hns-hilma-prod-apim.developer.azure-api.net
+  # -> Sign up -> Products -> avp-read -> Subscribe
+  key_env: "HILMA_API_KEY"
+  page_size: 200
+  max_pages: 40
+  timeout: 60
+  # Rajapinnassa on kutsurajoitus. Odota nain monta sekuntia sivujen valissa.
+  sleep_between_pages: 0.5
+
+# Ilmoituksen osoite Hilmassa. {procedure} ja {notice} korvataan.
+notice_url: "https://www.hankintailmoitukset.fi/fi/public/procurement/{procedure}/notice/{notice}/overview"
+
+# ---------------------------------------------------------------------------
+# Haun rajaus
+# ---------------------------------------------------------------------------
+search:
+  # Ohje: haetaan varsinaiset hankintailmoitukset, ei jalki-ilmoituksia.
+  # ContractAwardNotices = jalki-ilmoitus, se jatetaan pois tarkoituksella.
+  main_types:
+    - ContractNotices
+    - NationalNotices
+
+  # Peruutetut ilmoitukset piilotetaan, korjausilmoitukset nakyvat
+  # merkinnalla "KORJAUS", koska korjaus voi muuttaa maaraaikaa.
+  exclude_cancelled: true
+
+  # CPV-koodit tasmataan ETULIITTEENA, koska Hilman indeksissa on aina
+  # varsinainen 8-numeroinen koodi eika emokoodi tuo lapsikoodeja mukanaan.
+  # Koska koodi on aina 8 numeroa, taysimittainen etuliite kuten "79000000"
+  # tasmaa vain tuohon yhteen koodiin, kun taas "791" kattaa koko ryhman.
+  #
+  # Tama lista vastaa alkuperaisen ohjeen kuutta koodia lapsikoodeineen:
+  #   79000000  vain tasmalleen tama koodi
+  #   79100000  -> "791"    kattaa 79110000, 79111000, 79130000 jne.
+  #   79400000  -> "794"    kattaa 79410000, 79418000 jne.
+  #   80400000  -> "804"    kattaa 80411100, 80412000, 80420000 jne.
+  #   79632000  -> "79632"  kattaa 79632000 alakoodeineen
+  #   73000000  -> "73"     kattaa 73100000, 73210000, 73300000 jne.
+  #
+  # Huom: ala kirjoita tahan pelkkaa "79". Se vetaisi mukaan koko 79-haaran
+  # eli myos painopalvelut (798), kaannokset (7953), rekrytoinnin (7962)
+  # ja tilintarkastuksen (7921). Testiajossa 1.9.-22.9.2026 pelkka "79"
+  # tuotti 69 ilmoitusta ja tama lista 25, eika yksikaan poisputoava ollut
+  # juridisesti vahva.
+  cpv_prefixes:
+    - "79000000"  # Liiketoimintapalvelut: laki, markkinointi, konsultointi (vain tama koodi)
+    - "791"       # Oikeudelliset palvelut
+    - "794"       # Yrityskonsultointi, johdon konsultointi ja niihin liittyvat palvelut
+    - "804"       # Aikuiskoulutus ja muut koulutuspalvelut
+    - "79632"     # Henkilostokoulutus
+    - "73"        # Tutkimus- ja kehityspalvelut ja niihin liittyvat konsulttipalvelut
+
+  # Naytetaan myos, jos yksikin osa-alue (lot) osuu CPV-suodattimeen,
+  # vaikka ilmoituksen paakoodi ei osuisi. Tama on koko putken tarkein
+  # yksittainen lisa kasin tehtyyn hakuun nahden: ohje varoittaa erikseen,
+  # etta monilohkoisessa ilmoituksessa vain yksi osa-alue voi olla
+  # oikeudellista osaamista vaativa.
+  match_lot_cpv: true
+
+# ---------------------------------------------------------------------------
+# Relevanssiehdotus
+# ---------------------------------------------------------------------------
+# Koodi EI paata puolestasi. Se vain varittaa rivin, jotta tiedat mista
+# aloittaa. Valinta tehdaan sivulla ruksilla.
+#
+#   vahva    = CPV 791 (oikeudelliset palvelut) TAI vahva avainsana
+#              ILMOITUKSEN TAI OSA-ALUEEN OTSIKOSSA
+#   tarkista = vahva avainsana vain kuvauksessa, tai heikko avainsana
+#   heikko   = ei osumia, mutta CPV-suodatin lapaisty
+#   kohina   = kohinasana otsikossa, rivi harmaana mutta yha valittavissa
+#
+# Miksi otsikon ja kuvauksen ero: lahes jokaisessa ilmoituksessa lukee
+# "hankintalain (1397/2016) mukaisesti" ja vaatimuksissa mainitaan
+# tietosuoja ja GDPR. Jos kuvausosuma riittaisi vahvaksi, puolet
+# hoitajakutsujarjestelmista olisi vihreita. Kuvausosuma nakyy silti
+# rivilla merkinnalla "kuvauksessa: ...".
+scoring:
+  strong_cpv_prefixes:
+    - "791"     # Oikeudelliset palvelut
+    - "7911"    # Oikeudellinen neuvonta ja edustus
+
+  strong_keywords:
+    - asianajo
+    - asianajaja
+    - oikeudelli
+    - lakipalvelu
+    - lakiasiain
+    - juridi
+    - lakimies
+    - oikeudellinen neuvonta
+    - oikeudellinen asiantuntija
+    - sopimusoikeu
+    - hankintajuridi
+    - hankintalaki
+    - tietosuoja
+    - gdpr
+    - immateriaalioikeu
+    - tavaramerkki
+    - patentti
+    - tekijanoikeu
+    - kilpailuoikeu
+    - tyooikeu
+    - yhtiooikeu
+    - riidanratkaisu
+    - välimiesmenettely
+    - due diligence
+    - yrityskaupp
+    - säädösvalmistelu
+    - lainvalmistelu
+    - perintäpalvelu
+    - oikeudenkäynti
+    - hankintojen asiantuntija
+    - hankintaoikaisu
+    - sopimushallin
+
+  # Naista tulee "tarkista": voivat olla relevantteja, mutta usein eivat.
+  # Ohjeen periaate: epaselvat lahetetaan mieluummin markkinoinnille.
+  weak_keywords:
+    - konsultoin
+    - asiantuntijapalvelu
+    - asiantuntijatyö
+    - selvitys
+    - arviointi
+    - koulutus
+    - valmennus
+    - hankejohtami
+    - projektinjohto
+    - muutostuki
+    - kehittämispalvelu
+    - tutkimuspalvelu
+    - vaikutusten arviointi
+    - compliance
+    - riskienhallinta
+    - tekoäly
+    - digitalisaatio
+    - kyberturvallisuu
+    - datanhallinta
+    - henkilöstöhallinn
+    - rekrytoin
+
+  # Naiden osuessa rivi merkitaan harmaaksi ehdotuksella "tuskin meille".
+  # Rivi EI katoa: voit yha ruksata sen mukaan.
+  noise_keywords:
+    - siivouspalvelu
+    - kiinteistönhoito
+    - ateriapalvelu
+    - ruokapalvelu
+    - kuljetuspalvelu
+    - taksipalvelu
+    - työterveyshuolto
+    - lääkäripalvelu
+    - hoivapalvelu
+    - vartiointi
+    - painopalvelu
+    - matkatoimisto
+    - tulkkauspalvelu
+    - käännöspalvelu
+
+# ---------------------------------------------------------------------------
+# Sahkopostimalli
+# ---------------------------------------------------------------------------
+email:
+  subject_prefix: "Hankintailmot"
+  to: "HKI.MARKETING@twobirds.com; Maria Carlsson"
+  cc: "HKI.STUDENT@twobirds.com; Maria Carlsson"
+  greeting: "Hei!"
+  intro: "Ohessa uusia mahdollisesti toimistolle relevantteja hankintailmoituksia:"
+  # {period} korvataan muodolla "15.9.2026 - 21.9.2026".
+  empty_body: "Ajalta {period} ei löytynyt toimistoamme kiinnostavia ilmoituksia."
+  signature: "Yst. terv.\nRaul"

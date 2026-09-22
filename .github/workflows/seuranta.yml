@@ -1,0 +1,55 @@
+name: Hankintailmoitusten seuranta
+
+# Ajo maanantaisin. Cron on UTC-ajassa, joten 04:30 UTC on Suomen aikaa
+# 07:30 kesalla ja 06:30 talvella. Ajo on aikaisin, jotta sivu on valmis
+# ennen kuin viesti lahetetaan. Maanantain iltapaivan ilmoitukset eivat
+# ehdi mukaan, mutta ne eivat myoskaan jaa pois: seuraava ajo hakee
+# kaiken talle ajolle asetetun vesirajan jalkeen julkaistun.
+on:
+  schedule:
+    - cron: "30 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Pakota vesiraja (YYYY-MM-DD), tyhja = normaali ajo"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seuranta
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Aja seuranta
+        env:
+          HILMA_API_KEY: ${{ secrets.HILMA_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.since }}" ]; then
+            python main.py --since "${{ github.event.inputs.since }}"
+          else
+            python main.py
+          fi
+
+      - name: Tallenna tila ja sivu
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json docs
+          # Jos viikolla ei tullut uutta, mikaan ei muutu eika committia
+          # kannata tehda. Ilman tata tarkistusta ajo kaatuisi.
+          git diff --cached --quiet || git commit -m "Seuranta $(date -u +%Y-%m-%d)"
+          git push
