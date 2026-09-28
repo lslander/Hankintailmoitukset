@@ -1,11 +1,200 @@
 {
- "last_run": "2026-09-22T17:45:32+03:00",
+ "last_run": "2026-09-28T07:45:47+03:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
    "id": "2026-09-22",
    "label": "22.9.2026 - 28.9.2026",
    "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-26T16:15:00+02:00",
+     "desc": "Työkykyinen Suomi 2023–2027 mallien vakiinnuttaminen ja arviointi Sosiaali- ja terveysministeriö (jäljempänä ”Hankintayksikkö”) pyytää tarjoustanne Työkykyinen Suomi 2023–2027 mallien vakiinnuttaminen ja arviointi  - hankkeen toteuttamisesta tämän tarjouspyynnön ja sen liitteiden mukaisesti.\n\nHankinnan kohde on kuvattu tarkemmin liitteessä 1.,",
+     "docs_url": "https://tarjouspalvelu.fi/stm?id=627168&tpk=1d2691f3-b6a6-4044-9726-fb2129de6635",
+     "dps": false,
+     "framework": false,
+     "id": 57779,
+     "key": "EF-57779",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Työkykyinen Suomi 2023–2027 mallien vakiinnuttaminen ja arviointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-057779",
+     "org": "Sosiaali- ja terveysministeriö",
+     "published": "2026-09-24T06:05:02+03:00",
+     "reasons": [
+      "arviointi"
+     ],
+     "title": "Työkykyinen Suomi 2023–2027 mallien vakiinnuttaminen ja arviointi",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37628/notice/57779/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-26T15:00:00+02:00",
+     "desc": "Kohti työtä ja ammattia -kotoutumiskoulutus Tampereen kaupunki pyytää tarjouksia tämän tarjouspyynnön ja sen liitteiden mukaisesti. Kilpailutuksella hankitaan työvoimapalveluiden järjestämisestä annetun lain (380/2023) ja kotoutumisen edistämisestä annetun lain (681/2023) mukaista kotoutumiskoulutusta.  Avoimella menettelyllä valitaan yksi palveluntuottaja, jonka kanssa tehdään toistaiseksi voimassa oleva hankintasopimus. Hankittavan palvelun sisältö on kuvattu tarkemmin tarjouspyynnön liitteenä olevassa palvelukuvauksessa. Tarjouspyynnön liitteet löytyvät kohdasta Tarjouspyynnön liitteet. Hankittavan palvelun ennakoitu arvo ylittää julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (hankintalaki 1397/2016) 25 §:n mukaisen kynnysarvon liitteen E hankinnoille, joten kilpailutuksessa sovelletaan hankintalakia. Hankintayksikkö valitsee tarjouksista kokonaistaloudellisesti edullisimman. Kokonaistaloudellisen edullisuuden perusteet (arviointikriteerit) on esitetty tässä tarjouspyynnössä.,",
+     "docs_url": "https://toimittaja-asiointi.tampere.fi",
+     "dps": false,
+     "framework": false,
+     "id": 57856,
+     "key": "EF-57856",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Kohti työtä ja ammattia -kotoutumiskoulutus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-057856",
+     "org": "Tampereen kaupunki",
+     "published": "2026-09-25T06:05:05+03:00",
+     "reasons": [
+      "kuvauksessa: hankintalaki"
+     ],
+     "title": "Kohti työtä ja ammattia -kotoutumiskoulutus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/35843/notice/57856/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000",
+      "79413000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-30T10:00:00+02:00",
+     "desc": "Hankinnan kohteena on Tuusulan kunnan markkinointiviestinnän palveluja tarjouspyynnön ja sen liitteiden mukaisesti.\n\nHankinta on jaettu viiteen (5) osa-alueeseen. Jokaiselle osa-alueelle valitaan yksi (1) palveluntuottaja, jonka kanssa tilaaja tekee määräaikaisen sopimuksen. Solmittavien sopimusten kesto on 1.1.2027-31.12.2029, sisältäen mahdollisuuden yhteen yhden (1) vuoden mittaiseen optioon ajalle 1.1.2030-31.12.2030. Tilaaja päättää option käyttämisestä erikseen. Hankinnassa ei ole rajoitettu palveluntuottajalle myönnettävien osa-alueiden määrää. Tarjouksen voi jättää yhteen tai useampaan osa-alueeseen.\n\nHankinnan kohde on jaettu osa-alueisiin seuraavasti: \n\nOsa-alue 1: Viestinnän ja markkinoinnin strategiset palvelut\nOsa-alue 2: Graafinen suunnittelu \nOsa-alue 3: Valokuvaus\nOsa-alue 4: Videokuvaus\nOsa-alue 5: Digimarkkinointi\n\nTilaajalla ei ole määräostovelvoitetta. Asiakirjoissa esitetyt hankintavolyymit ovat arvioita, eivätkä ne ole tilaajaa sitovia. Tuusulan kunta ei sitoudu tiettyihin hankintamääriin sopimuskauden aikana., Osa-alue 1: Viestinnän ja markkinoinnin strategiset palvelut Strateginen viestinnän ja markkinointiviestinnän palvelu tarkoittaa viestinnän ja markkinointiviestinnän strategista tukea huomioiden organisaation strategian ja olemassa olevan brändin ynnä muun ohjeistuksen. Strateginen viestinnän ja markkinointiviestinnän tuki viittaa esimerkiksi brändin kehittämiseen, markkinointiviestinnän konseptoimiseen ja kokonaisuuksien suunnitteluun, markkinointiviestinnän kampanjoiden suunnitteluun sekä suunniteltuun kokonaisuuteen liittyvään sisällön tuotantoon.\n\nHuomioitavaa: Strategisen tason työn ohella kumppanilta voidaan hankkia suunniteltuun kokonaisuuteen liittyvän sisällön tuottaminen.\n\nEsimerkkejä: Brändin ja brändin ydinviestien kehittäminen, alabrändin luominen, markkinointiviestinnän konseptin laatiminen, markkinointiviestinnän suunnitelman laatiminen, kriisiviestintä ja maineenhallinta, johdon koulutus ja konsultointi.\n\nToimeksiantomäärä ja toimeksiantojen koko: Vaihtelee, 1-2 toimeksiantoa vuodessa (menneitä toimeksiantoja: Focus-alueen brändi, työnantajabrändin laatiminen, rekrytointimarkkinoinnin kehittäminen).\n\nArvio kappalemääristä: 1–2 projektia vuodessa. \nArvio euroista: 10 000 – 30 000 euroa vuodessa., Osa-alue 2: Graafinen suunnittelu Palvelu kattaa tilaajan määrittelemien visuaalisten materiaalien suunnittelun ja toteutuksen eri kanaviin ja sisältää muun muassa taiton, kuvankäsittelyn ja graafiset elementit. Työ kattaa ideoinnin tukemisen tai ideoinnin, luonnostelun ja lopullisten tiedostomuotojen valmistelun ja materiaalien toimituksen kunnalle annettujen brändiraamien mukaisesti.\n\nEsimerkkejä: Asukaslehden ja sen liitteen taitto, digitaalisten mainosten luonnostelu ja taitto, PowerPoint-esitysten visualisoiminen, infograafien laatiminen, lehti-ilmoitusten taitto, asiakirjojen visualisoiminen ja taitto yms.\n\nToimeksiantomäärä ja toimeksiantojen koko: Vaihtelee, esimerkiksi asukaslehteä (lehti noin 24 sivua + liite noin 20 sivua) julkaistaan 3–4 kertaa vuodessa. Digitaalisia mainoksia tarvitaan melkein viikoittain, PowerPoint esityksiä, infograafeja, lehti-ilmoituksia ja muita taittoja toisinaan.\n\nArvio kappalemääristä: 5–10 eri kokoista työtä kuukaudessa, viikoittainen tarve.\nArvio euroista: 25 000 – 30 000 euroa vuodessa.\n\nHuomioitavaa: Kaikki tarvittavat aineistot on toimitettava saavutettavassa muodossa., Osa-alue 3: Valokuvaus Valokuvauspalvelu kattaa kuvausten suunnittelun annettujen ideoiden tai valmiin konseptin perusteella, toisinaan valokuvausmallien (amatöörejä) hankkimisen, varsinaisen valokuvauksen sekä kuvien jälkikäsittelyn ja toimituksen kunnan käyttötarpeisiin.\n\nTilataan toisinaan yhdessä videokuvauksen kanssa. Samasta aiheesta/kohteesta/tilanteesta voidaan ottaa sekä videokuvaa ja valokuvaa.\n\nEsimerkkejä: Henkilöiden potrettikuvia, brändikuvien ottamista sovitusta tilanteesta.\n\nToimeksiantomäärä ja toimeksiantojen koko: Potrettikuvia 1–3 kertaa vuodessa kerrallaan yhdestä tai kahdesta henkilöstä, ehkä tusinan kuvan brändikuvasarja jostain tilanteesta tai joillakin malleilla 3–5 kertaa vuodessa, tapahtumakuvauksia 1–5 kertaa vuodessa.\n\nArvio kappalemääristä: Noin 5 toimeksiantoa vuodessa.\nArvio euroista: 10 000 – 15 000  euroa vuodessa., Osa-alue 4: Videokuvaus Videokuvauspalvelu pitää sisällään videotuotannon kaikki vaiheet: esisuunnittelun ja käsikirjoituksen annettujen ideoiden tai valmiin konseptin perusteella, itse kuvauksen sekä editoinnin. Palveluun kuuluu myös videoiden viimeistely tekstityksillä, äänimaailmalla ja mahdollisilla grafiikoilla saavutettavuusvaatimukset ja eri julkaisualustojen tekniset tarpeet huomioiden esim. valmiin videon toimittaminen tilaajalle useammalla kuin yhdellä kuvasuhteella. \n\nTilataan toisinaan yhdessä valokuvauksen kanssa. Samasta tilanteesta voidaan ottaa videokuvaa ja valokuvaa.\n\nEsimerkkejä: Brändimarkkinointivideoita, tonttimarkkinointivideoita, työnantajakuvavideoita, pormestarin somevideoita jne.\n\nToimeksiantomäärä ja toimeksiantojen koko: Muutama tuotanto vuodessa, arviolta 2–3.\nArvio kappalemääristä: 2–3 vuodessa.\nArvio euroista: 15 000 – 25  000 euroa vuodessa., Osa-alue 5: Digimarkkinointi Digimarkkinoinnin palvelu sisältää mainoskampanjoiden teknisen rakentamisen, kohdentamisen ja operatiivisen hallinnoinnin tilaajan toimittamien sisältöjen pohjalta. Työ kattaa kampanjoiden käynnistämisen, jatkuvan optimoinnin sekä tulosten raportoinnin Meta-kanavissa (Facebook, Instagram), LinkedInissä, Googlessa ja YouTubessa asetettujen tavoitteiden saavuttamiseksi.\n\nEsimerkkejä: Tonttimarkkinointikampanjoita, tapahtumamainoksia, museoiden näyttelyiden mainoksia, työnantajakuvan markkinointia, rekrymainoksia jne.\n\nToimeksiantomäärä ja toimeksiantojen koko: Kampanjoita pyörii jatkuvasti. Käynnistelyn ja muokkaamisen tarvetta (aktiivista hallinnointia) melkein viikoittain.\n\nArvio kappalemääristä: 4–6 kuukaudessa.\nArvio euroista: 10 000 – 15 000 euroa vuodessa, sisältää kampanjoinnin rakentamisen, kohdentamisen ja operatiivisen hallinnoinnin.,",
+     "docs_url": "https://tarjouspalvelu.fi/tuusula?id=614725&tpk=910bcec1-af2b-4495-b537-c3aee1ea8639",
+     "dps": false,
+     "framework": false,
+     "id": 57892,
+     "key": "EF-57892",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000",
+        "79413000"
+       ],
+       "title": "Osa-alue 1: Viestinnän ja markkinoinnin strategiset palvelut"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Osa-alue 2: Graafinen suunnittelu"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Osa-alue 3: Valokuvaus"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Osa-alue 4: Videokuvaus"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Osa-alue 5: Digimarkkinointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-057892",
+     "org": "Tuusulan kunta",
+     "published": "2026-09-25T06:05:07+03:00",
+     "reasons": [
+      "konsultoin, koulutus, rekrytoin"
+     ],
+     "title": "Markkinointiviestinnän palvelujen hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37697/notice/57892/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-10-15T16:00:00+03:00",
+     "desc": "Business Tampere Oy (jatkossa Tilaaja) pyytää yrityksiltä tarjouksia ”Kaksikäyttöteknologiat turvallisuuden ja puolustuksen tukena” –hankkeessa tehtäviin, kaksikäyttöteknologioihin liittyviin Palvelukokeiluhankintoihin. ”Kaksikäyttöteknologiat turvallisuuden ja puolustuksen tukena” -hankkeen tavoitteena on kestävien turvallisuus-, puolustus- ja kaksoiskäyttöalan innovaatioiden, kilpailukyvyn, kansainvälistymisen ja kasvun, osaamisen kehittämisen, korkeakoulujen ja yritysten verkottumisen edistäminen sekä uusien toimintamallien kehittäminen. Hankkeen toimenpiteiden keskiössä ovat erityisesti kasvu- ja kansainvälistymishakuiset PK-yritykset. Hankkeessa toteutettavien Palvelukokeiluhankintojen tavoitteena on tukea uusien kaksikäyttöratkaisujen kehittämistä ja testata niiden soveltuvuutta todellisessa käyttöympäristössä loppuasiakkaiden kanssa.Pyydämme ehdotuksia palvelukokeiluista. Ehdotuksien tulee liittyä yhteen tai useampaan tässä tarjouspyynnössä kuvattuun haasteeseen (Kappale 2 ). Ehdotukset tulee kuvata Kappaleessa 3 kuvatulla tavalla.Palvelukokeilu voi sisältää esimerkiksi ohjelmistoja, laitteistoja, sensoreita, tiedonsiirtoratkaisuja, tekoäly-ratkaisuja, energiajärjestelmiä, autonomisia järjestelmiä, simulointia, digitaalisia kaksosia tai näiden yhdistelmiä. Ratkaisun ei tarvitse olla valmis tuote, mutta sen tulee olla välittömästi kokeiltavissa aidossa käyttöä vastaavassa ympäristössä ja sovitussa laajuudessa (TRL 5 - TRL 7).",
+     "docs_url": "https://www.hankintailmoitukset.fi/fi/public/procurement/111197/notice/160611",
+     "dps": false,
+     "framework": false,
+     "id": 160611,
+     "key": "EF-160611",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [],
+     "main_type": "ContractNotices",
+     "number": "2026-160611",
+     "org": "Tampereen kaupunkiseudun elinkeino- ja kehitysyhtiö Business Tampere Oy",
+     "published": "2026-09-25T17:49:05+03:00",
+     "reasons": [
+      "tekoäly"
+     ],
+     "title": "Kaksikäyttöteknologioihin liittyvät nopeat palvelukokeilut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/0/notice/160611/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79417000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-28T12:00:00+02:00",
+     "desc": "Tietoturva-asiantuntijapalvelut ja Attack Surface Management -palvelu Hankinnan kohteena on tietoturva-asiantuntijapalvelut ja Attack Surface Management (ASM) -palvelu. Hankinnan arvo on arviolta noin 200 000 eur (alv 0 %) vuodessa. \n\nTarjouskilpailun tavoitteena on löytää ammattimainen sopimuskumppani tietoturva-asiantuntijapalveluiden ja Attack Surface Management (ASM) -palvelun toimittajaksi. Kilpailutuksella etsitään palveluiden toimittajaa kolmen (3) vuoden sopimuskaudelle. Varsinaisen sopimuskauden jälkeen VTT:llä on optio jatkaa sopimuksen voimassaoloa yhdellä (1) vuodella.  \n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa.,",
+     "docs_url": "https://tarjouspalvelu.fi/vtt?id=626515&tpk=162ac032-5bbd-4714-898e-787b0d0e88f3",
+     "dps": false,
+     "framework": true,
+     "id": 58004,
+     "key": "EF-58004",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79417000"
+       ],
+       "title": "Tietoturva-asiantuntijapalvelut ja Attack Surface Management -palvelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058004",
+     "org": "Teknologian tutkimuskeskus VTT Oy",
+     "published": "2026-09-27T17:05:05+03:00",
+     "reasons": [
+      "asiantuntijapalvelu"
+     ],
+     "title": "Tietoturva-asiantuntijapalvelut ja Attack Surface Management -palvelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37767/notice/58004/overview",
+     "value": null
+    },
     {
      "corrigendum": false,
      "cpv": [
@@ -37,13 +226,77 @@
      "title": "Short-Term Expert(s) – Telecom Fraud Prevention and Call Authentication (Dominican Republic)",
      "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37543/notice/57633/overview",
      "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-10-14T16:00:00+03:00",
+     "desc": "Lahden seutu – Lahti Region Oy, operating under the name Business Lahti, requests tenders for the planning, implementation and operation of the GEM Accelerator.  The GEM Accelerator is an international business accelerator focusing on the electrification, automation and digitalisation of mobility, transport and logistics. It is established through the Lahti GEM Supercluster project, funded by the European Regional Development Fund through the Helsinki-Uusimaa Regional Council.  The Service includes detailed programme planning, national and international participant scouting, marketing and communications, management of the application and selection processes, implementation of three (3) accelerator batches, participant-specific support, partner and investor engagement, monitoring, reporting and final handover. At least eighteen (18) companies or teams shall be selected for the three batches in total.  The Service is intended for Finnish and international startups, growth companies, research-based teams and potential spin-offs that have progressed beyond the initial idea stage. The primary working language of the Service is English. The Service shall be implemented through a hybrid model, with key in-person activities primarily organised in the Lahti region.  The Agreement period is seventeen (17) months, from 1 November 2026 to 31 March 2028.  The Tenderer shall state a total price for the Service. The total price may not exceed EUR 180,000 excluding VAT and shall include all costs necessary for the performance of the Service. The price will not be scored. Tenders will be compared solely on the basis of quality, with a weight of 100%.  One (1) Supplier will be selected. Tenderers may submit a tender individually or as a consortium. The selected Supplier shall be responsible for the performance of the Service in its entirety, including work performed by consortium members and subcontractors.  The detailed scope, requirements, minimum suitability requirements, quality evaluation criteria and contractual terms are specified in the invitation to tender and its annexes.",
+     "docs_url": "",
+     "dps": false,
+     "framework": false,
+     "id": 160606,
+     "key": "EF-160606",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [],
+     "main_type": "ContractNotices",
+     "number": "2026-160606",
+     "org": "Lahden seutu - Lahti Region Oy",
+     "published": "2026-09-23T15:25:47+03:00",
+     "reasons": [],
+     "title": "IMPLEMENTATION OF THE GEM ACCELERATOR",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/0/notice/160606/overview",
+     "value": 180000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-21T12:00:00+03:00",
+     "desc": "Brand strategies & Communications Platforms for Yle Areena and the Yle app The subject of the procurement is brand strategies and communications platforms for Yle Areena (online streaming service) and the Yle mobile app. \n\nThe objective of the procurement is to appoint a single strategic agency partner to develop brand strategies (stage 1) and long-term communications platforms (stage 2) for both Yle Areena and the Yle app. The work will define what each service stands for, how each is distinctively positioned within Yle’s broader digital service architecture, and how those positions are expressed consistently across all touchpoints over the coming years. Estimated schedule of the project: Yle Areena launches in Q2 2027, and the Yle app in Q3 2027.\n\nAs a result of this tender competition, Yle will select one (1) supplier with whom it is going to sign an agreement with. The agreement shall enter into force upon signature by the contracting partiers, and shall remain in force until the service has been provided in its entirety in an approved manner.\n\nPlease see the material attached (appendixes) and enclosed in the call for tenders.,",
+     "docs_url": "https://tarjouspalvelu.fi/yleisradiooy?id=625088&tpk=7273e76c-d2eb-4d37-b767-c96af7f265b5",
+     "dps": false,
+     "framework": false,
+     "id": 57770,
+     "key": "EF-57770",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Brand strategies & Communications Platforms for Yle Areena and the Yle app"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-057770",
+     "org": "Yleisradio Oy",
+     "published": "2026-09-24T06:05:01+03:00",
+     "reasons": [],
+     "title": "Brand strategies & Communications Platforms for Yle Areena and the Yle app",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37624/notice/57770/overview",
+     "value": null
     }
    ],
    "start": "2026-09-22T00:00:00+03:00"
   }
  },
  "seen": {
-  "EF-57633": "2026-09-22"
+  "EF-160606": "2026-09-22",
+  "EF-160611": "2026-09-22",
+  "EF-57633": "2026-09-22",
+  "EF-57770": "2026-09-22",
+  "EF-57779": "2026-09-22",
+  "EF-57856": "2026-09-22",
+  "EF-57892": "2026-09-22",
+  "EF-58004": "2026-09-22"
  },
- "watermark": "2026-09-22T17:45:32+03:00"
+ "watermark": "2026-09-28T07:45:47+03:00"
 }
