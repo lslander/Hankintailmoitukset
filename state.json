@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-05T11:58:34+03:00",
+ "last_run": "2026-10-12T07:50:01+03:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -575,6 +575,651 @@
     }
    ],
    "start": "2026-09-29T00:00:00+03:00"
+  },
+  "2026-10-06": {
+   "end": "2026-10-12T23:59:59+03:00",
+   "id": "2026-10-06",
+   "label": "6.10.2026 - 12.10.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-09T12:00:00+02:00",
+     "desc": "Pohjois-Pohjanmaan hyvinvointialue (Pohde) kilpailuttaa lakiasiainpalvelut ja valitsee sopimuskumppanit lakiasiainpalveluiden tuottamiseen. Pohde luo hankinnassa kustakin osa-alueesta puitejärjestelyn, jonka sisältö ja toimintamalli on kuvattu tarjouspyynnön liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\". \n\nOsa-alueet ovat:\n\n1. Julkiset hankinnat \n2. Kiinteistö- ja rakentamisoikeus \n3. Yhtiöoikeus \n4. Informaatio-oikeus\n5. Hallinto-oikeus \n6. Sosiaali- ja terveysoikeus \n7. Työ- ja virkaoikeus \n8. Rikosoikeus \n9. Riita-asiat \n10. Muut oikeudenalat \n\nPohteen alla luetellut tytär- ja osakkuusyhteisöt osallistuvat hankintaan. Nämä yhteisöt eivät tee hankinnassa omia puitesopimuksia vaan toimivat Pohteen ja toimittajan välisissä puitesopimuksissa ostajina. Pohde koordinoi myös tytär- ja osakkuusyhteisöjen toimeksiantoja. \n\n- Docta Oy\n- Esko Systems Oy\n- Kiinteistö Oy Medikomppania \n- Kiinteistö Oy Muhoksen Päivärinne \n- Kiinteistö Oy Oulun Heikinharju \n- Medieco Oy\n- Oulun Keskuspesula Oy\n- Oulunkaaren työterveys\n- Pohjois-Suomen Terveydenhuollon Tukisäätiö\n- PPE Köökki\n- PPP Köökki\n- Pohjois-Suomen Sosiaali- ja terveydenhuollon osuuskunta (Tervia)\n- Tervia Logistiikka Oy\n- Tervia Osaajat Oy, 1. Julkiset hankinnat Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 2. Kiinteistö- ja rakentamisoikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 3. Yhtiöoikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 4. Informaatio-oikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 5. Hallinto-oikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 6. Sosiaali- ja terveysoikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 7. Työ- ja virkaoikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 8. Rikosoikeus Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 9. Riita-asiat Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\"., 10. Muut oikeudenalat Osa-alue on kuvattu liitteessä \"Palvelukuvaus ja puitejärjestelyn toimintamalli\".,",
+     "docs_url": "https://tarjouspalvelu.fi/pohjois-pohjanmaanhyvinvointialue?id=604670&tpk=a3db2c7e-a4a2-404f-a6a0-6b284ef63653",
+     "dps": false,
+     "framework": true,
+     "id": 58779,
+     "key": "EF-58779",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "1. Julkiset hankinnat"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "2. Kiinteistö- ja rakentamisoikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "3. Yhtiöoikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "4. Informaatio-oikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "5. Hallinto-oikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "6. Sosiaali- ja terveysoikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "7. Työ- ja virkaoikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "8. Rikosoikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "9. Riita-asiat"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "10. Muut oikeudenalat"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058779",
+     "org": "Pohjois-Pohjanmaan hyvinvointialue",
+     "published": "2026-10-07T06:05:01+03:00",
+     "reasons": [
+      "CPV 79100000",
+      "lakiasiain, yhtiooikeu"
+     ],
+     "title": "Lakiasiainpalvelut 2027-2028",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38245/notice/58779/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73200000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-05T12:00:00+02:00",
+     "desc": "Arviointi Itäisen Suomen elinvoimaisuuden edistämisestä Hankinnan kohteena on arviointi Itäisen Suomen elinvoimaisuuden edistämisestä. Arvioinnissa tarkastellaan, miten Suomen CAP-suunnitelma 2023–2027, Euroopan meri-, kalatalous- ja vesiviljelyrahaston (EMKVR) Suomen ohjelma 2021–2027, EU:n alue- ja rakennepolitiikan ohjelma Uudistuva ja osaava Suomi 2021–2027 sekä Marinin ja Orpon hallitusten itäiseen Suomeen kohdistamat kansalliset toimenpiteet ovat vastanneet alueen muuttuneisiin tarpeisiin sekä edistäneet alueen elinvoimaisuutta. Arvioinnissa tarkastellaan ohjelmien ja toimenpiteiden tuloksellisuutta, vaikuttavuutta ja tarkoituksenmukaisuutta sekä niiden keskinäistä yhteentoimivuutta ja synergioita. Arviointi kohdistuu Etelä-Karjalan, Etelä-Savon, Kainuun, Kymenlaakson, Pohjois-Karjalan ja Pohjois-Savon muodostamaan Itäisen Suomen alueeseen.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä, erityisesti liitteessä 1 \"Hankinnan kohteen kuvaus\".,",
+     "docs_url": "https://tarjouspalvelu.fi/mmm?id=629835&tpk=10a7df38-6b9b-47ed-b173-c81c7ffc4675",
+     "dps": false,
+     "framework": false,
+     "id": 58705,
+     "key": "EF-58705",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73200000"
+       ],
+       "title": "Arviointi Itäisen Suomen elinvoimaisuuden edistämisestä"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058705",
+     "org": "Maa- ja metsätalousministeriö",
+     "published": "2026-10-05T15:39:16+03:00",
+     "reasons": [
+      "arviointi"
+     ],
+     "title": "Arviointi Itäisen Suomen elinvoimaisuuden edistämisestä",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38199/notice/58705/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-30T14:00:00+02:00",
+     "desc": "Tarjouspyyntö perusopetuksen kielimallipilotin selvityksen hankinnasta Hankinnan kohteena on opetus- ja kulttuuriministeriön perusopetuksen kielimallipilotin selvityksen hankinta. \n\nOpetus- ja kulttuuriministeriö käynnistää perusopetuksen kielimallipilotin, jonka kesto ajoittuu syksyn 2026 ja syksyn 2027 välille. Pilotissa suppea määrä opetuksen järjestäjiä kokeilee Sikt AI-ratkaisua perusopetuksessa. Pilotin ensisijainen tarkoitus on kokeilun kautta kerätä tietoa tekoälypalvelun käyttöön liittyvistä teknisistä ja pedagogisista haasteista ja mahdollisuuksista sekä syventää ymmärrystä tekoälyn käytön vaikutuksista opetukseen ja oppimiseen. \n\nTämän hankinnan kohteena on kielimallipilotin selvitys. Pilotin seuranta ja selvitystyö toteutetaan pilotin kanssa samanaikaisesti. Pilotin aikana tämän selvityksen toteuttajat keräävät aineistoa selvitystä varten. Selvityksen menetelminä hyödynnetään opettaja- ja oppilaskyselyitä, haastatteluita ja luokkahuonehavainnointia, opettajien yhteisöllisen kehittämisen työpajojen fokusryhmäkeskusteluja sekä kuullaan niin opettajia, oppilaita kuin opetuksen järjestäjiä. \n\nSelvityksessä painottuvat erityisesti pedagoginen soveltuvuus, opettajien ja oppilaiden osaamistarpeet, opettajien ja oppilaiden käyttökokemus sekä se, millä tavoin käyttö voi tukea opetuksen tavoitteita ja tekoälylukutaidon kehittymistä. Loppuraportissa myös tarkastellaan, mitä hyötyjä ja haittoja Sikt AI:n kaltaisen kielimalliratkaisun laajemmalla pilotoinnilla suomalaisessa perusopetuksessa olisi sekä millaisia vaikutuksia kielimallityökaluilla arvioidaan laajemman tutkimusnäytön perusteella olevan opetukseen, oppimistilanteisiin ja opetusmateriaaleihin. Lisäksi saadaan tietoa opettajien ja oppilaiden osaamisen kehittämisen tarpeista sekä yhteisöllisen osaamisen kehittämisen menetelmien toimivuudesta mahdollista käytön laajentamista varten. Loppuraportissa otetaan kantaa, millaisessa roolissa kielimalliratkaisut ovat olleet opettajan ammatissa pilotin aikana ja mahdollisesti tulevaisuudessa. Tulevia strategisia toimenpidetarpeita arvioidaan pilotista saatujen tietojen varassa.\n\nTavoitteena on, että Tilaaja ja Toimittajan välinen sopimus solmitaan marraskuussa 2026 ja arvioinnin toteuttaminen ja tutkimuslupien haku käynnistyy tämän jälkeen.  Väliraportin tulosten tulee olla Tilaajan käytössä viimeistään 1.6.2027. Loppuraportin tulee olla Tilaajan käytössä loppusyksystä 2027, Tilaaja ja Toimittaja sopivat tarkemman valmistumisajankohdan huhtikuussa 2027. \n\nTässä hankinnassa hankintayksikkönä, hankintapäätöksen ja hankintasopimuksen tekijänä toimii Opetus- ja kulttuuriministeriö (jäljempänä OKM). \n\nHankinnan kohteena olevan palvelun sisältö ja siihen liittyvät vaatimukset on kuvattu tarkemmin tarjouspyynnön liitteessä 1 Hankinnan kohteen kuvaus. Tarjottavan palvelun tulee täyttää kaikki palvelulle asetetut pakolliset vaatimukset, jotta sen voidaan katsoa olevan tarjouspyynnön mukainen.\n\nTilaaja valitsee yhden (1) toimittajan, jonka kanssa se tekee sopimuksen.,",
+     "docs_url": "https://tarjouspalvelu.fi/valtioneuvostonkanslia?id=629236&tpk=32681d89-6ec7-4a07-af77-c555fbab1f0b",
+     "dps": false,
+     "framework": false,
+     "id": 58795,
+     "key": "EF-58795",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Tarjouspyyntö perusopetuksen kielimallipilotin selvityksen hankinnasta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058795",
+     "org": "Opetus- ja kulttuuriministeriö",
+     "published": "2026-10-06T14:04:16+03:00",
+     "reasons": [
+      "selvitys, tekoäly"
+     ],
+     "title": "Tarjouspyyntö perusopetuksen kielimallipilotin selvityksen hankinnasta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38254/notice/58795/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73200000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-06T10:00:00+02:00",
+     "desc": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031) Väyläviraston ja elinvoimakeskusten hankkeissa käytettäville uusiomateriaaleille on tehtävä teknisen soveltuvuuden arviointi. Ohjeen Uusiomateriaalien käyttö väylärakentamisessa mukaan uusiomateriaalien käyttöön Väyläviraston ja elinvoimakeskusten väylähankkeilla tarvitaan joko Väyläviraston yleinen tai hankekohtainen teknisen soveltuvuuden arviointi. Teknisen soveltuvuuden arviointi on väylähankkeen tilaajana asettama vaatimus, jonka tavoitteena on varmistua rakenteiden toimivuudesta ja materiaalien turvallisesta käytöstä.  \n\nVäylävirastossa toimii uusiomateriaalien teknisen soveltuvuuden arvioinneista vastaava asiantuntijaryhmä. Tämä hankinta koskee kyseisen arviointityön tueksi hankittavaa asiantuntijapalvelua vuosille 2027-2029 sekä optiona vuosille 2030 ja 2031.\n\nTyö sisältää ohjeen \"Uusiomateriaalien käyttö väylärakentamisessa\" mukaisiin yleisiin ja hankekohtaisiin teknisen soveltuvuuden arviointeihin liittyvät työt, kuten:\n- yleisten ja hankekohtaisten arviointien tuki ja niihin liittyvä yhteistyö\n- neuvottelut materiaalitoimittajien kanssa\n- arviointipyyntöjen aineistojen läpikäynnit, arviointikirjeen valmistelu sekä arviointien viimeistely ja arkistointi\n- uusiomateriaaliryhmän kokousten valmistelu ja sihteerinä toimiminen\n\nTarjouskilpailun mahdolliset eturistiriidat arvioidaan julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (1379/2016, erityisesti lain 3, 66 ja 81 §) mukaisesti, ottaen huomioon myös tarjoajan alihankkija- ja konsernisuhteet. \n\nPalveluntuottajaksi valitaan yksi toimittaja.\n\nHankinta on kuvattu tässä tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/vayla?id=627971&tpk=99fc2a1f-26b9-4b22-ad16-25a1ebc7bba1",
+     "dps": false,
+     "framework": false,
+     "id": 58805,
+     "key": "EF-58805",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73200000"
+       ],
+       "title": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058805",
+     "org": "Väylävirasto",
+     "published": "2026-10-07T06:05:03+03:00",
+     "reasons": [
+      "asiantuntijapalvelu, arviointi"
+     ],
+     "title": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38261/notice/58805/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-25T12:00:00+02:00",
+     "desc": "Topinojan jätekeskuksen YVA-menettely Lounais-Suomen Jätehuolto Oy (LSJH, myöhemmin myös Tilaaja) pyytää tarjoustanne Topinojan jätekeskuksen muutoshankkeen ympäristövaikutusten arviointimenettelyn (YVA) toteuttamisesta sekä hankkeeseen liittyvästä yleissuunnitelmatasoisesta toimintojen sijoittelusta. \n\nTopinojan jätekeskus sijaitsee Turun Metsämäessä osana Topinpuiston asemakaavoitettua kiertotalousaluetta. LSJH suunnittelee jätekeskuksen toiminnan muutoksia, joihin sisältyy nykyisten toimintojen ja käsittelykapasiteettien muutoksia sekä uusia toimintoja. Keskeisiä suunniteltuja muutoksia ovat muun muassa:\n\n• vastaanotettavien ja käsiteltävien jätemäärien kasvattaminen \n• jätteiden käsittelytoimintojen muutokset\n• sako- ja umpikaivolietteiden vastaanoton ja esikäsittelyn aloittaminen \n• kohonneita haitta-ainepitoisuuksia sisältävien maa-ainesten vastaanotto, välivarastointi, esikäsittely, kuten seulonta sekä  hyödyntäminen\n• suljetun kaatopaikka-alueen tulevien käyttövaihtoehtojen tarkastelu\n\nLupa- ja valvontavirasto on 11.5.2026 antamassaan päätöksessä (LVV-U/21931/2026) katsonut, että Topinojan jätekeskuksen muutoshankkeeseen tulee soveltaa ympäristövaikutusten arviointimenettelyä.   \n\nTämän kilpailutuksen varsinainen tarjouspyyntö on liitteenä 1 Tarjouspyyntö. Hankkeen lähtötiedot, tarjoajalle asetetut vaatimukset, vertailuperusteet sekä muut hankintaa koskevat asiakirjat on esitetty tarjouspyynnön liitteissä. Tarjoajan tulee tutustua huolellisesti kaikkiin tarjouspyyntöasiakirjoihin ja niiden liitteisiin.,",
+     "docs_url": "https://tarjouspalvelu.fi/lsjh?id=631705&tpk=f86d71d6-715f-4c33-a8e7-f9369dea409c",
+     "dps": false,
+     "framework": false,
+     "id": 58953,
+     "key": "EF-58953",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Topinojan jätekeskuksen YVA-menettely"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058953",
+     "org": "Lounais-Suomen Jätehuolto Oy (testijärjestelmä)",
+     "published": "2026-10-07T20:29:42+03:00",
+     "reasons": [
+      "arviointi, vaikutusten arviointi"
+     ],
+     "title": "Topinojan jätekeskuksen YVA-menettely",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38361/notice/58953/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73200000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-10-27T16:15:00+02:00",
+     "desc": "Kompostitarkastusten hyvien käytäntöjen kehittämishankkeen hankinta Hankinnan kohteena on Hankintayksikön Kompostitarkastusten hyvien käytäntöjen kehittämishankkeen hankinta. \n\nTarkemmin hankinnan kohteena on asiantuntijapalvelu, jossa tehtävänä on laatia selvitys kompostitarkastusten nykytilasta sekä opas ja viestintämateriaalia kompostitarkastusten hyvistä käytännöistä. \n\nHanke on tarkoitus toteuttaa yhteistyössä Suomen Kuntaliitto ry:n, kuntien jätehuoltoviranomaisten sekä tarvittavien muiden viranomaisten ja asiantuntijatahojen kanssa. Hankkeessa tulee lisäksi kuulla kotikompostointia harjoittavia asukkaita tarkoituksenmukaisella tavalla. Tiedonkeruussa voidaan hyödyntää esimerkiksi kyselyitä, haastatteluja ja työpajoja. \n\nPalveluntuottaja vastaa hankkeen suunnittelusta, toteutuksesta, sidosryhmäyhteistyöstä, aineiston analysoinnista, raportoinnista sekä hankkeessa tuotettavan oppaan ja muun viestintämateriaalin laatimisesta ja hankkeen tulosten esittelystä yleisö- ja sidosryhmätilaisuuksissa. Materiaali tuotetaan pääasiassa suomenkielisenä, mutta opas laaditaan myös ruotsiksi ja yleistajuinen viestintämateriaali myös ruotsiksi ja englanniksi. Ympäristöministeriö vastaa oppaan julkaisemisesta Ympäristöministeriön julkaisuja -sarjassa.\n\nHankinnan kohteena oleva työ alkaa mahdollisimman pian hankintasopimuksen solmimisen jälkeen ja päättyy viimeistään 30.4.2027. Suomenkielisen oppaan ja viestintämateriaalien tulee olla valmiina viimeistään 31.3.2027. Valtakunnallinen info- tai verkkotilaisuus tulee toteuttaa viimeistään viikolla 14. Muiden tuotosten tulee olla valmiina tai toteutettuna viimeistään 30.4.2027. \n\nTarjouksessa tulee esittää palvelun toteutuksesta vastaava asiantuntija (projektipäällikkö). Projektipäälliköllä tulee olla tukenaan palvelun toteutuksessa riittävä määrä muita asiantuntijoita. \n\nHankintayksikkö on varannut toimeksiannon toteuttamiseen enintään 65 000 euroa (+mahdollinen alv).\n\nHankinnan tarkempi kuvaus on liitteessä 1 (Palvelun kuvaus).\n\nLiitteessä 2 (CV-lomake) ilmoitetut hankinnan kohdetta koskevat vaatimukset ovat pakollisia vaatimuksia. Tarjottavan palvelun tulee täyttää kaikki palvelulle asetetut pakolliset vaatimukset, jotta sen voidaan katsoa olevan tarjouspyynnön mukainen.\n\nHankintayksikkö valitsee yhden (1) toimittajan, jonka kanssa se tekee sopimuksen.,",
+     "docs_url": "https://tarjouspalvelu.fi/ymparistoministerio?id=630936&tpk=c790f3f5-13b4-49e9-9fc7-2cf97e1bafcd",
+     "dps": false,
+     "framework": false,
+     "id": 58962,
+     "key": "EF-58962",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73200000"
+       ],
+       "title": "Kompostitarkastusten hyvien käytäntöjen kehittämishankkeen hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058962",
+     "org": "Ympäristöministeriö",
+     "published": "2026-10-08T08:44:40+03:00",
+     "reasons": [
+      "asiantuntijapalvelu, selvitys"
+     ],
+     "title": "Kompostitarkastusten hyvien käytäntöjen kehittämishankkeen hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38367/notice/58962/overview",
+     "value": 65000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-09T12:00:00+02:00",
+     "desc": "Pohjois-Karjalan hankintatoimi pyytää antamaan tarjouksen maahanmuuttajan kotoutumiskoulutuksista, monikielisistä yhteiskuntaorientaatioista sekä osaamisen ja kotoutumisen palvelutarpeen arvioinneista sopimuskaudelle 1.1.2027 - 31.12.2028 + yhden (1) + yhden (1) vuoden optiomahdollisuus. \n\nHankinnan kohteena on kotoutumiskoulutusten järjestäminen lähitoteutuksena Joensuussa, Lieksassa ja Kiteellä. Hankintaan sisältyy myös monikielinen yhteiskuntaorientaatio sekä osaamisen ja kotoutumisen palvelutarpeen arviointi. \n\nPalvelun tulee täyttää Euroopan unionin suoraan velvoittavien säädösten, Suomen lakien ja asetusten sekä viranomaisten antamat määräykset.\n\nTarjous on sitova ja se tulee laatia suomen kielellä. Hankintaprosessi on kokonaisuudessaan suomenkielinen., 1 Monikielinen yhteiskuntaorientaatio Osa-aluetta koskevat vaatimukset on esitetty tarkemmin tarjouspyynnössä ja sen liitteissä., 2 Osaamisen ja kotoutumisen palvelutarpeen arviointi Osa-aluetta koskevat vaatimukset on esitetty tarkemmin tarjouspyynnössä ja sen liitteissä., 3 Kotoutumiskoulutus lähitoteutuksena, Joensuu Osa-aluetta koskevat vaatimukset on esitetty tarkemmin tarjouspyynnössä ja sen liitteissä., 4 Kotoutumiskoulutus lähitoteutuksena, Kitee Osa-aluetta koskevat vaatimukset on esitetty tarkemmin tarjouspyynnössä ja sen liitteissä., 5 Kotoutumiskoulutus lähitoteutuksena, Lieksa Osa-aluetta koskevat vaatimukset on esitetty tarkemmin tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/jns?id=628247&tpk=ed6d2f76-9f60-4f74-91fc-050ad96c1458",
+     "dps": false,
+     "framework": false,
+     "id": 58976,
+     "key": "EF-58976",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "1 Monikielinen yhteiskuntaorientaatio"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "2 Osaamisen ja kotoutumisen palvelutarpeen arviointi"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "3 Kotoutumiskoulutus lähitoteutuksena, Joensuu"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "4 Kotoutumiskoulutus lähitoteutuksena, Kitee"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "5 Kotoutumiskoulutus lähitoteutuksena, Lieksa"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058976",
+     "org": "Pohjois-Karjalan hankintatoimi",
+     "published": "2026-10-09T05:05:03+03:00",
+     "reasons": [
+      "arviointi, koulutus"
+     ],
+     "title": "Maahanmuuttajien kotoutumiskoulutus, monikielinen yhteiskuntaorientaatio sekä osaamisen ja kotoutumisen palvelutarpeen arviointi, Pohjois-Karjalan työllisyysalue",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38376/notice/58976/overview",
+     "value": 4000000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-09T12:00:00+02:00",
+     "desc": "Varhaiskasvatuksen opettajan  rekrytoiva työvoimakoulutus yhteishankintana kasvatustieteen kandidaateille ja maistereille Helsingin, Espoo-Kauniaisen, Vantaan, Tampereen seudun, Turun ja Oulun seudun työllisyysalueet (myöhemmin C6-työvoimaviranomaiset / Tilaaja / Tilaajat) hankkivat yhteistyössä rekrytoivana työvoimakoulutuksena järjestettäviä erillisiä varhaiskasvatuksen opettajan opintoja yhteishankintana. Hankittavat opinnot järjestetään työvoimapalveluiden järjestämisestä annetun lain (380/2023, 61–62 §) mukaisena työvoimaviranomaisena järjestämänä ammatillista osaamista ja valmiuksia lisäävänä työvoimakoulutuksena, joka toteutetaan yhteishankintana. \n\nKyseessä on julkisista hankinnoista ja käyttöoikeuksista annetun lain 1397/2016 (hankintalain) liitteen E mukainen hankinta. \n\nHankittavan koulutuksen opiskelijavalinnassa, opetuksen järjestämisessä ja koulutuksen hallinnoinnissa sovelletaan lakia työvoimapalveluiden järjestämisestä (380/2023) ja yliopistolakia (558/2009) sekä edellä mainittuja lakeja täsmentäviä asetuksia. Lakien ja asetusten yhteensovittamisesta neuvotellaan tarvittaessa erikseen Tilaajan ja valitun Toimittajan kanssa. \n\nTavoite  \n\nKoulutuksen tavoitteena on koulutukseen osallistuvien nopea työllistäminen varhaiskasvatuksen opettajan tehtäviin. Opintojen suunniteltu kesto on noin 14–16 kuukautta ja opintojen laajuus n. 70–75 opintopistettä. \n\nSuoritettavat opinnot järjestetään monimuotototeutuksena. Opinnot sisältävät enintään 2–5 lähiopetusjaksoa, joihin tulee sisältyä yhteensä enintään 10 lähiopetuspäivää. Opintoihin sisältyvä lähiopetus tulee järjestää opintojen alkupuolella. Lähiopetuksen lisäksi opinnot sisältävät reaaliaikaista ja aikaisintaan klo 16 alkavaa etäopetusta, itsenäistä opiskelua ja ryhmätöitä sekä käytännön työssäoppimista ja harjoittelua varhaiskasvatusyksikössä. \n\nHankittavat opinnot ovat yliopistojen tutkinnoista ja erikoistumiskoulutuksista annetun valtioneuvoston asetuksen (794/2004, 19–20 §) mukaiset varhaiskasvatuksen tehtäviin ja esiopetukseen ammatillisia valmiuksia antavat opinnot, jotka suoritetaan erillisinä opintoina. Pilottiin valittavien henkilöiden opiskeluoikeus rajoittuu ainoastaan hankinnan kohteena oleviin erillisiin opintoihin. Hankittavat erillisopinnot tuottavat yhdessä soveltuvan taustatutkinnon kanssa (vähintään kasvatustieteen kandidaatti) kelpoisuuden varhaiskasvatuksen opettajan tehtävään (Varhaiskasvatuslaki 540/2018, 26 §). \n\nTavoitteena on, että koulutukseen osallistuvat työttömät ja työttömyysuhan alaiset kasvatustieteen kandidaatit/maisterit työllistyvät varhaiskasvatuksen työtehtäviin n. 3–4 kuukauden opintojen jälkeen ja suorittavat opinnot loppuun määräaikaisessa työsuhteessa. Mikäli opintoihin osallistuu C6-kaupunkien varhaiskasvatuksessa määräaikaisessa työsuhteessa valmiiksi olevia henkilöitä, tulee heidän olla mahdollista suorittaa opinnot kokonaisuudessaan töidensä ohessa. Kelpoisuuden saavutettuaan koulutukseen osallistuvat voidaan vakinaistaa C6-kaupunkien varhaiskasvatukseen. \n\nTarkemmin koulutus kuvataan liitteessä 1, Hankinnan kohteen kuvaus. \n\nSopimuskausi on voimassa 1.1.2027-31.12.2030. Sopimukseen sisältyy mahdollisuus koulutuksen uudelleentoteutukseen / -toteutuksiin, mikäli C6-työllisyysalueet katsovat sille olevan tarvetta ensimmäisen toteutuksen jälkeen. Mahdollisista uusintatoteutuksista ja niiden laajuudesta tilaajat sopivat valitun palveluntuottajan kanssa.  Hinnat ovat kiinteät koko sopimuskauden aikana.  \n\nHankinnan ennakoidun kokonaisarvon jakautuminen C6-työllisyysalueiden kesken perustuu kaupunkikohtaisiin arvioituihin opiskelijamääräkiintiöihin.\n\nMaksuehdoista ja hinnoista  on määrätty tarkemmin sopimusluonnoksella liitteellä 2, keskeiset sopimusehdot.\n\nTilaaja ei sitoudu tiettyihin hankintamääriin sopimuskauden aikana.,",
+     "docs_url": "https://tarjouspalvelu.fi/heltyollisyyspalvelut?id=622760&tpk=41371294-0ea8-475f-aa5c-6b9f88fd622a",
+     "dps": false,
+     "framework": false,
+     "id": 59071,
+     "key": "EF-59071",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Varhaiskasvatuksen opettajan  rekrytoiva työvoimakoulutus yhteishankintana kasvatustieteen kandidaateille ja maistereille"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059071",
+     "org": "Helsingin työllisyyspalvelut",
+     "published": "2026-10-09T06:05:05+03:00",
+     "reasons": [
+      "koulutus"
+     ],
+     "title": "Varhaiskasvatuksen opettajan  rekrytoiva työvoimakoulutus yhteishankintana kasvatustieteen kandidaateille ja maistereille",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38436/notice/59071/overview",
+     "value": 1000000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79410000",
+      "79414000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-29T12:00:00+02:00",
+     "desc": "Rauman kaupungin rekrytointi- ja soveltuvuusarviointipalveluiden puitejärjestely sopimuskaudelle 2027–2028 (2029) (2030) Rauman kaupunki pyytää tarjouksia rekrytoinnin ja soveltuvuusarviointien palveluista tässä tarjouspyynnössä kuvatun mukaisesti.\n\nRauman kaupunki on noin 1 600 henkilön työnantaja, jossa rekrytoidaan vuosittain asiantuntijoita, esihenkilöitä ja johtoa erilaisiin tehtäviin neljällä eri toimialalla ja kahdessa liikelaitoksessa. Rekrytointitarpeet vaihtelevat sekä määrältään että sisällöltään, minkä vuoksi tulevalta palvelulta odotetaan joustavuutta, skaalautuvuutta ja kykyä mukautua erilaisiin tilanteisiin. Samalla on tärkeää, että palvelu tukee päätöksentekoa ja tuo rekrytointiin ennakoitavuutta ja laatua.\n\nKilpailutettava palvelukokonaisuus muodostuu erilaisista palvelupaketeista, jotka kattavat sekä laajemmat rekrytointikokonaisuudet että yksittäiset palvelut.\n\nMääritellyt palvelupaketit sisältävät esimerkiksi:\n- kokonaisvastuullisia rekrytointipalveluita\n- soveltuvuusarviointeja osana rekrytointiprosessia\n- erillisiä haastattelu- ja arviointipalveluita tilaajan omien rekrytointien tueksi\n- kevyempiä, pääosin digitaalisesti toteutettavia arviointiratkaisuja\n\nPalvelupaketteja hyödynnetään joustavasti eri rekrytointitilanteissa. Palvelun tulee tukea sekä laajoja rekrytointiprosesseja että yksittäisiä arviointitarpeita ja toimia sujuvasti osana tilaajan omaa rekrytointia. Soveltuvuusarviointien tulee tuottaa selkeää, luotettavaa ja käytännössä hyödynnettävää tietoa hakijoiden soveltuvuudesta eri tehtäviin sekä tukea päätöksentekoa tehtävän vaativuuden mukaisesti.\n\nPalvelukokonaisuuden kehittämisessä korostuvat tulevaisuudessa erityisesti sujuvat ja ennakoitavat rekrytointi- ja arviointiprosessit, selkeä työnjako tilaajan ja palveluntuottajan välillä sekä toimiva raportointi. Lisäksi keskeisiä näkökulmia ovat hakijakokemus, työnantajakuva sekä palvelun kustannustehokas ja joustava toteutus eri rekrytointitilanteissa.\n\nPerustettavaan puitejärjestelyyn valitaan kaksi (2) palveluntuottajaa. Sopimuskausi on kaksi (2) vuotta, ja siihen sisältyy kaksi (2) tilaajan harkinnan mukaan käyttöönotettavaa yhden (1) vuoden optiokautta. Hankinnan ennakoitu arvo koko neljän (4) vuoden enimmäissopimuskaudelle on 200 000 euroa (alv 0 %). Hankintayksikkö ei sitoudu tiettyyn hankintamäärään tai -arvoon, vaan palveluja tilataan todellisen tarpeen mukaisesti.\n\nKyseessä on hankintalain (1397/2016) 42 §:n mukainen puitejärjestely.,",
+     "docs_url": "https://tarjouspalvelu.fi/rauma?id=626889&tpk=72e2420c-dcee-42e3-ab9e-47a075e60bc7",
+     "dps": false,
+     "framework": true,
+     "id": 59209,
+     "key": "EF-59209",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79410000",
+        "79414000"
+       ],
+       "title": "Rauman kaupungin rekrytointi- ja soveltuvuusarviointipalveluiden puitejärjestely sopimuskaudelle 2027–2028 (2029) (2030)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059209",
+     "org": "Rauman kaupunki",
+     "published": "2026-10-09T15:21:22+03:00",
+     "reasons": [
+      "arviointi, rekrytoin"
+     ],
+     "title": "Rauman kaupungin rekrytointi- ja soveltuvuusarviointipalveluiden puitejärjestely sopimuskaudelle 2027–2028 (2029) (2030)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/34695/notice/59209/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-09T11:00:00+02:00",
+     "desc": "Turun kaupungin hankintapalvelut pyytää Business Turku Oy:n toimeksiannosta tarjouksia talous- ja palkkahallinnon palveluista sekä työajanseurantaratkaisusta ajalle 1.1.2027 - 31.12.2030, jonka jälkeen sopimus jatkuu toistaiseksi voimassa olevana.\n\nHankinnan kohde on kuvattu hankinta-asiakirjoissa.\n\nValitaan yksi (1) palveluntuottaja.\n\nHankinnan valmisteluvaiheessa tehtiin markkinakartoitus, joka toteutettiin julkaisemalla HILMAssa tietopyyntö 18.9.2026. Tietopyyntö oli avoin kaikille kiinnostuneille tarjoajille, ja siihen saatiin kolme vastausta. Saatuja vastauksia hyödynnettiin hankinnan kohteen, vähimmäisvaatimusten, sopimusehtojen ja kilpailutuksen aikataulun valmistelussa. Markkinakartoitus toteutettiin avoimuuden ja tasapuolisen kohtelun periaatteita noudattaen.\n\nHankinnan jakaminen osiin ei ole tilaajan tarpeiden näkökulmasta katsottuna mahdollista, koska jakaminen johtaisi palveluiden kannalta hallitsemattomaan tilanteeseen, jota ei palvelun kriittisyyden vuoksi olisi mahdollista koordinoida turvallisesti säilyttäen samalla palvelun toimivuus. Jakaminen tuottaisi palveluprosesseihin sekä osapuolten vastuisiin ja vastuiden seurantaan merkittäviä haasteita. Hankinnan sopimushallinta tulisi teknisesti erittäin raskaaksi ja kalliiksi, ja jakaminen vaarantaisi sopimuksen asianmukaisen seurannan. Sopimuksen jakaminen osiin heikentäisi merkittävästi myös kilpailutuksella saatavia volyymihyötyjä, koska hankinta voisi jakautua usealle toimittajalle heikentäen sopimuksen arvoa ja sen kiinnostavuutta yksittäiselle toimittajalle., Talous- ja palkkahallinnon palvelut Hankinta on kuvattuna tässä tarjouspyynnössä ja sen liitteissä., OPTIO - Työajanseurantaratkaisu Hankinta on kuvattuna tässä tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/turku?id=629985&tpk=e9a33a3d-5724-4f47-813d-28f4877b59c2",
+     "dps": false,
+     "framework": false,
+     "id": 59096,
+     "key": "EF-59096",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Talous- ja palkkahallinnon palvelut"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "OPTIO - Työajanseurantaratkaisu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059096",
+     "org": "Business Turku Oy Ab",
+     "published": "2026-10-11T10:05:01+03:00",
+     "reasons": [
+      "kuvauksessa: sopimushallin"
+     ],
+     "title": "Business Turku Oy:n talous- ja palkkahallinnon palvelut  sekä työajanseurantaratkaisu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38453/notice/59096/overview",
+     "value": 300000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73111000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-12T12:00:00+02:00",
+     "desc": "Hankinnan kohteena on laboratoriopalveluiden hankinta (elintarvike-, vesi- ja ympäristönäytteiden näytteenotto-, kuljetus- ja tutkimuspalvelut) Vantaan kaupungin eri toimialoille ja kaupungin enemmistöosuudella omistamille yhtiöille: \n\n- Kiinteistö Oy Pakkalankuja 11\n- Hakopolun Liikekiinteistö Oy \n- Kiinteistö Oy Vantaan Helikopteritukikohta \n- Korson Pienteollisuustalo Oy \n- Kiinteistö Oy Tiedepuisto \n- Kiinteistö Oy Hakucenter\n- Kiinteistö Oy Tikkurilan Terveysasema\n- Pallastunturin Liikekiinteistö Oy \n- Kiinteistö Oy Lehdokkitien Virastotalo \n- Kiinteistö Oy Vantaan Maakotkantie 10 \n- Kiinteistö Oy Korson Toimistokeskus \n- Ruukkukujan Autopaikat Oy \n- VTK Kiinteistöt Oy \n- Vantaan Tilapalvelut Vantti Oy\n\nSopimustoimittaja voi tarjota samoin ehdoin palvelujaan Vantaan kaupungin seuraaville konsernitoimijoille: Vivamus \nKiinteistöt Oy, VanPark Oy ja Kiinteistö Oy Vantaan Sote tilat.\n\nHankinta on jaettu osiin seuraavasti:\nOsa-alue 1. Uimaranta-, vesistö-, allas- ja talousvesi\nOsa-alue 2. Elintarvike\nOsa-alue 3. Maaperä ja sedimentti\n\nTarkempi kuvaus hankinnan kohteesta on tarjouspyynnön liitteissä 2.1 - 2.3 (Palvelukuvaukset).\n\nJokaiseen osa-alueeseen valitaan yksi (1) palveluntuottaja.\n\nSopimus on voimassa määräaikaisena kaksi (2) vuotta, jonka jälkeen sopimus jatkuu toistaiseksi voimassa olevana. \n\nMikäli sama palveluntuottaja tulee valituksi useammalle kuin yhdelle (1) osa-alueelle, yhdistetään kaikki ko. palveluntuottajan voittamat osa-alueet samalle sopimukselle., Uimaranta-, vesistö-, allas- ja talousvesi Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.1 Palvelukuvaus uimaranta-, vesistö-, allas- ja talousvesi., Elintarvike Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.2 Palvelukuvaus elintarvike., Maaperä ja sedimentti Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.3 Palvelukuvaus maaperä ja sedimentti.,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=607053&tpk=3b9fd310-efd9-4cb2-8554-4a8e437a5522",
+     "dps": false,
+     "framework": false,
+     "id": 59142,
+     "key": "EF-59142",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Uimaranta-, vesistö-, allas- ja talousvesi"
+      },
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Elintarvike"
+      },
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Maaperä ja sedimentti"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059142",
+     "org": "Vantaan kaupunki",
+     "published": "2026-10-11T10:05:03+03:00",
+     "reasons": [
+      "tutkimuspalvelu"
+     ],
+     "title": "Laboratoriopalveluiden hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38484/notice/59142/overview",
+     "value": 742000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "80411100"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-10-27T12:00:00+02:00",
+     "desc": "Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta.\nHankinta on jaettu joukko-osastojen mukaan 12 eri osa-alueeseen. Tarjoaja voi jättää tarjouksen yhteen, useampaan tai kaikkiin osa-alueisiin. Hankintapäätökset tehdään osa-aluekohtaisesti (joukko-osastoittain), minkä vuoksi hankinnassa voidaan valita useita eri toimittajia. Tarjouskilpailun perusteella solmitaan liitteen 2 mukainen Puitesopimus  valitun toimittajan tai valittujen toimittajien kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. Palvelua suoritetaan Puolustusvoimien joukko-osastoissa sekä Pääesikunnan erikseen  määrittelemillä paikkakunnilla.\nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteista ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnössä ilmoitettuihin  hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nPuitejärjestelyn arvoon lasketaan yhteen kaikki sen perusteella solmittavat Puitesopimukset. Puitejärjestelyn arvioitu arvo on noin 1,25M€ alv.0%. \nPuitejärjestely päättyy, mikäli edellä esitetty puitejärjestelyn enimmäisarvo tulee täyteen tai sopimuskausi päättyy., Jääkäriprikaati, Sodankylä ja Rovaniemi Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Jääkäriprikaatissa Sodankylässä ja Rovaniemellä.\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteista ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Kainuun prikaati, Kajaani Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Kainuun prikaatissa, Kajaanissa.\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Porin prikaati,    Säkylä, Kankaanpää, Turku, Pori ja Huittinen Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Porin prikaatissa:    Säkylä, Kankaanpää, Turku, Pori ja Huittinen\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteista ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enim-mäisarvo on 1 250.000,00 €, alv 0 %., Ilmasotakoulu, Tikkakoski ja Jyväskylä Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Ilmasotakoulussa: Tikkakoski ja Jyväskylä.\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteista ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Satakunnan lennosto, Pirkkala ja Tampere Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Satakunnan lennostossa: Pirkkala ja Tampere  Tarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Panssariprikaati,  Hämeenlinna ja Riihimäki Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Panssariprikaatissa:  Hämeenlinna ja Riihimäki\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Karjalan prikaati, Kouvola Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Karjalan prikaatissa: Kouvola. \nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteista ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Utin jääkärirykmentti, Utti ja Kouvola Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Utin jääkärirykmenttissä: Utti ja Kouvola\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Maasotakoulu, Lappeenranta, Hamina ja Kotka Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Maasotakoulussa: Lappeenranta, Hamina ja Kotka\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja er-tyislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Uudenmaan prikaati,  Tammisaari Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Uudenmaan prikaatissa:  Tammisaari\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Rannikkoprikaati, Kirkkonummi ja Espoo Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Rannikkoprikaatissa: Kirkkonummi ja Espoo\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %., Kaartin jääkärirykmentti, Helsinki ja Vantaa Puolustusvoimat pyytää tarjoustanne Puolustusvoimien  A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanottamisesta sekä niihin liittyvien palvelutehtävien suorittamisesta Kaartin jääkärirykmenttissä: Helsinki ja Vantaa\nTarjouskilpailun perusteella solmitaan liitteen 2 mukainen sopimus  valitun toimittajan kanssa.\nSuunniteltu sopimuskausi on tarkoitus saada voimaan 1.1.2027 ja sopimus tehdään 31.12.2029 asti. \nAsiakkaalla on lisäksi oikeus jatkaa sopimusta enintään kahden (2) vuoden pituisella optiokaudella.\n\nKokeet vastaanotetaan Tilaajan osoittamalla ja hallinnoimalla ajoneuvokalustolla. \nPalvelun tuottamisessa on noudatettava Suomen lainsäädäntöä ja erityislainsäädäntöä, kuten Liikenne- ja viestintäviraston (Traficom) määräyksiä sekä Puolustusministeriön asetusta puolustusvoimien ajokorteis-ta ja ajoluvista (23/2013) sekä Puolustusvoimien määräyksiä. \nHankintaan sisältyvät kaikki näiden säädösten edellyttämät esitarkastus-, kirjaus-, raportointi- ja dokumentointitoimenpiteet sekä muut välttämättömät viranomais- ja palvelutehtävät.\n\nTarjouspyynnöllä on eritelty hankintamäärät / vuosi joukko-osastoittain. Hankintamäärät ovat arvioita, jotka  vaihtelevat vuoden mittaan varusmiesten saapumiserien ja koulutustarpeiden mukaan. Asiakas ei sitoudu tarjouspyynnöllä annettuihin hankintamääriin, eikä tarkkoja vuosittaisia hankintamääriä pystytä etukäteen antamaan.\n\nTämä Puitesopimus kuuluu Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen 2027-2029 Puitejärjestelyyn. \nKaikkien puitejärjestelyyn kuuluvien Puitesopimuksien arvioitu enimmäisarvo on 1 250.000,00 €, alv 0 %.,",
+     "docs_url": "https://tarjouspalvelu.fi/pvlogl?id=623590&tpk=96ab461d-ac24-409c-8c98-9fb5ff784072",
+     "dps": false,
+     "framework": false,
+     "id": 59161,
+     "key": "EF-59161",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Jääkäriprikaati, Sodankylä ja Rovaniemi"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Kainuun prikaati, Kajaani"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Porin prikaati,    Säkylä, Kankaanpää, Turku, Pori ja Huittinen"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Ilmasotakoulu, Tikkakoski ja Jyväskylä"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Satakunnan lennosto, Pirkkala ja Tampere"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Panssariprikaati,  Hämeenlinna ja Riihimäki"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Karjalan prikaati, Kouvola"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Utin jääkärirykmentti, Utti ja Kouvola"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Maasotakoulu, Lappeenranta, Hamina ja Kotka"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Uudenmaan prikaati,  Tammisaari"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Rannikkoprikaati, Kirkkonummi ja Espoo"
+      },
+      {
+       "cpv": [
+        "80411100"
+       ],
+       "title": "Kaartin jääkärirykmentti, Helsinki ja Vantaa"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059161",
+     "org": "Puolustusvoimien logistiikkalaitos",
+     "published": "2026-10-11T14:05:04+03:00",
+     "reasons": [
+      "koulutus"
+     ],
+     "title": "Puolustusvoimien kuljettajantutkintojen käsittely- ja ajokokeiden vastaanottaminen sekä niihin liittyvien palvelutehtävien suorittaminen vuosina 2027-2029 A-, BE-, C1-, C1E-, PVC-, CE- ja D -luokkien käsittely- ja ajokokeiden vastaanotto",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/36934/notice/59161/overview",
+     "value": 1250000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-06T12:00:00+02:00",
+     "desc": "Kulunvalvontajärjestelmän hankinta Hankinnan kohteena on kulunvalvontajärjestelmä tarjouspyynnön ja sen liitteiden mukaisesti. Sopimuskumppaniksi valitaan yksi (1) Toimittaja.\n\nSopimuskauden pituus: Sopimus on voimassa määräaikaisena kaksi (2) vuotta sopimuksen allekirjoituksesta, jonka jälkeen sopimus jatkuu automaattisesti toistaiseksi voimassa olevana.\n\nValitulla toimittajalla ei ole yksinoikeutta hankinnan kohteena olevien palveluiden toimittamiseen. \n\nSopimuksen perusteella hankintoja voivat tehdä myös Tilaajan seuraavat konserniyhtiöt:\n- VTK-Kiinteistöt Oy\n- Vivamus Kiinteistöt Oy\n- Vantaan tilapalvelut Vantti Oy,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=615146&tpk=9b7233ac-ace8-40d2-b148-e74cb62dfd45",
+     "dps": false,
+     "framework": false,
+     "id": 58784,
+     "key": "EF-58784",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Kulunvalvontajärjestelmän hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058784",
+     "org": "Vantaan kaupunki",
+     "published": "2026-10-07T06:05:02+03:00",
+     "reasons": [],
+     "title": "Kulunvalvontajärjestelmän hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38248/notice/58784/overview",
+     "value": 600000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-02T16:00:00+02:00",
+     "desc": "Imatran Seutukunnan ElinvoimaHUB - monitoimijaverkoston brändi, visuaalinen identiteetti sekä viestintästrategia ja -suunnitelma Asiantuntijakonsulttipalvelu, jonka tuloksena Imatran Seutukunnan ElinvoimaHUB-monitoimijaverkostolle laaditaan yhtenä kokonaisuutena brändi ja visuaalinen identiteetti (brändin perusta, logo, visuaalinen ilme, ohjeisto, materiaalipohjat, ekyrityspalvelut.fi-sivuston visuaalinen ilme) sekä viestintästrategia ja käytännön viestintäsuunnitelma vuosikelloineen ja sisältökonsepteineen. Hankinta toteutetaan osana AKKE-rahoitteista ElinvoimaHUB-hanketta. Toteutus joulukuu 2026 – toukokuu 2027.,",
+     "docs_url": "https://www.hankintailmoitukset.fi/fi/public/procedure/37951/enotice/58320",
+     "dps": false,
+     "framework": false,
+     "id": 58320,
+     "key": "EF-58320",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Imatran Seutukunnan ElinvoimaHUB - monitoimijaverkoston brändi, visuaalinen identiteetti sekä viestintästrategia ja -suunnitelma"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-058320",
+     "org": "Imatran Seudun Kehitysyhtiö Oy",
+     "published": "2026-10-08T10:09:34+03:00",
+     "reasons": [],
+     "title": "Imatran Seutukunnan ElinvoimaHUB - monitoimijaverkoston brändi, visuaalinen identiteetti sekä viestintästrategia ja -suunnitelma",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37951/notice/58320/overview",
+     "value": null
+    }
+   ],
+   "start": "2026-10-06T00:00:00+03:00"
   }
  },
  "seen": {
@@ -591,9 +1236,23 @@
   "EF-58064": "2026-09-29",
   "EF-58211": "2026-09-29",
   "EF-58218": "2026-09-29",
+  "EF-58320": "2026-10-06",
   "EF-58418": "2026-09-29",
   "EF-58543": "2026-09-29",
-  "EF-58546": "2026-09-29"
+  "EF-58546": "2026-09-29",
+  "EF-58705": "2026-10-06",
+  "EF-58779": "2026-10-06",
+  "EF-58784": "2026-10-06",
+  "EF-58795": "2026-10-06",
+  "EF-58805": "2026-10-06",
+  "EF-58953": "2026-10-06",
+  "EF-58962": "2026-10-06",
+  "EF-58976": "2026-10-06",
+  "EF-59071": "2026-10-06",
+  "EF-59096": "2026-10-06",
+  "EF-59142": "2026-10-06",
+  "EF-59161": "2026-10-06",
+  "EF-59209": "2026-10-06"
  },
- "watermark": "2026-10-05T11:58:34+03:00"
+ "watermark": "2026-10-12T07:50:01+03:00"
 }
