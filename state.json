@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-12T07:50:01+03:00",
+ "last_run": "2026-10-19T08:05:40+03:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -1220,6 +1220,388 @@
     }
    ],
    "start": "2026-10-06T00:00:00+03:00"
+  },
+  "2026-10-13": {
+   "end": "2026-10-19T23:59:59+03:00",
+   "id": "2026-10-13",
+   "label": "13.10.2026 - 19.10.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79132100"
+     ],
+     "currency": "",
+     "deadline": "2026-11-13T12:00:00+02:00",
+     "desc": "EUDI-pääsyvarmentajan palveluiden hankinta Liikenne- ja viestintävirasto Traficom (jatkossa myös \"Traficom\" tai \"hankintayksikkö\") on Liikenne- ja viestintäministeriön hallinnonalalla toimiva keskushallinnon virasto. Traficom on palveleva liikenteen ja viestinnän lupa-, rekisteri- ja valvontaviranomainen. Virasto edistää liikennejärjestelmän toimivuutta ja turvallisuutta sekä vauhdittaa digiyhteiskunnan kehittymistä. Se tukee kestävää kehitystä ja huolehtii, että Suomessa on käytettävissä laadukkaat, turvalliset ja kohtuuhintaiset viestintäyhteydet ja -palvelut. Liikenne- ja viestintävirastoon ja sen toimintaan voi laajemmin tutustua osoitteessa www.traficom.fi.\n\nHankinnan kohteena  on EUDI-pääsyvarmentajan palvelut. Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteellä 1 (Hankinnan kohteen kuvaus).,",
+     "docs_url": "https://tarjouspalvelu.fi/traficom?id=617179&tpk=28108291-7541-4748-a6de-541f313063c1",
+     "dps": false,
+     "framework": false,
+     "id": 59413,
+     "key": "EF-59413",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79132100"
+       ],
+       "title": "EUDI-pääsyvarmentajan palveluiden hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059413",
+     "org": "Liikenne- ja viestintävirasto",
+     "published": "2026-10-14T06:05:07+03:00",
+     "reasons": [
+      "CPV 79132100"
+     ],
+     "title": "EUDI-pääsyvarmentajan palveluiden hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/32352/notice/59413/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-02T15:00:00+02:00",
+     "desc": "Kohti työtä ja ammattia -kotoutumiskoulutus Tampereen kaupunki pyytää tarjouksia tämän tarjouspyynnön ja sen liitteiden mukaisesti. Kilpailutuksella hankitaan työvoimapalveluiden järjestämisestä annetun lain (380/2023) ja kotoutumisen edistämisestä annetun lain (681/2023) mukaista kotoutumiskoulutusta.  Avoimella menettelyllä valitaan yksi palveluntuottaja, jonka kanssa tehdään toistaiseksi voimassa oleva hankintasopimus. Hankittavan palvelun sisältö on kuvattu tarkemmin tarjouspyynnön liitteenä olevassa palvelukuvauksessa. Tarjouspyynnön liitteet löytyvät kohdasta Tarjouspyynnön liitteet. Hankittavan palvelun ennakoitu arvo ylittää julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (hankintalaki 1397/2016) 25 §:n mukaisen kynnysarvon liitteen E hankinnoille, joten kilpailutuksessa sovelletaan hankintalakia. Hankintayksikkö valitsee tarjouksista kokonaistaloudellisesti edullisimman. Kokonaistaloudellisen edullisuuden perusteet (arviointikriteerit) on esitetty tässä tarjouspyynnössä.,",
+     "docs_url": "https://toimittaja-asiointi.tampere.fi",
+     "dps": false,
+     "framework": false,
+     "id": 59347,
+     "key": "EF-59347",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Kohti työtä ja ammattia -kotoutumiskoulutus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059347",
+     "org": "Tampereen kaupunki",
+     "published": "2026-10-14T06:05:03+03:00",
+     "reasons": [
+      "kuvauksessa: hankintalaki"
+     ],
+     "title": "Kohti työtä ja ammattia -kotoutumiskoulutus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/35843/notice/59347/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-09T15:00:00+02:00",
+     "desc": "Startti työelämään- kotoutumiskoulutus Tampereen kaupunki pyytää tarjouksia tämän tarjouspyynnön ja sen liitteiden mukaisesti. Kilpailutuksella hankitaan työvoimapalveluiden järjestämisestä annetun lain (380/2023) ja kotoutumisen edistämisestä annetun lain (681/2023) mukaista kotoutumiskoulutusta.  Avoimella menettelyllä valitaan yksi palveluntuottaja, jonka kanssa tehdään toistaiseksi voimassa oleva hankintasopimus. Hankittavan palvelun sisältö on kuvattu tarkemmin tarjouspyynnön liitteenä olevassa palvelukuvauksessa. Tarjouspyynnön liitteet löytyvät kohdasta Tarjouspyynnön liitteet. Hankittavan palvelun ennakoitu arvo ylittää julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (hankintalaki 1397/2016) 25 §:n \nmukaisen kynnysarvon liitteen E hankinnoille, joten kilpailutuksessa sovelletaan hankintalakia. Hankintayksikkö valitsee tarjouksista kokonaistaloudellisesti edullisimman. Kokonaistaloudellisen edullisuuden perusteet (arviointikriteerit) on esitetty tässä tarjouspyynnössä.,",
+     "docs_url": "https://toimittaja-asiointi.tampere.fi",
+     "dps": false,
+     "framework": false,
+     "id": 59387,
+     "key": "EF-59387",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Startti työelämään- kotoutumiskoulutus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059387",
+     "org": "Tampereen kaupunki",
+     "published": "2026-10-14T06:05:06+03:00",
+     "reasons": [
+      "kuvauksessa: hankintalaki"
+     ],
+     "title": "Startti työelämään- kotoutumiskoulutus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/35851/notice/59387/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000",
+      "79414000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-13T12:00:00+02:00",
+     "desc": "Talous- ja henkilöstöhallinnon palvelut ja järjestelmät HANKINNAN KOHDE\n\nHankinnan kohteena ovat talous- ja henkilöstöhallinnon palvelut ja järjestelmät  tarjouspyynnössä ja sen liitteissä määritellyn mukaisesti.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä, erityisesti liitteessä 1 \"Hankinnan kohteen kuvaus\".\n\nSOPIMUSKAUSI\n\nPääsopimus on voimassa toistaiseksi. Katso myös tarjouspyynnön liitteenä A olevan pääsopimuksen luku 4.\n\nToimitussopimus on voimassa, kunnes kaikki toimitukseen kuuluvat työt on tehty, ratkaisu on hyväksytysti vastaanotettu ja mahdollinen takuuaika on päättynyt. Ks. liitteenä 7 olevan toimitussopimuksen luvut 3 ja 16.\n\nPalvelusopimuksen voimassaolo on sidottu pääsopimuksen voimassaoloon. Ks. liitteenä 7 olevan toimitussopimuksen luku 11.\n\nHANKINNAN LAAJUUS\n\nHankinnan arvioitu arvo neljälle (4) vuodelle on 1 100 000 euroa. Hankinnan laajuus on kuvattu tarjouspyynnön liitteessä 1 \"Hankinnan kohteen kuvaus\".\n\nPalvelujen osuuden hankinnan laajuudesta arvioidaan olevan 700 000 € ja järjestelmien osuuden hankinnan laajuudesta arvioidaan olevan 400 000 €. Erikseen tilattavien palveluiden osuuden hankinnan laajuudesta arvioidaan olevan vähäinen. Ilmoitetut arvot eivät sido tilaajaa sopimuskaudella.,",
+     "docs_url": "https://tarjouspalvelu.fi/palkane?id=628960&tpk=e1079add-78a6-4fad-9784-c3e9d419100b",
+     "dps": false,
+     "framework": false,
+     "id": 59398,
+     "key": "EF-59398",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000",
+        "79414000"
+       ],
+       "title": "Talous- ja henkilöstöhallinnon palvelut ja järjestelmät"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059398",
+     "org": "Pälkäneen kunta",
+     "published": "2026-10-14T06:05:07+03:00",
+     "reasons": [
+      "henkilöstöhallinn"
+     ],
+     "title": "Talous- ja henkilöstöhallinnon palvelut ja järjestelmät",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/30408/notice/59398/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79414000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-16T12:00:00+02:00",
+     "desc": "Tämän hankinnan kohteena ovat VTT:n rekrytointiprosessia tukevat suorahakupalvelut. Palveluilla tuetaan VTT:n vaativia rekrytointiprosesseja Suomessa ja myös kansainvälisesti (rekrytoinnit ulkomailta Suomeen). \n\nHankinta on jaettu kahteen osakokonaisuuteen:\n1. Ylemmän johdon suorahakupalvelut (osakokonaisuus 1) \n2. Kevytsuorahaku (osakokonaisuus 2)\n\nEhdokas voi jättää osallistumishakemuksensa yhteen tai molempiin osakokonaisuuksiin.\n\nToimittajan toteuttaman palvelun avulla VTT:n on mahdollista löytää avoimeen työtehtävään motivoitunut ja ammattitaitoinen henkilö tai henkilöitä (osakokonaisuus 1) tai kiinnostuneita ja ammattitaitoisia henkilöitä VTT:n itse toteuttamaan rekrytointiprosessiin (osakokonaisuus 2).\n\nHankinnan kohde on kuvattu tarkemmin osallistumispyynnössä ja sen liitteissä., Osakokonaisuus 1: Ylemmän johdon suorahakupalvelut Osakokonaisuudessa 1 hankinnan kohteena on VTT:n ylimmän johdon, tyypillisesti johtoryhmän jäsenien ja muiden johtajien suorahakupalvelut. Johtoryhmätason tehtävillä tarkoitetaan esimerkiksi Executive Vice President (EVP), Senior Vice President (SVP), Chief Financial Officer (CFO) tai muita vastaavan vaatimus- ja vastuullisuustason tehtäviä. Muiden johtajien tehtävillä tarkoitetaan johtoryhmätason henkilölle suoraan raportoiva henkilö (esim. VP-tason roolit).\n\nTarjouskilpailun tavoitteena on löytää ammattimaiset sopimuskumppanit rekrytointiprosessia tukevien suorahakupalveluiden korkealaatuiseen toteuttamiseen. VTT valitsee sopimuskumppaniksi osakokonaisuuteen 1 neljä (4) toimittajaa. Sama toimittaja voi valikoitua hankinnan osakokonaisuuteen 1 ja osakokonaisuuteen 2.\n\nKilpailutuksella etsitään palveluiden toimittajia kahden (2) vuoden sopimuskaudelle. Varsinaisen sopimuskauden jälkeen VTT:llä on optio jatkaa sopimuksen voimassaoloa kahdella vuodella yksi vuosi kerrallaan (1+1). Tavoitteena on, että sopimukset tulevat voimaan ja palvelutoiminta alkaa helmi-maaliskuussa 2027. \n\nOsakokonaisuuden 1 ”Ylemmän johdon suorahakupalvelut” hankinnan ennakoitu enimmäisarvo sopimuskautena on 400 000 euroa. Enimmäisarvo sopimuskautena tarkoittaa osakokonaisuuden 1 kokonaisostoja yhteensä kaikilta puitesopimustoimittajilta. \n\nHankinnan kohde on kuvattu tarkemmin osallistumispyynnössä ja sen liitteissä., Osakokonaisuus 2: Kevytsuorahaku Osakokonaisuudessa 2 hankinnan kohteena on tyypillisesti VTT:n keskijohdon ja asiantuntijoiden rekrytoinnin tuki ehdokaskartoituksessa ja kontaktoinnissa eli ns. kevytsuorahaku. Palveluun kuuluu ehdokasmarkkinakartoitus, ehdokkaiden kontaktointi ja puhelinhaastattelut, hakijoiden esittely VTT:n palkkaavalle esihenkilölle ja rekrytointivastaavalle sekä hylkäyspuhelut. \n\nTarjouskilpailun tavoitteena on löytää ammattimaiset sopimuskumppanit rekrytointiprosessia tukevien suorahakupalveluiden korkealaatuiseen toteuttamiseen. VTT valitsee sopimuskumppaniksi osakokonaisuuteen 2 kolme (3) toimittajaa. Sama toimittaja voi valikoitua hankinnan osakokonaisuuteen 1 ja osakokonaisuuteen 2.\n\nKilpailutuksella etsitään palveluiden toimittajia kahden (2) vuoden sopimuskaudelle. Varsinaisen sopimuskauden jälkeen VTT:llä on optio jatkaa sopimuksen voimassaoloa kahdella vuodella yksi vuosi kerrallaan (1+1). Tavoitteena on, että sopimukset tulevat voimaan ja palvelutoiminta alkaa helmi-maaliskuussa 2027.\n\nOsakokonaisuuden 2 ”Kevytsuorahaku” hankinnan ennakoitu enimmäisarvo sopimuskautena on 200 000 euroa. Enimmäisarvo sopimuskautena tarkoittaa osakokonaisuuden 2 kokonaisostoja yhteensä kaikilta puitesopimustoimittajilta. \n\nHankinnan kohde on kuvattu tarkemmin osallistumispyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/vtt?id=628044&tpk=8f1bd56f-9807-4bb8-9b5a-1381a24961c5",
+     "dps": false,
+     "framework": true,
+     "id": 59587,
+     "key": "EF-59587",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79414000"
+       ],
+       "title": "Osakokonaisuus 1: Ylemmän johdon suorahakupalvelut"
+      },
+      {
+       "cpv": [
+        "79414000"
+       ],
+       "title": "Osakokonaisuus 2: Kevytsuorahaku"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059587",
+     "org": "Teknologian tutkimuskeskus VTT Oy",
+     "published": "2026-10-16T06:05:04+03:00",
+     "reasons": [
+      "rekrytoin"
+     ],
+     "title": "Rekrytointiprosessia tukevat suorahakupalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38758/notice/59587/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79410000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-13T12:00:00+02:00",
+     "desc": "ostolaskujen ALV-data-analyysipalvelun hankinta Hankinnan kohteena on arvonlisäverotukseen liittyvä data-analyysi- ja asiantuntijapalvelu, jonka tarkoituksena on arvioida ostolaskujen arvonlisäverokäsittelyn oikeellisuutta, tunnistaa kehittämismahdollisuuksia sekä tukea hyvinvointialueen talous- ja veroprosessien kehittämistä. Palvelu sisältää aineistojen analysointia, raportointia ja asiantuntijakonsultointia.\n\nTämä hankinta sisältää vuosien 2024, 2025 ja 2026 vuosien tarkastamisen.,",
+     "docs_url": "https://tarjouspalvelu.fi/khshp?id=631086&tpk=a09168e5-115f-438f-8d4b-66ef9a2c6770",
+     "dps": false,
+     "framework": false,
+     "id": 59638,
+     "key": "EF-59638",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79410000"
+       ],
+       "title": "ostolaskujen ALV-data-analyysipalvelun hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059638",
+     "org": "Kanta-Hämeen hyvinvointialue",
+     "published": "2026-10-18T09:05:01+03:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "ostolaskujen ALV-data-analyysipalvelun hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38784/notice/59638/overview",
+     "value": 96000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-03T12:00:00+02:00",
+     "desc": "Suomen Pankki ja Finanssivalvonnan esihenkilöiden valmennusohjelma Suomen Pankki (jäljempänä ”tilaaja” tai ”hankintayksikkö”) pyytää tarjousta Hilma-ilmoituskanavassa julkaistun hankintailmoituksen ja sen liitteiden mukaisesti esihenkilöiden valmennusohjelman toteutuksesta ja siihen liittyvistä lisätöistä (jäljempänä ”palvelu”).\n\nHankinnan kohde ja sitä koskevat vaatimukset on kuvattu yksityiskohtaisesti hankintailmoituksen liitteissä.\n\nSopimus ei muodosta tilaajalle määräostovelvoitetta tai Toimittajalle yksinoikeutta tuottaa palvelua. \n\nKilpailutuksen perusteella valitaan yksi toimittaja.,",
+     "docs_url": "https://tarjouspalvelu.fi/suomenpankki?id=631733&tpk=13093750-61ab-4c50-82ec-e5af1fae70a4",
+     "dps": false,
+     "framework": false,
+     "id": 59674,
+     "key": "EF-59674",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Suomen Pankki ja Finanssivalvonnan esihenkilöiden valmennusohjelma"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059674",
+     "org": "Suomen Pankki",
+     "published": "2026-10-18T13:05:04+03:00",
+     "reasons": [
+      "valmennus"
+     ],
+     "title": "Suomen Pankki ja Finanssivalvonnan esihenkilöiden valmennusohjelma",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38805/notice/59674/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-09T12:00:00+02:00",
+     "desc": "Short-term Expert providing technical assistance and support to the development of a generic digital transformation strategy framework and change management guide for the ATAF Innovation Hub HAUS Finnish Institute of Public Management Ltd implements this procurement on behalf of the African-Finnish Partneships on Taxation and Digital Transformations (AFP-TDT) project. The African-Finnish Partnerships on Taxation and Digital Transformations (AFP-TDT) is a programme funded by the Ministry for Foreign Affairs of Finland (MFA Finland) and implemented by HAUS Finnish Institute of Public Management Ltd (HAUS) over the period 2026–2029. The programme supports the strengthening of domestic resource mobilisation in Africa through the development of digital tax administration capacity, in partnership with the African Tax Administration Forum (ATAF) and other stakeholders.\n\nThis procurement concerns the engagement of one STE to strengthen the ATAF PMO and Innovation Hub's institutional capacity to guide member tax administrations through digital transformation, by providing them with a reusable strategic framework and practical change management guidance. \n\nThe specific objective is to develop, in close collaboration with ATAF PMO/Innovation Hub staff, a generic digital transformation strategy framework and an accompanying change management guide that ATAF can apply, and support member tax administrations to apply, across different national contexts, in support of ATAF's ITAS (Integrated Tax Administration System) procurement and technology governance work. \n\nThe tenderer shall indicate the proposed daily remuneration rate in the Budget Form (Appendix A). Most secondment-related costs, including daily remuneration, per diem, flights, and accommodation, will be covered by HAUS. Further details are provided in the Terms of Reference (ToR).,",
+     "docs_url": "https://tarjouspalvelu.fi/hausoy?id=632296&tpk=f7efd66e-0009-415e-addd-ab2e6d6a129f",
+     "dps": false,
+     "framework": false,
+     "id": 59346,
+     "key": "EF-59346",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79400000"
+       ],
+       "title": "Short-term Expert providing technical assistance and support to the development of a generic digital transformation strategy framework and change management guide for the ATAF Innovation Hub"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059346",
+     "org": "HAUS kehittämiskeskus Oy",
+     "published": "2026-10-13T10:07:33+03:00",
+     "reasons": [],
+     "title": "Short-term Expert providing technical assistance and support to the development of a generic digital transformation strategy framework and change management guide for the ATAF Innovation Hub",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38623/notice/59346/overview",
+     "value": 150000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-12T12:00:00+02:00",
+     "desc": "Technical Assistance for the development, coordination & governance of Ghana’s innovation ecosystem The Africa–Europe Digital Innovation Bridge (AEDIB) supports cooperation between African and European partners to promote innovation, investment, entrepreneurship and job creation through digital and green transformation. Ghana is one of the participating African countries. Under the MEST–AEDIB collaboration, the parties have prepared a workplan to strengthen Ghana’s science, technology and innovation (STI) ecosystem through policy development, institutional reform, broad stakeholder participation and technical validation.\n\nThe present procurement concerns the workstreams identified in the workplan:\nGhana’s STI and research-commercialization ecosystem includes MEST, the Ghana National Research Fund, the Council for Scientific and Industrial Research, the Ministry of Communication, Digital Technology and Innovations, universities and research institutes, technology transfer offices, industry and investors. The Ghana Innovation and Research Commercialization Centre is intended to facilitate commercialization and create standards and processes for technology transfer across this ecosystem, but presently lacks a statutory mandate, a sufficiently defined coordination role and sustainable funding arrangements. \n\nThe assignment shall therefore clarify institutional responsibilities, interfaces and accountabilities across the three workstreams:\n1. Ghana Research Commercialization Policy: a coherent national framework for moving publicly funded and other research outputs through intellectual-property protection, validation, financing, technology transfer and market adoption, while strengthening collaboration among research institutions, industry, investors and government.\n2. Ghana Science and Technology Development Agency Bill: a legally and institutionally sound draft bill establishing the proposed agency and its mandate, governance and operating framework.\n3. PACSTI operationalization: practical support to establish effective governance, operating procedures, meeting arrangements and follow-up mechanisms for the Presidential Advisory Council on Science, Technology and Innovation.,",
+     "docs_url": "https://tarjouspalvelu.fi/hausoy?id=631706&tpk=10fcb6a9-3bdb-4869-a65a-d9047faceb81",
+     "dps": false,
+     "framework": false,
+     "id": 59530,
+     "key": "EF-59530",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Technical Assistance for the development, coordination & governance of Ghana’s innovation ecosystem"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059530",
+     "org": "HAUS kehittämiskeskus Oy",
+     "published": "2026-10-14T20:02:12+03:00",
+     "reasons": [],
+     "title": "Technical Assistance for the development, coordination & governance of Ghana’s innovation ecosystem",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38721/notice/59530/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-24T23:45:00+02:00",
+     "desc": "Kansallinen ilmastoriski- ja haavoittuvuustarkastelu Maa- ja metsätalousministeriö (”hankintayksikkö”) vastaa ilmastonmuutokseen sopeutumistyön koordinoinnista valtioneuvostotasolla. Ministeriö vastaa kansallisen ilmastonmuutokseen sopeutumissuunnitelman ja sen taustamateriaalien (ml. kansallisen ilmastoriski- ja haavoittuvuustarkastelun) valmistelusta ilmastolain mukaisesti. Maa- ja metsätalousministeriön tarkoituksena on hankkia valtakunnallisen ilmastoriski- ja haavoittuvuustarkastelun suunnittelu, toteutus ja raportointi. Riski- ja haavoittuvuustarkastelun tulosten tulisi olla käytettävissä, kun kansallisen sopeutumissuunnitelman valmistelu aloitetaan seuraavan vaalikauden alussa. Kansallisen ilmastoriski- ja haavoittuvuustarkastelun valmistelun tavoitteena on saada parhaaseen käytettävissä olevaan tietoon perustuva käsitys Suomeen kohdistuvista ilmasto-riskeistä ja haavoittuvuuksista sekä vahvistaa yhteyttä riskien ja haavoittuvuuksien arvioinnin ja sopeutumispolitiikan suunnittelun välillä. Tarkastelun tulee tukea nykyistä vahvemmin sopeutumistoimien kohdentamista niihin riskeihin, vaikutuksiin ja haavoittuvuuksiin, joiden arvioidaan olevan merkittävimpiä suomalaiselle yhteiskunnalle. Samalla tarkastelun tulisi tunnistaa uusia tai tarkentaa tietoa aiemmin tunnistetuista riskeistä sekä kuvata mahdollisia tietopuutteita. Ilmastolaki edellyttää alueellista tarkastelua tarpeen mukaan.\n\nHankinnan kohde on kuvattu liitteessä 1 Hankinnan kohteen kuvaus.,",
+     "docs_url": "https://www.hankintailmoitukset.fi/fi/public/procedure/37198/enotice/59454",
+     "dps": false,
+     "framework": false,
+     "id": 59454,
+     "key": "EF-59454",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Kansallinen ilmastoriski- ja haavoittuvuustarkastelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059454",
+     "org": "Maa- ja metsätalousministeriö",
+     "published": "2026-10-15T06:05:00+03:00",
+     "reasons": [],
+     "title": "Kansallinen ilmastoriski- ja haavoittuvuustarkastelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37198/notice/59454/overview",
+     "value": 175000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-10-26T12:00:00+02:00",
+     "desc": "Brand strategies & Communications Platforms for Yle Areena and the Yle app The subject of the procurement is brand strategies and communications platforms for Yle Areena (online streaming service) and the Yle mobile app. \n\nThe objective of the procurement is to appoint a single strategic agency partner to develop brand strategies (stage 1) and long-term communications platforms (stage 2) for both Yle Areena and the Yle app. The work will define what each service stands for, how each is distinctively positioned within Yle’s broader digital service architecture, and how those positions are expressed consistently across all touchpoints over the coming years. Estimated schedule of the project: Yle Areena launches in Q2 2027, and the Yle app in Q3 2027.\n\nAs a result of this tender competition, Yle will select one (1) supplier with whom it is going to sign an agreement with. The agreement shall enter into force upon signature by the contracting partiers, and shall remain in force until the service has been provided in its entirety in an approved manner.\n\nPlease see the material attached (appendixes) and enclosed in the call for tenders.,",
+     "docs_url": "https://tarjouspalvelu.fi/yleisradiooy?id=625088&tpk=7273e76c-d2eb-4d37-b767-c96af7f265b5",
+     "dps": false,
+     "framework": false,
+     "id": 59559,
+     "key": "EF-59559",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Brand strategies & Communications Platforms for Yle Areena and the Yle app"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059559",
+     "org": "Yleisradio Oy",
+     "published": "2026-10-16T05:05:03+03:00",
+     "reasons": [],
+     "title": "Brand strategies & Communications Platforms for Yle Areena and the Yle app",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37624/notice/59559/overview",
+     "value": null
+    }
+   ],
+   "start": "2026-10-13T00:00:00+03:00"
   }
  },
  "seen": {
@@ -1252,7 +1634,18 @@
   "EF-59096": "2026-10-06",
   "EF-59142": "2026-10-06",
   "EF-59161": "2026-10-06",
-  "EF-59209": "2026-10-06"
+  "EF-59209": "2026-10-06",
+  "EF-59346": "2026-10-13",
+  "EF-59347": "2026-10-13",
+  "EF-59387": "2026-10-13",
+  "EF-59398": "2026-10-13",
+  "EF-59413": "2026-10-13",
+  "EF-59454": "2026-10-13",
+  "EF-59530": "2026-10-13",
+  "EF-59559": "2026-10-13",
+  "EF-59587": "2026-10-13",
+  "EF-59638": "2026-10-13",
+  "EF-59674": "2026-10-13"
  },
- "watermark": "2026-10-12T07:50:01+03:00"
+ "watermark": "2026-10-19T08:05:40+03:00"
 }
