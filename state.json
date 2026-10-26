@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-19T08:05:40+03:00",
+ "last_run": "2026-10-26T12:23:48+02:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -1602,6 +1602,509 @@
     }
    ],
    "start": "2026-10-13T00:00:00+03:00"
+  },
+  "2026-10-20": {
+   "end": "2026-10-26T23:59:59+02:00",
+   "id": "2026-10-20",
+   "label": "20.10.2026 - 26.10.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79111000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-24T12:00:00+02:00",
+     "desc": "Valtiontukioikeudelliset asiantuntijapalvelut Pyydämme tarjoustanne Lahden kaupungille tehtävistä valtiontukioikeudellisista asiantuntijapalveluista. Hankinnan kohteena ovat valtiontukiarviointeihin liittyvät laki- ja asiantuntijapalvelut, kuten markkinataloustoimijaperiaatteen (MEOP) mukaiset arvioinnit, markkinaehtoisuusarvioinnit sekä muut valtiontukioikeudelliset selvitykset, lausunnot ja asiantuntija-arviot.\n\nPalveluiden tarkoituksena on tuottaa Lahden kaupungin omistajaohjauksen sekä muun kaupungin päätöksenteon tueksi luotettavaa, riippumatonta ja asiantuntevaa arviointitietoa valtiontukisääntelyn näkökulmasta.\n\nTavoitteena on muodostaa puitejärjestely 3+1v alkaen 1.1.2027, jonka kokonaisarvo on noin 200 000€. \n\nTilaaja ei sitoudu mihinkään tiettyihin ostomääriin sopimuskaudella.,",
+     "docs_url": "https://tarjouspalvelu.fi/lahti?id=630438&tpk=b54302d0-a7cb-46d7-8595-0bcae50e92a1",
+     "dps": false,
+     "framework": true,
+     "id": 59966,
+     "key": "EF-59966",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79111000"
+       ],
+       "title": "Valtiontukioikeudelliset asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059966",
+     "org": "Lahden kaupunki",
+     "published": "2026-10-22T06:05:04+03:00",
+     "reasons": [
+      "CPV 79111000",
+      "oikeudelli"
+     ],
+     "title": "Valtiontukioikeudelliset asiantuntijapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38973/notice/59966/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "73000000",
+      "79418000",
+      "79111000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-05T16:00:00+02:00",
+     "desc": "Asiantuntijapalvelut rajat ylittävään lentoliikenteen hankintaan  Tausta ja hankeyhteys\nFAIR 3 - Enabling cross-border aviation procurement on Interreg Aurora -hanke, joka toteutetaan 1.6.2026-31.12.2027. Sen yleisenä tavoitteena on kehittää yhteinen kehys, joka mahdollistaa rajat ylittävän yhteistyön alueellisten lentoliikennepalvelujen hankinnassa ja rahoittamisessa Pohjois-Ruotsissa, Suomessa ja Norjassa. FAIR 3 -hankkeessa selvitetään oikeudellisia ja hallinnollisia edellytyksiä, kerätään markkinatietoa, tunnistetaan sovellettavissa olevia eurooppalaisia käytäntöjä sekä luodaan käytännöllisiä hankinta-, kustannustenjako- ja skenaariotyökaluja kuntien, alueviranomaisten, lentoasemien ja muiden toimivaltaisten julkisten toimijoiden käyttöön.Hankittava toimeksianto auttaa ratkaisemaan tunnistetun oikeudellisen ja hallinnollisen esteen, joka johtuu siitä, ettei rajat ylittävälle alueellisten lentoliikennepalvelujen hankinnalle ole oikeudellisesti varmaa ja käytännössä sovellettavaa kehystä. Tämän sopimuksen nojalla kehitettävät kehykset ja mallit on suunniteltava kuntien, alueviranomaisten, lentoasemien ja muiden hankealueen toimivaltaisten julkisten toimijoiden käytännön käyttöön.,",
+     "docs_url": "https://www.hankintailmoitukset.fi/fi/public/procedure/37692/enotice/60204",
+     "dps": false,
+     "framework": false,
+     "id": 60204,
+     "key": "EF-60204",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000",
+        "79418000",
+        "79111000"
+       ],
+       "title": "Asiantuntijapalvelut rajat ylittävään lentoliikenteen hankintaan"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060204",
+     "org": "Merenkurkun neuvosto - Eurooppalainen alueellisen yhteistyön yhtymä;Kvarkenrådet - Europeisk gruppering för territoriellt samarbete",
+     "published": "2026-10-23T14:37:13+03:00",
+     "reasons": [
+      "CPV 79111000"
+     ],
+     "title": "Asiantuntijapalvelut rajat ylittävään lentoliikenteen hankintaan",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37692/notice/60204/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-19T15:00:00+02:00",
+     "desc": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus HANKINNAN TAUSTA\n\nStrateginen suunta kohti vuotta 2030\n\nBusiness Finlandin Strategia 2030:n keskeisenä tavoitteena on saavuttaa julkishallinnon paras asiakaskokemus sekä kasvattaa Business Finlandin vaikuttavuutta suomalaisen elinkeinoelämän uudistumisessa, kasvussa ja kansainvälistymisessä. Tavoitteen saavuttaminen edellyttää siirtymistä nykyisistä osittain manuaalisista, reaktiivisista ja asiantuntijariippuvaisista toimintamalleista kohti tietojohtoista, ennakoivaa ja skaalautuvaa asiakasohjausta.\n\nDigitalisaation tavoitteena ei ole yksinomaan järjestelmien kehittäminen tai teknologian käyttöönotto, vaan toimintatapojen, prosessien ja kyvykkyyksien kokonaisvaltainen uudistaminen. Business Finland haluaa hyödyntää dataa, analytiikkaa ja tekoälyä asiakkaidensa tunnistamisessa, ohjaamisessa ja palvelemisessa sekä vapauttaa asiantuntijoidensa aikaa tausta- tai rutiinitehtävistä vaikuttavampaan asiakastyöhön.\n\nSamanaikaisesti tavoitteena on vahvistaa asiakkaiden kuuntelemista ja asiakasymmärryksen hyödyntämistä osana palveluiden, toimintamallien ja asiakkuuksien kehittämistä. Asiakaskokemusta, asiakasohjauksen vaikuttavuutta sekä palveluiden käyttöä seurataan ja mitataan systemaattisesti, jotta toimintaa voidaan jatkuvasti kehittää tiedolla johdetusti.\n\nTransformaation onnistumista arvioidaan muun muassa seuraavilla mittareilla:\n\n•\tasiakaskokemus ja asiakkaiden suosittelu\n•\tasiakasohjauksen osuvuus\n•\tpalveluihin ohjautuminen\n•\tpalveluiden käyttöaste\n•\tasiakastarpeiden tunnistamisen onnistuminen\n•\tasiakasaktivoinnin vaikuttavuus\n•\tasiakkuuksien kehitys ja palveluiden hyödyntäminen\n•\tasiantuntijatyön tehokkuus ja automaation hyödyntäminen\n•\tdatan, analytiikan ja tekoälyn hyödyntämisen aste\n•\tBusiness Finlandin strategisten tavoitteiden toteutumista tukevat vaikuttavuusmittarit.\n\n\nNykytilan haasteet ja tarve muutokselle\n\nBusiness Finland on toteuttanut datalla johdetun asiakasohjauksen esiselvityksen, jonka yhteydessä on tunnistettu useita nykytilan kehityskohteita ja pullonkauloja. Näiden ratkaisemiseksi tarvitaan pitkäjänteinen kehittämiskumppani tukemaan organisaation muutosta.\n\nKeskeiset tunnistetut haasteet ovat:\n\n1.\tTiedon hajanaisuus ja rajallinen asiakasymmärrys: Asiakkaisiin, markkinoihin, palveluihin, asiointiin, vuorovaikutukseen ja verkostoihin liittyvä tieto on hajautunut useisiin järjestelmiin, tietovarantoihin ja ulkoisiin tietolähteisiin. Tämän vuoksi organisaatiolla ei ole yhtenäistä ja ajantasaista näkymää asiakkaisiin, asiakkaiden tarpeisiin, potentiaaliin, palveluiden käyttöön, asiointihistoriaan eikä asiakkuuden nykytilaan. Tämä vaikeuttaa asiakkaiden tunnistamista, kohdentamista, priorisointia sekä oikea-aikaista palveluohjausta.\n\n2.\tProaktiivisuuden puute ja AI-avusteisen asiakasohjauksen rajallinen hyödyntäminen: Business Finlandilta puuttuu systemaattinen kyvykkyys tunnistaa, priorisoida ja ohjata oikeat asiakkaat oikeisiin palveluihin oikeaan aikaan. AI-avusteisen analytiikan, kohdentamisen ja palveluohjauksen hyödyntäminen on vielä rajallista, mikä heikentää asiakasohjauksen vaikuttavuutta ja skaalautuvuutta.\n\n3.\tManuaalinen asiakasohjaus ja asiantuntijoiden tunnistaminen: Asiakkaiden tarpeiden yhdistäminen oikeisiin palveluihin, asiantuntijoihin, verkostoihin ja ekosysteemeihin perustuu nykyisin pitkälti manuaaliseen tiedonhakuun ja yksittäisten asiantuntijoiden kokemukseen. Organisaatiolta puuttuu AI-avusteinen kyvykkyys tunnistaa asiakkaan tilanteeseen parhaiten soveltuvat palvelut, asiantuntijat ja yhteistyömahdollisuudet sekä tukea asiantuntijoita oikea-aikaisilla suosituksilla. Tämä hidastaa palveluprosessia, vaikeuttaa tiedon hyödyntämistä ja heikentää asiakasohjauksen skaalautuvuutta.\n\nTavoitetila: Datalla johdetun ja AI-avusteisen asiakasohjauksen malli\n\nPitkän aikavälin visiona on rakentaa yhtenäiseen asiakaskuvaan, datalähtöiseen päätöksentekoon, tekoälyavusteiseen asiakasohjaukseen sekä moderniin data- ja AI-kyvykkyyteen perustuva toimintamalli. Tavoitteena on muodostaa kokonaisvaltainen näkymä asiakkaisiin, heidän tarpeisiinsa, potentiaaliinsa, asiointiinsa ja palveluiden käyttöön sekä hyödyntää tätä tietoa asiakkaiden tunnistamisessa, ohjaamisessa ja kehittämisessä.\n\nTavoitetilassa asiakkaan polku jakautuu kolmeen vaiheeseen, joiden digitaalista kyvykkyyttä Toimittajan tulee tukea kehittämään:\n\n1. Tunnista & tavoita\n\nHyödynnämme sisäisiä ja ulkoisia tietolähteitä tunnistaaksemme uusia potentiaalisia kasvuyrityksiä sekä ennakoidaksemme asiakkaiden tarpeita. Asiakkaille kohdennetaan oikea-aikaisesti heidän tilanteeseensa sopivia palveluita, sisältöjä, tapahtumia ja yhteydenottoja datan, analytiikan ja AI-avusteisen kohdentamisen avulla.\n\n2. Palvele & ratkaise\n\nAutamme asiakkaita löytämään heidän tilanteeseensa parhaiten soveltuvat palvelut, rahoitusinstrumentit, asiantuntijat, verkostot ja kansainvälistymismahdollisuudet. AI-avusteinen asiakasohjaus tukee tarpeiden tunnistamista, asiantuntijoiden työtä, palveluiden suosittelua sekä asiakkaiden ohjautumista tarkoituksenmukaisiin palvelupolkuihin.\n\n3. Seuraa & syvennä\n\nHyödynnämme tietoa asiakkaiden kehityksestä, palveluiden käytöstä ja asiointihistoriasta asiakkuuksien jatkuvaan kehittämiseen. Ennakoimme asiakkaiden tulevia tarpeita ja suosittelemme proaktiivisesti seuraavia palveluita, verkostoja, ohjelmia ja kehittämispolkuja asiakkaan kasvun, kansainvälistymisen ja vaikuttavuuden tukemiseksi.\n\nTämän vuoksi Business Finland etsii kumppania, joka ei ainoastaan toimita teknistä koodia tai arkkitehtuurikuvauksia, vaan kykenee viemään muutoksen läpi kaikilla tasoilla: luomassa arvoa tuottavia käyttötapauksia, rakentamassa vankkaa kyvykkyysperustaa, uudistamassa organisaation yhteistä kieltä ja operointimallia sekä johtamassa kulttuurista muutosta ja asiantuntijoiden datalukutaitoa.,",
+     "docs_url": "https://tarjous.bidi.fi",
+     "dps": false,
+     "framework": false,
+     "id": 59761,
+     "key": "EF-59761",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059761",
+     "org": "Business Finland Oy",
+     "published": "2026-10-20T06:05:10+03:00",
+     "reasons": [
+      "asiantuntijatyö, tekoäly, digitalisaatio"
+     ],
+     "title": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37564/notice/59761/overview",
+     "value": 1500000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-20T12:00:00+02:00",
+     "desc": "Talous- ja henkilöstöhallinnon kokonaispalvelu Kuntien Hankintapalvelut KuHa Oy (jäljempänä Hankintayksikkö) on Kangasalan, Lempäälän, Nokian, Oriveden, Pirkkalan, Vesilahden, Ylöjärven omistama hankintaosakeyhtiö, joka on hankintalain 4 §:n tarkoittama yhteishankintayksikkö. \n\nHankintayksikkö kilpailuttaa tällä tarjouspyynnöllä talous- ja henkilöstöhallinnon kokonaispalvelun SaaS-palveluna Kangasalan ja Oriveden kaupungeille sekä Hämeenkyrön, Lempäälän, Pirkkalan ja Vesilahden kunnille (jäljempänä Tilaaja). \n\nHankinta sisältää palvelukokonaisuuden toteuttamisen, siihen liittyvät tietojärjestelmät, käyttöönottoprojektit sekä palvelun jatkuvan ylläpidon, tuen ja kehittämisen. Hankinnan tarkka sisältö, laajuus, vaatimukset, vertailuperusteet, sopimusehdot ja muut hankintaa koskevat ehdot on kuvattu tarjouspyynnössä ja sen liitteissä, jotka muodostavat kokonaisuudessaan hankinta-asiakirjat. Tarjoajan vastuulla on tutustua kaikkiin hankinta-asiakirjoihin ennen tarjouksen laatimista.,",
+     "docs_url": "https://tarjouspalvelu.fi/kuha?id=633517&tpk=4358e347-ec09-4b5e-80db-8ef63d56f588",
+     "dps": false,
+     "framework": false,
+     "id": 59839,
+     "key": "EF-59839",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Talous- ja henkilöstöhallinnon kokonaispalvelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059839",
+     "org": "Kuntien Hankintapalvelut KuHa Oy",
+     "published": "2026-10-21T05:05:04+03:00",
+     "reasons": [
+      "henkilöstöhallinn"
+     ],
+     "title": "Talous- ja henkilöstöhallinnon kokonaispalvelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38905/notice/59839/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79413000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-23T12:00:00+02:00",
+     "desc": "Hankinnan kohteena ovat VTT:n markkinointi- ja viestintätoimistopalvelut eli markkinoinnin ja viestinnän suunnittelu ja sisällöntuotanto kokonaisvaltaisesti ja/tai projektikohtaisesti. Hankinta sisältää muun muassa markkinoinnin ja viestinnän toimenpiteiden suunnittelun, konseptoinnin ja läpiviennin sekä erilaisten sisältöjen tuotannon kohderyhmälähtöisesti niin painetussa kuin digitaalisessa muodossa.  \n\nHankinnan kohde on jaettu kahteen (2) osakokonaisuuteen:\nOsakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto \nOsakokonaisuus 2: Markkinoinnin suunnittelu ja sisällöntuotanto \n\nOsakokonaisuuksien yhteenlaskettu kokonaisarvo sopimuskautena (mukaan lukien mahdolliset optiovuodet) on 1,6 M€ – 2.5 M€.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto Viestinnän suunnittelun ja sisällöntuotannon osakokonaisuus pitää sisällään erilaisten viestintätoimenpiteiden kokonaisvaltaisen suunnittelun ja konseptoinnin sekä sisältöjen ja kokonaisuuksien käytännön toteutuksen.  VTT tarvitsee vaikuttavuutensa näkyväksi tekemiseksi laajaa yleisöä puhuttelevia tekstityyppejä, tutkimussisältöjä kuvittavia ja tarinallistavia sisältöjä sekä ajatusjohtajuutta kirkastavia sisältöjä. Odotamme toimittajalta näkemystä kohderyhmälähtöisestä, asiantuntevasta, inspiroivasta, vaikuttavasta ja vastuullisesta viestinnästä – myös kansainvälisessä markkinassa. \n\nHankinnan ennakoitu arvo sopimuskautena on 600 000–1 000 000 euroa (alv 0%). Puitejärjestelyn enimmäisarvo sopimuskautena on 1 000 000 euroa (alv 0 %)., Osakokonaisuus 2: Markkinoinnin suunnittelu ja sisällöntuotanto VTT:n markkinoinnin suunnittelun ja sisällöntuotannon osakokonaisuus pitää sisällään erilaisten markkinointitoimenpiteiden kokonaisvaltaisen suunnittelun ja erilaisten sisältöjen tuotannon teksti- ja multimediasisällöistä graafiseen suunnitteluun ja projektinhallintaan. Odotamme kumppanilta ennakointikykyä ja näkemystä uusista markkinoinnin suuntauksista, tekoälyn hyödyntämisestä ja vaikutuskeinoista koko ostajapolun vaiheissa eri kohderyhmille – myös kansainvälisessä markkinassa. Tarjoajalla tulee olla valmius toteuttaa toimeksiantoja kokonaisvaltaisesti sisältäen markkinoinnin operatiivisen suunnittelun sekä tuotannon, esimerkiksi graafisen suunnittelun, valokuvauksen, videotuotannon ja sisällöntuotannon. Palvelu voi sisältää digitaalisia toteutuksia tai kampanjan osatoteutuksia, esimerkiksi videotuotantoja. \n\nHankinnan ennakoitu arvo sopimuskautena on 1 000 000–1 500 000 euroa (alv 0%). Puitejärjestelyn enimmäisarvo sopimuskautena on 1 500 000 euroa (alv 0%).,",
+     "docs_url": "https://tarjouspalvelu.fi/vtt?id=631183&tpk=1c3e7332-8290-4307-8971-47633c34225c",
+     "dps": false,
+     "framework": true,
+     "id": 59893,
+     "key": "EF-59893",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79413000"
+       ],
+       "title": "Osakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059893",
+     "org": "Teknologian tutkimuskeskus VTT Oy",
+     "published": "2026-10-22T05:05:04+03:00",
+     "reasons": [
+      "tekoäly"
+     ],
+     "title": "Markkinointi- ja viestintätoimistopalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38937/notice/59893/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73111000"
+     ],
+     "currency": "EUR",
+     "deadline": "2051-10-19T23:59:00+03:00",
+     "desc": "Fysikaalistekniset tutkimukset DYNAAMISEN HANKINTAJÄRJESTELMÄN KOHDE\n\nDynaamisen hankintajärjestelmän (jäljempänä DPS) kohteena ovat erilaiset fysikaalistekniset tutkimukset ja niihin liittyvät palvelut. Fysikaalisteknisten tutkimusten kokonaisuus on hyvin laaja-alainen. Tutkittavat kohteet voivat olla esimerkiksi materiaaleja, kappaleita tai laitteita, joiden osuutta tai merkitystä viranomaistutkinnassa olevaan tapaukseen pyritään selvittämään. \n\nTutkimuskysymykset voivat liittyä esimerkiksi materiaalin tunnistamiseen ja laadullisten asioiden selvittämiseen tai laitteiden toimintaperiaatteen sekä mahdollisten asennusvirheiden tai vaurioiden selvittämiseen. Tutkimukset voivat olla myös teoreettisia, liittyen esimerkiksi rakenteiden lujuuslaskentaan tai vauriomekanismin arviointiin.\n\nHankinnan kohde on kuvattu tarkemmin osallistumispyynnössä ja sen liitteissä, erityisesti liitteessä 2 \"Dynaamisen hankintajärjestelmän kohde\".\n\nDPS:n keston aikana kaikki kiinnostuneet ehdokkaat voivat tehdä siihen osallistumishakemuksen. \n\nDPS on voimassa hankintailmoituksessa ilmoitettuun päivään asti, ellei sitä keskeytetä tai muuteta DPS:n voimassaollessa. \n\nHankintayksikkö toteuttaa hankinnat DPS:ään hyväksyttyjen ehdokkaiden kesken DPS:n sisäisillä kilpailutuksilla, jotka voivat ajoittua DPS:n koko hankintavaiheen ajalle. DPS:n hankintavaihe alkaa perustamisvaiheen jälkeen 20.11.2026 ja päättyy DPS:n voimassaoloajan päättyessä.\n\n\nDYNAAMISEN HANKINTAJÄRJESTELMÄN LAAJUUS \n\nDynaamisen hankintajärjestelmän ennakoitu kokonaisarvo on enintään 3 000 000 euroa (ilman arvonlisäveroa).\n\nHankittavien tutkimusten määrää on vaikea arvioida vuositasolla, koska se on riippuvainen tutkimusta vaativien tapahtumien määrästä.,",
+     "docs_url": "https://tarjouspalvelu.fi/krppoliisi?id=632165&tpk=b011d022-3d87-4c53-ad6c-3fd9d0858954",
+     "dps": true,
+     "framework": false,
+     "id": 59882,
+     "key": "EF-59882",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Fysikaalistekniset tutkimukset"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059882",
+     "org": "Keskusrikospoliisi",
+     "published": "2026-10-22T05:05:04+03:00",
+     "reasons": [
+      "arviointi"
+     ],
+     "title": "Fysikaalistekniset tutkimukset",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38931/notice/59882/overview",
+     "value": 3000000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79400000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-24T12:00:00+02:00",
+     "desc": "Toimiala- ja yritysanalyysipalvelut Pyydämme tarjoustanne Lahden kaupungille tehtävästä toimialakonsultoinnista. \n\nHankinnan kohteena ovat toimiala- ja yritysanalyyseihin liittyvät asiantuntijapalvelut, jotka voivat sisältää esimerkiksi toimiala- ja markkina-analyysejä, toimintaympäristö- ja tulevaisuusselvityksiä, kilpailija- ja verrokkianalyysejä sekä markkinakatsauksia ja markkinaselvityksiä. \n\nToimialakonsultoinnin tarkoituksena on tuottaa Lahden kaupungin omistajaohjauksen ja muun kaupunginhallinnon päätöksenteon tueksi luotettavaa, riippumatonta ja ajantasaista tietoa toimintaympäristöstä, markkinoista, toimialojen kehityksestä sekä kaupunkikonsernin omistamien yhtiöiden toimintaa koskevista markkinaolosuhteista. \n\nTavoitteena on muodostaa puitejärjestely 3+1v alkaen 1.1.2027, jonka kokonaisarvo on noin 150 000€.,",
+     "docs_url": "https://tarjouspalvelu.fi/lahti?id=633684&tpk=35f87b12-7cac-42b8-b8ce-1e6ad7458317",
+     "dps": false,
+     "framework": true,
+     "id": 59975,
+     "key": "EF-59975",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79400000"
+       ],
+       "title": "Toimiala- ja yritysanalyysipalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059975",
+     "org": "Lahden kaupunki",
+     "published": "2026-10-22T06:05:05+03:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "Toimiala- ja yritysanalyysipalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38979/notice/59975/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-24T09:00:00+02:00",
+     "desc": "Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHANKINNAN KOHDE\nHankinnan kohteena ovat työelämän lupa- ja korttikoulutukset Monetra Oulu Oy Hankintapalveluiden asiakkaiden tarpeiden mukaisesti; esimerkiksi, mutta ei ainoastaan, kunnan työntekijöilleen hankkimat lupakoulutukset. \n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa.\n\nVARATTUIHIN HANKINTAOSIOIHIN SOVELTUVAT TARJOAJAT\nTarjoaja voi tarjouksensa yhteydessä ilmoittautua hankintalaissa annetun määritelmän mukaiseksi, ns. varattuihin osioihin soveltuvaksi toimittajaksi, jonka päätarkoituksena on vammaisten tai muita heikommassa asemassa olevien henkilöiden sopeuttaminen yhteiskuntaan ja työelämään.  Edellytyksenä tällaisen osion tarjouskilpailuun osallistumiselle on, että vähintään 30 prosenttia työkeskuksen, toimittajan tai työohjelman työntekijöistä on vammaisia tai muita heikommassa asemassa olevia työntekijöitä. \n\nTilaajat voivat käyttää tarjoajan ilmoittamaa soveltuvuutta laadullisena hankintakriteerinä myöhemmin sopimuskauden aikaisissa minikilpailutuksissa.\n\nTYÖVOIMAPALVELUINA TARJOTTAVAT LUPA- JA KORTTIKOULUTUKSET\nTähän yhteishankintaan eivät sisälly työvoimapalveluiden järjestämisestä säädetyn lain (380/2023) mukaiset lakisääteiset julkisina työvoimapalveluina tarjottavat palvelut (esim. työvoimakoulutus ja valmennus). Hankintaan eivät sisälly myöskään lakisääteisten työvoimapalvelujen ulkopuolelle jäävät, Oulun seudun työllisyysalueeseen kuuluvien kuntien (Oulu ja Ii) työnhakija-asiakkailleen vapaaehtoisesti tarjoamat työelämän lupa- ja korttikoulutukset, jotka hankitaan Oulun kaupungin/BusinessOulun toimesta keskitettynä hankintana. Puolangan kunta voi hankkia lakisääteisten työvoimapalvelujen ulkopuolelle jäävää muuta kuntien vapaaehtoisesti työnhakija-asiakkailleen tarjoamaa lupa- ja korttikoulutusta tämän yhteishankinnan kautta., Ensiapukoulutukset Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat ensiapukoulutukset.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Hygieniapassit ja matkailualan turvallisuuspassit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat hygieniapassit ja matkailualan turvallisuuspassit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Tulityökortit ja alkusammutuskoulutukset Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat tulityökortit ja alkusammutuskoulutukset.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Taloudellinen/ennakoiva ajaminen kuljettajan ammattipätevyydellä -koulutukset Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat Taloudellinen/ennakoiva ajaminen kuljettajan ammattipätevyydellä -koulutukset.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Sähkötyöturvallisuuskortit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat sähkötyöturvallisuuskortit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Vesityökortit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat vesityökortit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Järjestyksenvalvojakurssit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat järjestyksenvalvojakurssit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Työpaikkojen työturvallisuuteen liittyvät koulutukset Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat työpaikkojen työturvallisuuteen liittyvät koulutukset.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., ADR-kurssit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat vaarallisten aineiden kuljettamisen ADR-kurssit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”., Työhyvinvointikortit Monetra Oulu Oy Hankintapalvelut pyytää tarjoustanne työelämän lupa- ja korttikoulutuksista asiakkailleen (jäljempänä myös \"tilaajat\") tämän tarjouspyynnön ja sen liitteiden mukaisesti. \n\nHankinnan kohteena ovat työhyvinvointikortit.\n\nHankintakokonaisuus koostuu useista koulutuksista ja toteutusmuodoista, joista tarjoaja voi rivikohtaisesti valita ne, joita tarjoaa. Ryhmien tarkemmat tiedot löytyvät kohdista ”osia koskevat tiedot” sekä ”hankinnan kohteen kriteerit”.,",
+     "docs_url": "https://tarjouspalvelu.fi/monetra?id=627766&tpk=54d09cf5-9fd1-40d7-99e0-c1918953b27b",
+     "dps": false,
+     "framework": false,
+     "id": 60024,
+     "key": "EF-60024",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Ensiapukoulutukset"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Hygieniapassit ja matkailualan turvallisuuspassit"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Tulityökortit ja alkusammutuskoulutukset"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Taloudellinen/ennakoiva ajaminen kuljettajan ammattipätevyydellä -koulutukset"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Sähkötyöturvallisuuskortit"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Vesityökortit"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Järjestyksenvalvojakurssit"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Työpaikkojen työturvallisuuteen liittyvät koulutukset"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "ADR-kurssit"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Työhyvinvointikortit"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060024",
+     "org": "Monetra Oulu Oy",
+     "published": "2026-10-23T06:05:01+03:00",
+     "reasons": [
+      "koulutus, valmennus"
+     ],
+     "title": "Työelämän lupa- ja korttikoulutukset",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39008/notice/60024/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79410000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-27T12:00:00+02:00",
+     "desc": "Tukirahoituksen asiantuntijapalvelut Hankinnan kohteena on tukirahoitukseen liittyvien asiantuntijapalveluiden puitejärjestely hankinta-asiakirjojen tarkemmin \nosoittamassa laajuudessa. Palveluiden kohteena ovat Fintraffic-konsernin kaikki yhtiöt. Tarkoituksena on hankkia puitejärjestelyn kautta asiantuntijatukea mm. seuraaviin (mutta ei näihin rajoittuen) tehtäviin:\n\n- Rahoitusohjelmakonsultointi ja suunnittelu\n- Projektikohtainen tukirahoituksen etsintä\n- Projekti-ideoiden kehittäminen, hakemusten kirjoittaminen ja asiakirjojen laatiminen, kuten vaaditut kustannus-hyötyanalyysit, hankesuunnitelmat, toimintasuunnitelmat, taloudellisen suunnitelmat, muut rahoitushakemuksiin liittyvät asiakirjat\n- Projektinhallinta hakuvaiheessa tilanteissa, joissa Fintraffic-konserniin kuuluva yhtiö toimii joko konsortion vetäjänä tai yhtenä toimijana \n- Mahdollisesti innovaatiorahoitusta tukeva verkostohallinta. \n\nPuitejärjestely on kuvattu tarkemmin liitteessä B.2 hankinnan kohteen kuvaus sekä muissa hankinta-asiakirjoissa.\n\nSOPIMUSKAUSI\n\nSopimuskausi alkaa puitesopimuksen allekirjoittamisesta ja se on voimassa määräaikaisena kaksi (2) vuotta. Sopimukseen liittyy kaksi yhden vuoden optiokautta. Optiokaudet voidaan ottaa käyttöön vuosi kerrallaan tai kaksi vuotta kerrallaan.  Sopimus päättyy \nautomaattisesti, mikäli sopimusta ei ole irtisanottu tai tilaaja ei ole ottanut optiokautta käyttöön. \n\nPUITEJÄRJESTELYN LAAJUUS\n\nPuitejärjestelyn ennakoitu arvonlisäveroton enimmäisarvo on 300 000 euroa sisältäen myös mahdolliset optiokaudet.,",
+     "docs_url": "https://tarjouspalvelu.fi/fintraffic?id=623931&tpk=351648e2-4d80-4e0f-97c2-9dda801afc48",
+     "dps": false,
+     "framework": true,
+     "id": 60190,
+     "key": "EF-60190",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79410000"
+       ],
+       "title": "Tukirahoituksen asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060190",
+     "org": "Liikenteenohjausyhtiö Fintraffic Oy",
+     "published": "2026-10-25T13:05:03+02:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "Tukirahoituksen asiantuntijapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/33726/notice/60190/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73200000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-23T10:00:00+02:00",
+     "desc": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031) Väyläviraston ja elinvoimakeskusten hankkeissa käytettäville uusiomateriaaleille on tehtävä teknisen soveltuvuuden arviointi. Ohjeen Uusiomateriaalien käyttö väylärakentamisessa mukaan uusiomateriaalien käyttöön Väyläviraston ja elinvoimakeskusten väylähankkeilla tarvitaan joko Väyläviraston yleinen tai hankekohtainen teknisen soveltuvuuden arviointi. Teknisen soveltuvuuden arviointi on väylähankkeen tilaajana asettama vaatimus, jonka tavoitteena on varmistua rakenteiden toimivuudesta ja materiaalien turvallisesta käytöstä.  \n\nVäylävirastossa toimii uusiomateriaalien teknisen soveltuvuuden arvioinneista vastaava asiantuntijaryhmä. Tämä hankinta koskee kyseisen arviointityön tueksi hankittavaa asiantuntijapalvelua vuosille 2027-2029 sekä optiona vuosille 2030 ja 2031.\n\nTyö sisältää ohjeen \"Uusiomateriaalien käyttö väylärakentamisessa\" mukaisiin yleisiin ja hankekohtaisiin teknisen soveltuvuuden arviointeihin liittyvät työt, kuten:\n- yleisten ja hankekohtaisten arviointien tuki ja niihin liittyvä yhteistyö\n- neuvottelut materiaalitoimittajien kanssa\n- arviointipyyntöjen aineistojen läpikäynnit, arviointikirjeen valmistelu sekä arviointien viimeistely ja arkistointi\n- uusiomateriaaliryhmän kokousten valmistelu ja sihteerinä toimiminen\n\nTarjouskilpailun mahdolliset eturistiriidat arvioidaan julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (1379/2016, erityisesti lain 3, 66 ja 81 §) mukaisesti, ottaen huomioon myös tarjoajan alihankkija- ja konsernisuhteet. \n\nPalveluntuottajaksi valitaan yksi toimittaja.\n\nHankinta on kuvattu tässä tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/vayla?id=633912&tpk=4f97720e-5bb7-4c27-9327-e3afd80f9709",
+     "dps": false,
+     "framework": false,
+     "id": 60211,
+     "key": "EF-60211",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73200000"
+       ],
+       "title": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060211",
+     "org": "Väylävirasto",
+     "published": "2026-10-25T14:05:03+02:00",
+     "reasons": [
+      "asiantuntijapalvelu, arviointi"
+     ],
+     "title": "Uusiomateriaaliarviointi 2027-2029 (optiot 2030 ja 2031)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39112/notice/60211/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-26T12:00:00+02:00",
+     "desc": "Etäyhteyksiä hyödyntävän opetuksen pedagogisen kehittämisen hanke Hankinnan kohteena on kehittämishanke koskien opettajien pedagogista osaamista etäyhteyksiä hyödyntävässä opetuksessa. Kehittämishanke tuottaa tutkimusperustaisia pedagogisia malleja hyödynnettäväksi etäyhteyksiä hyödyntävässä opetuksessa perusopetuksessa sekä materiaaleja ja koulutuksia opettajien osaamisen edistämiseksi.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/valtioneuvostonkanslia?id=625037&tpk=3f023ada-22de-4f40-bd38-6012a107b73f",
+     "dps": false,
+     "framework": false,
+     "id": 59964,
+     "key": "EF-59964",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Etäyhteyksiä hyödyntävän opetuksen pedagogisen kehittämisen hanke"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059964",
+     "org": "Opetus- ja kulttuuriministeriö",
+     "published": "2026-10-21T15:02:48+03:00",
+     "reasons": [],
+     "title": "Etäyhteyksiä hyödyntävän opetuksen pedagogisen kehittämisen hanke",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38972/notice/59964/overview",
+     "value": 140000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73110000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-20T16:00:00+02:00",
+     "desc": "Sipoon yleiskaava 2050, työpaikka-alueiden profilointi-, potentiaali- ja kapasiteettitarkastelu Hankinnan kohteena on koko kunnan alueelle valmisteltavaa Sipoon yleiskaava 2050:tä (yleiskaavatunnus G28) varten toteutettava elinkeinoalueiden nykytila- ja tavoitekuvatarkastelu.\n\nTyön tarkoituksena on selvittää: 1. Yleiskaava-alueen työpaikka-alueiden nykyinen yritysprofiili, 2. Potentiaali yritysten sijoittumiselle Sipoon työpaikka-alueille tulevaisuudessa. Tässä osiossa tulee lisäksi kevyemmin tarkastella Sipoon muiden alueiden (taajamat, kylät, haja-asutusalueet) potentiaalia yritysten sijoittumisalueina 3. Yleiskaavan työpaikka-alueiden kapasiteetin riittävyys suhteessa yleiskaavan tavoitevuoteen sekä laatia Sipoon yleiskaavan työpaikka-alueille kehittämissuositukset vuodelle 2050. Tähän liittyen tulee tarkastella myös kehittämisen reunaehtoja.\n\nTällä hankinnalla tullaan valitsemaan yksi toimittaja tässä tarjouspyynnössä kuvatun tehtävän suorittajaksi.,",
+     "docs_url": "https://tarjouspalvelu.fi/sipoo?id=633212&tpk=59e05a05-9fb3-458c-8a02-a5300c87c0f4",
+     "dps": false,
+     "framework": false,
+     "id": 60184,
+     "key": "EF-60184",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73110000"
+       ],
+       "title": "Sipoon yleiskaava 2050, työpaikka-alueiden profilointi-, potentiaali- ja kapasiteettitarkastelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060184",
+     "org": "Sipoon kunta",
+     "published": "2026-10-23T13:27:20+03:00",
+     "reasons": [],
+     "title": "Sipoon yleiskaava 2050, työpaikka-alueiden profilointi-, potentiaali- ja kapasiteettitarkastelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39093/notice/60184/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-30T12:00:00+02:00",
+     "desc": "Independent Assessment, Post-Project Institutionalisation Review and National Replication Roadmap for the Service Support Centre Model for Rural Water Services in Nepal. Two-Phase Assignment: Independent Evidence Generation and Government Advisory Support The overall objective is to provide the Government of Nepal and the WASH sector with an independent evidence base and a practical decision pathway for the future of the Service Support Centre approach to rural water-service delivery. The assignment shall determine: what has been built; whether and how it works; what remains after project support is removed; and what government action would be required to institutionalise or replicate the functions that prove valuable.,",
+     "docs_url": "https://www.hankintailmoitukset.fi/en/public/procedure/38558/enotice/59255",
+     "dps": false,
+     "framework": false,
+     "id": 59255,
+     "key": "EF-59255",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Independent Assessment, Post-Project Institutionalisation Review and National Replication Roadmap for the Service Support Centre Model for Rural Water Services in Nepal. Two-Phase Assignment: Independent Evidence Generation and Government Advisory Support"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-059255",
+     "org": "Niras Finland Oy",
+     "published": "2026-10-25T10:05:00+02:00",
+     "reasons": [],
+     "title": "Independent Assessment, Post-Project Institutionalisation Review and National Replication Roadmap for the Service Support Centre Model for Rural Water Services in Nepal. Two-Phase Assignment: Independent Evidence Generation and Government Advisory Support",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38558/notice/59255/overview",
+     "value": 100000.0
+    }
+   ],
+   "start": "2026-10-20T00:00:00+03:00"
   }
  },
  "seen": {
@@ -1635,6 +2138,7 @@
   "EF-59142": "2026-10-06",
   "EF-59161": "2026-10-06",
   "EF-59209": "2026-10-06",
+  "EF-59255": "2026-10-20",
   "EF-59346": "2026-10-13",
   "EF-59347": "2026-10-13",
   "EF-59387": "2026-10-13",
@@ -1645,7 +2149,19 @@
   "EF-59559": "2026-10-13",
   "EF-59587": "2026-10-13",
   "EF-59638": "2026-10-13",
-  "EF-59674": "2026-10-13"
+  "EF-59674": "2026-10-13",
+  "EF-59761": "2026-10-20",
+  "EF-59839": "2026-10-20",
+  "EF-59882": "2026-10-20",
+  "EF-59893": "2026-10-20",
+  "EF-59964": "2026-10-20",
+  "EF-59966": "2026-10-20",
+  "EF-59975": "2026-10-20",
+  "EF-60024": "2026-10-20",
+  "EF-60184": "2026-10-20",
+  "EF-60190": "2026-10-20",
+  "EF-60204": "2026-10-20",
+  "EF-60211": "2026-10-20"
  },
- "watermark": "2026-10-19T08:05:40+03:00"
+ "watermark": "2026-10-26T12:23:48+02:00"
 }
