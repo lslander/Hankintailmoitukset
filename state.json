@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-26T12:23:48+02:00",
+ "last_run": "2026-11-02T14:46:08+02:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -2105,6 +2105,597 @@
     }
    ],
    "start": "2026-10-20T00:00:00+03:00"
+  },
+  "2026-10-27": {
+   "end": "2026-11-02T23:59:59+02:00",
+   "id": "2026-10-27",
+   "label": "27.10.2026 - 2.11.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000",
+      "79410000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-10T09:00:00+02:00",
+     "desc": "Hankinnan kohteena ovat juridiset ja taloudelliset asiantuntijapalvelut.  Tämän sopimuksen perusteella hankintoja voivat tehdä Vantaan kaupungin kaikki toimialat sekä Vantaan tilapalvelut Vantti Oy, VTK Kiinteistöt Oy ja VAV-konserni. \n\nHankinta on jaettu kahdeksaan  (8) osa-alueeseen:\n\nJuridiset asiantuntijapalvelut\n\nOsa-alue 1: Yhtiö-oikeus: erityisesti Corporate Governance, yritysjärjestelyt, sopimusoikeus ja vero-oikeus sekä järjestelyjen verovaikutukset \n\nOsa-alue 2: Julkiset hankinnat, kilpailuoikeus, valtiontuet, hallinto-oikeus\n\nOsa-alue 3: Ympäristöoikeus, kiinteistöt: erityisesti kiinteistökehittäminen, rakentaminen ja vuokraustoiminta\n\nOsa-alue 4: Tietosuoja ja tekoäly\n\nOsa-alue 5: Palvelussuhteisiin liittyvä lainsäädäntö\n\nOsa-alue 6: Työvoimapalvelulainsäädäntö ja kotouttamiseen liittyvä lainsäädäntö \n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä.\n\nTaloudelliset asiantuntijapalvelut:\n\nOsa-alue 7: Yhtiöiden ja osakkeiden arvonmääritykset, Yhteisöjen toimintoihin ja toimintojen järjestämiseen liittyvät taloudelliset tarkastelut, taloudelliset neuvonannot ja selvitykset yritysjärjestelyissä, merkittävissä projekteissa ja muutostilanteissa, pääoma- ja rahoitusratkaisut sekä niiden uudelleenjärjestelyt, sisäisen  valvonnan ja riskienhallinnan asiantuntijapalvelut liittyen strategisiin, taloudellisiin, operatiivisiin sekä kyber- ja sääntelyriskeihin, muut taloudelliset selvitykset ja arvioinnit\n\nOsa-alue 8: Tuottavuus- /tuotantotapaselvitykset\n\n\nKullekin osa-alueelle valitaan enintään 3 toimittajaa., Osa-alue 1: Yhtiö-oikeus: erityisesti Corporate Governance, yritysjärjestelyt, sopimusoikeus ja vero-oikeus sekä järjestelyjen verovaikutukset Tämä osa-alue pitää sisällään seuraavat kokonaisuudet:\n\nYhtiöoikeus, Corporate Governance, Yritysjärjestelyt, Sopimusoikeus, Vero-oikeus sekä järjestelyjen verovaikutukset.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 2: Julkiset hankinnat, kilpailuoikeus, valtiontuet, hallinto-oikeus Tämä osa-alue pitää sisällään seuraavat kokonaisuudet: \n\nJulkiset hankinnat, kilpailuoikeus ja valtiontuet, hallinto-oikeus; mm. hallintolain, kuntalain, yhdenvertaisuuslain ja julkisuuslain tulkinnat.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 3: Ympäristöoikeus, kiinteistöt: erityisesti kiinteistökehittäminen, rakentaminen ja vuokraustoiminta Tämä osa-alue pitää sisällään seuraavat kokonaisuudet:\n\nYmpäristöoikeus, kiinteistöt, kiinteistökehittäminen, rakentaminen ja vuokraustoiminta.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 4: Tietosuoja ja tekoäly Tämä osa-alue pitää sisällään seuraavat kokonaisuudet:\n\nTietosuoja ja tekoäly.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 5: Palvelussuhteisiin liittyvä lainsäädäntö Tämä osa-alue pitää sisällään seuraavat kokonaisuudet:\n\nPalvelussuhdelainsäädäntö, Työterveys, työturvallisuus, yhteistoiminta ja neuvottelumenettelyt.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 6: Työvoimapalvelulainsäädäntö ja kotouttamiseen liittyvä lainsäädäntö Tämä osa-alue pitää sisällään seuraavat kokonaisuudet:\n\nTyövoimapalvelulainsäädäntö, työttömyysturvalainsäädäntö, kotoutumisen edistämisen lainsäädäntö sekä mainittuihin oikeudenaloihin liittyvä juridisten ohjeiden laatiminen.\n\nJuridiset palvelut voivat sisältää, mutta eivät rajoitu seuraaviin: oikeudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset sekä koulutus. Juridiset palvelut eivät sisällä oikeudenkäyntejä., Osa-alue 7: Taloudelliset asiantuntijapalvelut Tämä osa-alue pitää sisällään taloudelliset asiantuntijapalvelut,  joka pitää sisällään seuraavat kokonaisuudet:\n\n- Yhtiöiden ja osakkeiden arvonmääritykset\n- Yhteisöjen toimintoihin ja toimintojen järjestämiseen liittyvät taloudelliset tarkastelut\n- Taloudelliset neuvonannot ja selvitykset yritysjärjestelyissä (yritysosto, yritysmyynti, rahoitus, uudelleenjärjestelyt), merkittävissä projekteissa ja muutostilanteissa\n- Pääoma- ja rahoitusratkaisut sekä niiden uudelleenjärjestelyt\n- Sisäisen valvonnan ja riskienhallinnan asiantuntijapalvelut liittyen strategisiin, taloudellisiin, operatiivisiin sekä kyber- ja sääntelyriskeihin\n- Muut taloudelliset selvitykset ja arvioinnit\n\nTaloudelliset asiantuntijapalvelut voivat sisältää mutta eivät rajoitu seuraaviin: taloudelliset selvitykset, auditoinnit, neuvonannot, asiakirjojen laatimiset, erityiset sisäisen valvonnan tarkastukset, liikkeenjohdon konsultointi ja edellä mainittuihin liittyvä koulutus., Osa-alue 8: Tuottavuus- /tuotantotapaselvitykset Tähän osa-alueeseen kuuluu tuottavuustarkasteluja eri toimialojen toiminnasta, joissa mahdollista kehittämispotentiaalia on tunnistettu.   \n\nTuottavuusselvitykseen voi sisältyä seuraavia osioita: \n• Organisoitumisen, prosessien, digitalisaation (mm. tekoäly, automaatio) ja toimintamallien ja analysointi \n• Operatiivisen toiminnan arviointi (tuotanto, kustannukset, päälopputuotteiden määrät ja yksikkökustannukset) \n• Operatiivisen toiminnan, prosessien ja kustannusrakenteen yhdistäminen sekä tuottavuusajureiden kuvaaminen \n• Tuotantotapamahdollisuuksien arviointi Jos prosessissa eri toimijoita, toimijoiden roolien arviointi osana tuotantotapa-arviointia   \n• Haasteiden ja kehitysaihioiden tunnistaminen ja kirkastaminen   \n• Huomioitavia tekijöitä palvelutuotannon volyymi, lainsäädännön vaatimukset sekä kehittämismahdollisuudet ja edellytykset \n• Tuotanto- ja toimintatapojen ja tehokkuuden vertailu benchmark-toimijoihin   \n• Euromääräisen kehityspotentiaalin arviointi/verifiointi \n• Toimenpidesuunnitelma, jossa määritelty tavoitetila tuotantotavan osalta, aikataulutettu taloudelliset ja toiminnalliset tavoitteet operatiivisen tehokkuuden ja prosessien kehittämiseen sekä määritelty tavoitteille mittarit,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=626409&tpk=d238c971-f0d0-4520-872f-5a009722133e",
+     "dps": false,
+     "framework": true,
+     "id": 60637,
+     "key": "EF-60637",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 1: Yhtiö-oikeus: erityisesti Corporate Governance, yritysjärjestelyt, sopimusoikeus ja vero-oikeus sekä järjestelyjen verovaikutukset"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 2: Julkiset hankinnat, kilpailuoikeus, valtiontuet, hallinto-oikeus"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 3: Ympäristöoikeus, kiinteistöt: erityisesti kiinteistökehittäminen, rakentaminen ja vuokraustoiminta"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 4: Tietosuoja ja tekoäly"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 5: Palvelussuhteisiin liittyvä lainsäädäntö"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 6: Työvoimapalvelulainsäädäntö ja kotouttamiseen liittyvä lainsäädäntö"
+      },
+      {
+       "cpv": [
+        "79100000",
+        "79410000"
+       ],
+       "title": "Osa-alue 7: Taloudelliset asiantuntijapalvelut"
+      },
+      {
+       "cpv": [
+        "79410000"
+       ],
+       "title": "Osa-alue 8: Tuottavuus- /tuotantotapaselvitykset"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060637",
+     "org": "Vantaan kaupunki",
+     "published": "2026-10-30T06:05:02+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "juridi, sopimusoikeu, tietosuoja, kilpailuoikeu"
+     ],
+     "title": "Juridiset ja taloudelliset palvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39355/notice/60637/overview",
+     "value": 900000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79414000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-04T12:00:00+02:00",
+     "desc": "Inhouse-rekrytointikonsulttipalvelut Yleisradio Oy (jäljempänä \"Yle\") pyytää tarjouksia inhouse-rekrytointikonsultointipalveluiden tuottamisesta Ylen käyttöön. \n\nYlen tavoitteena on löytää asiantunteva rekrytointikumppani, joka vastaa Ylen rekrytointiprosessien laadukkaasta ja tehokkaasta läpiviennistä. Palvelulla vahvistetaan positiivista hakijakokemusta ja Ylen työnantajabrändiä. Kumppanilta odotetaan joustavuutta, ketteryyttä ja ajantasaista ammattitaitoa jatkuvasti kehittyvällä rekrytointikentällä.\n\nYle hakee aiemmassa kappaleessa mainittujen tehtävien toteuttamiseen kahta (2) kokoaikaista rekrytointikonsulttia, yksi (1) per rooli. Kummankin roolin vaatimukset on kuvattu tarjouspyynnön liitteessä 2 “Asiantuntijat”. Kukin konsultti työskentelee Ylessä 37,5 tuntia / työviikko.\n\nToimittajalla on oltava vähintään yksi (1) vähimmäisvaatimukset täyttävä varahenkilö per asiantuntijarooli (suomenkielinen ja ruotsinkielinen). Varahenkilö pystyy tarpeen mukaan toimimaan sijaisena jos toimittajan nimetty asiantuntija on estynyt palvelun tuottamisesta. \n\nRekrytointikonsultit työskentelevät Ylessä inhouse-periaatteella Ylen voimassa olevien hybridityökäytäntöjen mukaisesti. Yksityiskohtaiset tiedot inhouse-rekrytointikonsultteja koskevista vaatimuksista ja edellytyksistä tarjouspyynnössä ja sen liitteissä.\n\nYle valitsee tarjouskilpailun perusteella yhden (1) kumppanin, jonka kanssa se solmii sopimuksen. Sopimus tulee voimaan, kun molemmat sopijapuolet ovat allekirjoittaneet sen. Sopimus on määräaikaisena voimassa yhden (1) vuoden, minkä jälkeen se jatkuu toistaiseksi voimassa olevana. \n\nTarkemmat ja yksityiskohtaiset tiedot hankinnasta tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/yleisradiooy?id=616669&tpk=37e176d4-ab67-4d4b-b574-1eabe3e9aebc",
+     "dps": false,
+     "framework": false,
+     "id": 60376,
+     "key": "EF-60376",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79414000"
+       ],
+       "title": "Inhouse-rekrytointikonsulttipalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060376",
+     "org": "Yleisradio Oy",
+     "published": "2026-10-28T06:05:02+02:00",
+     "reasons": [
+      "konsultoin, rekrytoin"
+     ],
+     "title": "Inhouse-rekrytointikonsulttipalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37888/notice/60376/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-27T10:00:00+02:00",
+     "desc": "Tällä hankinnalla perustetaan monitoimittajapuitejärjestely yhteishankintakoulutusten hankkimiseksi. Puitejärjestelyyn hyväksytään osa-alueittain kaikki tarjoajat, jotka täyttävät tarjouspyynnössä asetetut soveltuvuusvaatimukset ja muut vähimmäisvaatimukset. Tarjouksia ei pisteytetä eikä aseteta keskinäiseen paremmuusjärjestykseen puitejärjestelyn perustamisvaiheessa. Palveluntuottajien kesken ei muodosteta etusijajärjestystä.\n\nTavoitteena on hyväksyä kuhunkin osa-alueeseen vähintään kaksi palveluntuottajaa. Osa-alue voidaan kuitenkin perustaa myös silloin, kun siihen voidaan hyväksyä vain yksi palveluntuottaja.\n\nJos osa-alueeseen hyväksytään vähintään kaksi palveluntuottajaa, kaikki kyseiseen osa-alueeseen perustuvat koulutushankinnat kilpailutetaan osa-alueeseen hyväksyttyjen palveluntuottajien kesken koulutuskohtaisina minikilpailutuksina.\n\nJos osa-alueeseen hyväksytään vain yksi palveluntuottaja, koulutuskohtaisia hankintoja ei minikilpailuteta. Tällöin hankintayksikkö pyytää palveluntuottajalta koulutuskohtaisen täsmennetyn tarjouksen puitejärjestelyn ehtojen mukaisesti. \n\nPuitejärjestelyyn hyväksytyn palveluntuottajan katsotaan sitoutuneen puitejärjestelyn ehtoihin jättämällä tarjouksen. Palveluntuottajan ja hankintayksikön välistä puitejärjestelyn aikaista suhdetta sääntelevät hankintapäätös, tarjouspyyntö liitteineen sekä palveluntuottajan tarjous. Koulutuskohtaiset hankintasopimukset tehdään minikilpailutusten perusteella valittujen palveluntuottajien kanssa tai, jos osa-alueeseen on hyväksytty vain yksi palveluntuottaja, tämän antaman koulutuskohtaisen täsmennetyn tarjouksen perusteella.\n\nTyövoimaviranomainen voi järjestää työvoimakoulutuksen yhdessä työnantajan, yrittäjäksi aikovan henkilön toimeksiantajan tai yrittäjyysoikeudet luovuttavan yrityksen kanssa siten, että tämä osallistuu koulutuksen rahoittamiseen (yhteishankintakoulutus) (Laki työvoimapalveluiden järjestämisestä 380/2023).\n\nTässä hankinnassa koulutukset ovat nimetty:\n- Koulutus työttömille = RekryKoulutus\n- Koulutus irtisanotuille = MuutosKoulutus\n- Koulutus työssä oleville = TäsmäKoulutus\n\nRekryKoulutus on tarkoitettu tilanteeseen, jossa yrityksellä on pulaa ammattitaitoisesta työvoimasta ja osaavaa työvoimaa ei ole saatavilla. Koulutuksella vastataan yrityksen uuden työvoiman rekrytointitarpeeseen, ja se on yrityksen tarpeisiin räätälöityä ammatillista työvoimakoulutusta. RekryKoulutuksessa rekrytoiva yritys osallistuu koulutuksen suunnitteluun, markkinointiin, opiskelijavalintoihin, toteutukseen ja rahoitukseen. Koulutuksen tavoitteena on antaa opiskelijoille ko. koulutusalan työtehtävien edellyttämiä tietoja ja taitoja siten, että koulutuksen hyväksytysti suorittaneet voivat työllistyä RekryKoulutukseen osallistuvan yrityksen palvelukseen. Koulutuskohtaiset tavoitteet täsmentyvät RekryKoulutuksessa mukana olevan yrityksen tarpeiden pohjalta. \n\nTäsmäKoulutus on tarkoitettu henkilöstön osaamisen päivittäminen tai laajentaminen yrityksen tai muun organisaation muutos- ja kehittämistilanteissa, jos henkilöstön ammattitaito ei vastaa muuttuneita olosuhteita. Osaamisen kehittäminen kytketään aina osaksi yrityksen normaalia (liike)toimintaa.\n\nMuutosKoulutus on tarkoitettu tilanteisiin, joissa Työnantaja vähentää tai lomauttaa toistaiseksi henkilöstöä tai kun työnantaja lopettaa toiminnan kokonaan. Jatko-/täydennyskoulutuksella autetaan työntekijöitä löytämään uusi ammatti tai työpaikka. \n\nPuitejärjestelyyn valitaan osa-alueittain kaikki tarjoajat, jotka täyttävät tarjouspyynnössä asetetut soveltuvuusvaatimukset ja muut vähimmäisvaatimukset. Tarjoaja voi hakea yhteen tai useampaan osa-alueeseen.\n\nPuitejärjestelyn perustamisvaiheessa ei pyydetä koulutuskohtaisia hintoja eikä tarjouksia vertailla. Valittujen palveluntuottajien kesken ei muodosteta etusijajärjestystä. Puitejärjestely sulkeutuu perustamisvaiheen jälkeen. Siihen ei oteta uusia palveluntuottajia puitejärjestelyn voimassaoloaikana.\nKoulutuskohtainen hinta, toteuttamissuunnitelma, henkilöstöresurssit sekä muut minikilpailutuksessa vertailtavat tiedot pyydetään koulutuskohtaisen tarjouspyynnön yhteydessä.\n\nPuitejärjestely on jaettu kuuteen osa-alueeseen:\n1. Teollisuus, tuotanto ja logistiikka\n2. Rakentaminen, kiinteistö- ja infra-ala\n3. Kauppa, liiketoiminta, hallinto ja ICT\n4. Palvelualat\n5. Kasvatus- sekä sosiaali- ja terveysalat \n6. Muut työvoimapalveluiden tarvitsemat koulutukset\n\nTarkempi selitys osa-alueista liitteessä 1 Hankinnan kohteen kuvaus\n\nTarjouspyynnön kohdassa muut ehdot tarjoaja ilmoittaa, mihin osa-alueiseen / osa-alueisiin hakee. \nOsa-aluejako ei tarkoita perustamisvaiheessa keskenään vertailtavia osia. Osa-alueiden perusteella määritellään, mille koulutusaloille kukin tarjoaja hyväksytään puitejärjestelytoimittajaksi ja mihin koulutuskohtaisiin minikilpailutuksiin palveluntuottaja kutsutaan.\n\nHankinta on jaettu osiin niin, että tarjoaja voi tarjota jokaiselle osa-alueelle tai vain osaan osa-alueista. Jokaiselle osa-alueella valitaan kaikki soveltuvuusvaatimukset täyttävät palveluntuottajat., Teollisuus, tuotanto ja logistiikka Esimerkiksi: \n• Ajoneuvo- ja työkoneasentajat\n• Kuorma-autonkuljettajat\n• Yhdistelmäajoneuvonkuljettajat\n• Linja-autonkuljettajat\n• Varastoala\n• Kone- ja tuotantotekniikka\n\nHankintayksikkö voi hankkia osa-alueeseen kuuluvien koulutusten lisäksi myös muita samaan toimialaan tai ammattialaan liittyviä yhteishankintakoulutuksia.\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena., Rakentaminen, kiinteistö- ja infra-ala Esimerkiksi:\n• Rakennusala\n• Talotekniikka\n\nHankintayksikkö voi hankkia osa-alueeseen kuuluvien koulutusten lisäksi myös muita samaan toimialaan tai ammattialaan liittyviä yhteishankintakoulutuksia.\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena., Kauppa, liiketoiminta, hallinto ja ICT Esimerkiksi:\n• Myynti ja markkinointi\n• ICT\n• Liiketoiminta, johtaminen ja asiantuntijatyö\n• Taloushallinto\n\nHankintayksikkö voi hankkia osa-alueeseen kuuluvien koulutusten lisäksi myös muita samaan toimialaan tai ammattialaan liittyviä yhteishankintakoulutuksia.\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena., Palvelualat Esimerkiksi:\n• Ravitsemisala\n• Asiakaspalvelu\n• Ympäristöala\n• Muut palvelualat\n\nHankintayksikkö voi hankkia osa-alueeseen kuuluvien koulutusten lisäksi myös muita samaan toimialaan tai ammattialaan liittyviä yhteishankintakoulutuksia.\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena., Kasvatus- sekä sosiaali- ja terveysalat Esimerkiksi:\n• Varhaiskasvatus\n• Kasvatusala\n• Sosiaaliala\n• Terveydenhuoltoala\n• Hoiva-ala\n• Vammaispalvelujen osaamisalat\n• Ikääntyneiden palvelut\n\nHankintayksikkö voi hankkia osa-alueeseen kuuluvien koulutusten lisäksi myös muita samaan toimialaan tai ammattialaan liittyviä yhteishankintakoulutuksia.\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena., Muut työvoimapalveluiden tarvitsemat koulutukset Osa-alueeseen kuuluvat sellaiset RekryKoulutus-, TäsmäKoulutus- ja MuutosKoulutus-alat, joita ei ole nimenomaisesti sisällytetty osa-alueisiin 1–5. Koulutusten tulee kuitenkin liittyä työvoiman saatavuuden turvaamiseen, osaamisen kehittämiseen, työllistymisen edistämiseen tai työelämän muutostilanteisiin. Osa-alueeseen voivat kuulua esimerkiksi uudet ammattialat, toimialakohtaiset erityiskoulutukset, vihreän siirtymän osaamistarpeisiin liittyvät koulutukset sekä muut työmarkkinoiden muutoksista johtuvat koulutukset\n\nKoulutuksen tavoitteena on antaa koulutettaville alan työtehtävien edellyttämät tiedot ja taidot. Koulutuskohtaiset tavoitteet täsmentyvät koulutuksessa mukana olevien yritysten tarpeiden pohjalta. Yhteishankintakoulutus on ammatillisesti suuntautuvaa ja ei-tutkintoon johtavaa.  \n\nAlan koulutus voidaan toteuttaa joko Rekry-, Muutos- tai TäsmäKoulutuksena.,",
+     "docs_url": "https://tarjouspalvelu.fi/kirkkonummi?id=630728&tpk=a06555db-4559-4798-ab9d-7e26070dedcd",
+     "dps": false,
+     "framework": true,
+     "id": 60401,
+     "key": "EF-60401",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Teollisuus, tuotanto ja logistiikka"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Rakentaminen, kiinteistö- ja infra-ala"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Kauppa, liiketoiminta, hallinto ja ICT"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Palvelualat"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Kasvatus- sekä sosiaali- ja terveysalat"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Muut työvoimapalveluiden tarvitsemat koulutukset"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060401",
+     "org": "Kirkkonummen kunta",
+     "published": "2026-10-28T06:05:04+02:00",
+     "reasons": [
+      "asiantuntijatyö, koulutus, rekrytoin"
+     ],
+     "title": "Kirkkonummen, Vihdin ja Siuntion työvoimapalveluiden yhteishankintakoulutusten monitoimittajapuitejärjestelyn hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39218/notice/60401/overview",
+     "value": 1000000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79411000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-19T14:00:00+02:00",
+     "desc": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys Kittilän kunta pyytää tarjouksia koululautakunnan, hyvinvointivointilautakunnan, teknisen lautakunnan sekä kunnanhallituksen alaisten toimintojen laajasta toiminnallisesta auditoinnista. Auditoinnin tavoitteena on tarkastella näiden toimialojen kulurakennetta ja toimintaprosesseja kriittisesti, kuitenkin tavoitteena säilyttää nykyinen palvelutaso ja laatu.\n\nToimeksiannon tavoitteena on tuottaa Kittilän kunnalle riippumaton ja asiantuntijapohjainen arvio kunnan palvelutuotannon nykytilasta, tehokkuudesta ja kustannusrakenteesta sekä tunnistaa konkreettisia kehittämistoimenpiteitä palveluiden järjestämiseksi taloudellisesti kestävämmällä tavalla. Auditoinnin tulee tuottaa suosituksia, joilla voidaan parantaa toiminnan tehokkuutta, resurssien kohdentamista ja kustannusvaikuttavuutta siten, että palveluiden laatu, vaikuttavuus, saavutettavuus ja kuntalaisten yhdenvertainen palvelujen saatavuus turvataan.\n\nTyöhön haetaan asiantuntijaa, jolla on erinomaista osaamista ja kokemusta kuntien auditointiprosessien menestyksekkäästä suorittamisesta sekä ymmärrystä Lapin kuntien erityisolosuhteista ja kuntien toimintoja koskevasta lainsäädännöstä.\n\nTarkempi kuvaus hankinnasta on annettu tarjouspyynnön liitteessä.,",
+     "docs_url": "https://tarjouspalvelu.fi/kittila?id=633483&tpk=cf3fd180-02c6-4e2d-9a3e-c3f0b296d894",
+     "dps": false,
+     "framework": false,
+     "id": 60622,
+     "key": "EF-60622",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79411000"
+       ],
+       "title": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060622",
+     "org": "Kittilän kunta",
+     "published": "2026-10-28T15:31:58+02:00",
+     "reasons": [
+      "selvitys"
+     ],
+     "title": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39347/notice/60622/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-27T11:00:00+02:00",
+     "desc": "Turun kaupungin konsernihallinnon hankintapalvelut pyytää tarjouksia Turun työllisyysalueen kotoutumiskoulutuksesta sekä siihen liittyvistä palveluista.\n\nHankinta on jaettu kuuteen osa-alueeseen:\n1. Turun seudun ja Turunmaan kotoutumiskoulutus\n2. Loimaan seudun kotoutumiskoulutus\n3. Vakka-Suomen kotoutumiskoulutus\n4. Turun työllisyysalueen kotoutumiskoulutuksen verkkototeutus\n5. Turun työllisyysalueen kotoutumiskoulutuksen kielellinen alkukartoitus\n6. Kotoutumiskoulutuksen pilotointi.\n\nOsa-alueiden 1–5 palveluntuottajien valinta ja tarjousten vertailu toteutetaan kohdassa ”Hankinnan kohteen kriteerit” esitettyjen perusteiden mukaisesti. Osa-alueessa 6 pilotointiehdotuksia ei aseteta keskinäiseen etusijajärjestykseen eikä osa-alueesta muodosteta puitejärjestelyä. Toteutettavaksi valittavasta pilotista tehdään erillinen hankintasopimus.\nHankinnan kohde, palvelujen sisältö ja tavoitteet on kuvattu tarkemmin liitteessä 1 Palvelukuvaus. Palvelulle asetetut vaatimukset ja tarjousten arviointiperusteet on esitetty tarjouspyynnössä ja sen liitteissä. Tulospalkkiota koskevat ehdot on kuvattu liitteessä 1b. Tarjoaja sitoutuu noudattamaan tarjouspyyntöä ja sen liitteitä.\n\nTurun työllisyysalue toimii vastuukuntamallin mukaisesti. Vastuukuntana ja hankintayksikkönä toimii Turun kaupunki. Työllisyysalueeseen kuuluu seuraavat kunnat: Turku, Aura, Kaarina, Kemiönsaari, Kustavi, Laitila, Lieto, Loimaa, Masku, Mynämäki, Naantali, Nousiainen, Oripää, Paimio, Parainen, Pyhäranta, Pöytyä, Raisio, Rusko, Sauvo, Taivassalo, Uusikaupunki ja Vehmaa., Turun seudun ja Turunmaan kotoutumiskoulutus Hankinnan kohteena on Turun seudulla ja Turunmaalla toteutettava kotoutumiskoulutus. Palvelun sisältö, tavoitteet ja toteuttamista koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä., Loimaan seudun kotoutumiskoulutus Hankinnan kohteena on Loimaan seudulla toteutettava kotoutumiskoulutus. Palvelun sisältö, tavoitteet ja toteuttamista koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä., Vakka-Suomen kotoutumiskoulutus Hankinnan kohteena on Vakka-Suomessa toteutettava kotoutumiskoulutus. Palvelun sisältö, tavoitteet ja toteuttamista koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä., Turun työllisyysalue kotoutumiskoulutuksen verkkototeutus Verkkototeutus on tarkoitettu koko Turun työllisyysalueen asiakkaille. Palvelun sisältö, tavoitteet ja toteuttamista koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä., Turun työllisyysalue kotoutumiskoulutuksen kielellinen alkukartoitus Kielellinen alkukartoitus on tarkoitettu koko Turun työllisyysalueen asiakkaille. Palvelun sisältö, tavoitteet ja toteuttamista koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä., Pilotointi Osa-alueen 6 tarkoituksena on mahdollistaa uusien kotoutumiskoulutuksen toteutusmallien, toimintatapojen ja muiden ratkaisujen kokeileminen ja kehittäminen. Kyse on rajatuista pilotointikokeiluista, ei vakiintuneen palvelumallin hankinnasta. Pilotointia koskevat tarkemmat vaatimukset on kuvattu tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/turku?id=629919&tpk=cd1ee2af-6737-4eaf-8ade-3d3c90f4c565",
+     "dps": false,
+     "framework": true,
+     "id": 60602,
+     "key": "EF-60602",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Turun seudun ja Turunmaan kotoutumiskoulutus"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Loimaan seudun kotoutumiskoulutus"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Vakka-Suomen kotoutumiskoulutus"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Turun työllisyysalue kotoutumiskoulutuksen verkkototeutus"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Turun työllisyysalue kotoutumiskoulutuksen kielellinen alkukartoitus"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Pilotointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060602",
+     "org": "Turun kaupunki",
+     "published": "2026-10-29T06:05:10+02:00",
+     "reasons": [
+      "arviointi, koulutus"
+     ],
+     "title": "Turun työllisyysalueen kotoutumiskoulutus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39328/notice/60602/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-18T12:00:00+02:00",
+     "desc": "Veroneuvonta- ja muut taloushallinnon konsultointipalvelut Hankinnan kohteena on veroneuvonta- ja muiden taloushallinnon konsultointipalvelut Caruna-konsernille ja sen yhtiöille (Caruna Networks Oy, Caruna Oy ja Caruna Espoo Oy). \n\nHankinnan taustalla on Tilaajan tarve hankkia verotuksen, kirjanpidon ja taloudellisen raportoinnin asiantuntijaosaamista erilaisiin tilanteisiin. Hankinnan tavoitteena on varmistaa korkeatasoisen asiantuntijatuen saatavuus kilpailukykyisin hinnoin ja joustavasti Tilaajan tarpeiden mukaan. Palveluilla tuetaan lakisääteisten velvoitteiden täyttämistä, taloudellista raportointia, riskienhallintaa sekä strategista päätöksentekoa, operatiivista toimintaa ja liiketoiminnan kehittämistä.\n\nVeroneuvonnan tarve liittyy erityisesti verotuksen oikeellisuuteen, tehokkuuteen ja ennakoitavuuteen sekä verotusta koskevien vaatimusten noudattamiseen. Muun taloushallinnon konsultoinnin tarve liittyy muun muassa Suomen kirjanpitolain ja kansainvälisten IFRS-standardien tulkintaan ja soveltamiseen.\n\nTarkempi kuvaus hankinnasta löytyy osallistumispyynnön liitteeltä 1. (Palvelukuvaus).,",
+     "docs_url": "https://tarjouspalvelu.fi/caruna?id=634234&tpk=87cedcad-e30b-4076-b21b-d8fe23bf9382",
+     "dps": false,
+     "framework": true,
+     "id": 60617,
+     "key": "EF-60617",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Veroneuvonta- ja muut taloushallinnon konsultointipalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060617",
+     "org": "Caruna Oy",
+     "published": "2026-10-29T06:05:11+02:00",
+     "reasons": [
+      "konsultoin, riskienhallinta"
+     ],
+     "title": "Veroneuvonta- ja muut taloushallinnon konsultointipalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39342/notice/60617/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-01T12:00:00+02:00",
+     "desc": "Helsingin Seudun liikenne - kuntayhtymä Y-tunnus 2274586-3 (jäljempänä HSL, Tilaaja, hankintayksikkö) pyytää tarjouksia  joukkoliikenteen suunnitteluun ja muihin sen valmisteluun liittyvien tehtävien puitejärjestelyyn. \n\nHankinta on jaettu kolmeen osa-alueeseen: \n1) Liikennejärjestelmäsuunnittelu\n2) Joukkoliikennesuunnittelu \n3) Vaikutusten arviointi \n\nHankinnan kohde ja sitä koskevat vaatimukset on kuvattu yksityiskohtaisesti tässä tarjouspyynnössä ja sen liitteissä.\nTarjouksen voi tehdä yhdestä tai useammasta osasta., 1) Liikennejärjestelmäsuunnittelu Puitejärjestelyn osa-alueelta 1 voidaan tilata esimerkiksi seuraavia tehtäviä:  \n\na) Liikennejärjestelmäsuunnitelmat\nEsim. avustaminen seudullisen liikennejärjestelmäsuunnitelman ja sen osaselvitysten laadinnassa\n\nb) Liikennejärjestelmää ja maankäyttöä iteroiva yhteissuunnittelu\nEsim. joukkoliikenteen, tieverkon ja pyöräliikenteen seudullisten tavoiteverkkojen laadinta\n\nc) Matkaketjut\nEsim. joukkoliikenteen, kävelyn, pyöräilyn ja/tai erilaisten liikkumispalveluiden solmuihin ja liityntöihin liittyvät selvitykset ja suunnitelmat\n\nd) Kävely, pyöräily ja liikkumisen ohjaus\nEsim. edistämisohjelmat ja -suunnitelmat ja pyöräliikenteen pääverkon päivitys\n\ne) Kestävän kaupunkiliikenteen ja kestävän logistiikan suunnittelu\nEsim. kestävän kaupunkiliikenteen suunnitelman, kestävän kaupunkilogistiikan suunnitelman laadinta tai näihin suunnitelmiin liittyvät osaselvitykset\n\nf) Liikenteen teknologiat ja palvelut\nEsim. automaatio, osaselvitykset, joissa kuvataan teeman nykytilaa ja kehittämistarpeita\n\ng) Liikenteen talous ja rahoitus\nEsim. julkisen talouden (kunnat ja valtio) budjettirajoiteskenaarioiden määrittäminen\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan., 2) Joukkoliikennesuunnittelu Puitejärjestelyn osa-alueelta 2 voidaan tilata esimerkiksi seuraavia tehtäviä:\n\na) Linjastosuunnittelu\nEsim. alueelliset linjastoselvitykset, runkolinjastosuunnitelmat ja laajemmat kokonaisuudet\n\nb) Joukkoliikenteen asiakasymmärrys\nEsim. osallisuus, asiakasymmärrys, esteettömyyskartoitukset, opastinsuunnittelu ja joukkoliikenteen houkuttelevuuden kehittäminen\n\nc) Selvitykset infran kehittämistoimenpiteistä liikennöinnin näkökulmasta\nEsim. sujuvuuden ja luotettavuuden kehittäminen ja kuljettajien sosiaalitilat \n\nd) Raideliikenteen tarjonnan suunnittelu\nEsim. tarjontakuvaukset, kustannusten ja kysynnän mallintaminen\n\ne) Joukkoliikenteen hankintaan ja sopimusehtoihin liittyvä konsultointi\nEsim. päästölaskennat, kaluston laatu ja hankintatapaselvitykset\n\nKilpailutus tämän kohdan (Joukkoliikenteen hankintaan ja sopimusehtoihin liittyvä konsultointi) osalta kattaa vain ne hankinnat, jotka toteutetaan hankintalain mukaisessa menettelyssä. Metro- ja junaliikenteen hankinnat on rajattu tämän kilpailutuksen ulkopuolelle, koska niiden hankinnassa sovelletaan PSA-lainsäädännön mukaista menettelyä.\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan.\n\nJoukkoliikennesuunnittelun osalta joukkoliikenne käsittää kaikki joukkoliikennemuodot. Vain hankintaan liittyvässä konsultoinnissa juna- ja metroliikenne eivät ole mukana., 3) Vaikutusten arviointi Puitejärjestelyn osa-alueelta 3 voidaan tilata esimerkiksi seuraavia tehtäviä:\n\na) Joukkoliikenteen linjastosuunnitelmien tai poikkeusjärjestelyjen vaikutusten arvioinnit\nEsim. vaikutukset kulkutapaosuuksiin ja matkustaminen muutokset poikkeustilanteissa\n\nb) Liikennejärjestelmäsuunnitteluun liittyvät ohjelmatason vaikutusten arvioinnit ja seurantojen tehtävät\nEsim. asiantuntijaresurssi ympäristövaikutusten tai sosiaalisten vaikutusten arvioinnissa, ulkoiset arvioinnit, MAL-seurantojen suunnittelu ml. datan käsittely ja vieminen seurantatietopohjaan (sis. paikkatiedot)\n\nc) Vaikutusten arvioinnin suunnittelu ja menetelmäkehitys (mm. HELMET-mallin avulla)\nEsim. Helmet-liikenne-ennustemallin kehittäminen (raskaan liikenteen päivitys Helmet 5 -mallissa, citylogistiikan mallintaminen, Helmet-mallin soveltaminen operatiivisiin skenaarioihin), laaja joukkoliikenteen kuormitusten vertailu eri datalähteen mukaan + mahdollisesti kenttätutkimukset (Helmet-malli, TravelSense, MatLas, Telia), toimenpidevalikoiman koodaaminen liikenne-ennustemalliin ja seudulliset ajoneuvokanta- ja yksikköpäästöennusteet\n\nd) Liikennejärjestelmätutkimusten suunnittelu ja tutkimusaineistojen analysointi \nEsim. osallistuminen kvantitatiivisten ja kvalitatiivisten asukas- tai käyttäjätutkimusten sisällön suunnitteluun ja tutkimustulosten jatkoanalyyseihin\n\ne) Liikenteen eri vaikutuksiin liittyvät selvitykset eri skenaarioissa tai muissa tarkasteluissa (taloudelliset, sosiaaliset, ympäristölliset vaikutukset) \nEsim. toimenpiteiden julkistaloudelliset vaikutukset (ml. suhteuttaminen kunta- ja valtiontalouden skenaarioihin), elinkeinovaikutukset, sosiaaliset vaikutukset (liikkumiskustannukset eri väestöryhmillä), sote-palvelujen saavutettavuus hyvinvointialueilla ja esteettömyysarvioiden kerääminen\n\nf) Hinnoittelutarkastelut\nEsim. vaikutukset kulkutapaosuuksiin ja HSL-talouteen erilaisilla joukkoliikenteen lippujen tai tieliikenteen hinnoittelun muutoksilla (sis. arviot hintajoustoista).\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan.,",
+     "docs_url": "https://tarjouspalvelu.fi/hsl?id=536873&tpk=d396ebb5-2fc6-480a-8adc-5eb16f7cd66b",
+     "dps": false,
+     "framework": true,
+     "id": 60742,
+     "key": "EF-60742",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "1) Liikennejärjestelmäsuunnittelu"
+      },
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "2) Joukkoliikennesuunnittelu"
+      },
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "3) Vaikutusten arviointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060742",
+     "org": "Helsingin seudun liikenne -kuntayhtymä",
+     "published": "2026-10-30T06:05:10+02:00",
+     "reasons": [
+      "konsultoin, selvitys, arviointi, vaikutusten arviointi"
+     ],
+     "title": "Liikenteen suunnitteluun liittyvien tehtävien puitejärjestely",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39410/notice/60742/overview",
+     "value": 5000000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2036-12-31T00:00:00+02:00",
+     "desc": "Työmarkkinoiden muuttuviin osaamistarpeisiin vastaavien työvoimakoulutusten dynaaminen toimittajarekisteri (DPS) Business Oulu -liikelaitos (jäljempänä myös \"BusinessOulu\", \"Tilaaja\" tai \"Hankintayksikkö\")  perustaa dynaamisen toimittajarekisterin työmarkkinoiden muuttuviin osaamistarpeisiin vastaamiseksi. Hankintojen tavoitteena on täydentää työnhakija-asiakkaiden osaamista, vahvistaa heidän työllistymistään ja vastata alueen yritysten osaamis- ja rekrytointitarpeisiin. Hankintasopimukset muodostetaan sisäisten kilpailutusten lopputuloksena.\n\nPalvelut järjestetään Oulun seudun työllisyysalueella. Oulun seudun työllisyysalueeseen kuuluvat seuraavat kunnat: Hailuoto, Ii, Kempele, Liminka, Lumijoki, Muhos, Oulu, Pudasjärvi, Tyrnävä, Utajärvi ja Vaala. \n\nBusiness Oulu -liikelaitoksen työllisyysjaosto on Oulun kaupungin organisaatioon kuuluva toimielin, joka vastaa työvoimapalvelujen järjestämisestä Oulun seudun työllisyysalueella. \n\nHankinnasta kiinnostuneita ehdokkaita pyydetään jättämään osallistumishakemus Tarjouspalvelu.fi-portaalissa tämän osallistumispyynnön ja sen liitteiden mukaisesti. Hankintayksikkö käsittelee osallistumishakemukset liitteessä 5 kuvatun mukaisesti. Hankintayksikkö hyväksyy dynaamiseen toimittajarekisteriin kaikki ehdokkaat, jotka täyttävät osallistumispyynnöllä ja sen liitteillä asetetut vaatimukset. Dynaamisen toimittajarekisterin toiminta on kuvattu tarkemmin tämän osallistumispyynnön liitteessä 5. Kyseessä on julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (1397/2016, hankintalaki) liitteen E mukainen kansallisen kynnysarvon ylittävä hankinta. \n\nDynaaminen toimittajarekisteri on voimassa 31.12.2036 saakka, ellei sitä erillisellä ilmoituksella lyhennetä tai pidennetä. Hankintayksikkö ei sitoudu mihinkään hankintamääriin tai määräostovelvoitteisiin tällä ilmoituksella.,",
+     "docs_url": "https://tarjouspalvelu.fi/ouka?id=630068&tpk=1dbd2f69-bd89-4681-8813-0bac6e319b8b",
+     "dps": true,
+     "framework": false,
+     "id": 60818,
+     "key": "EF-60818",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Työmarkkinoiden muuttuviin osaamistarpeisiin vastaavien työvoimakoulutusten dynaaminen toimittajarekisteri (DPS)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060818",
+     "org": "Oulun kaupunki",
+     "published": "2026-11-01T11:05:08+02:00",
+     "reasons": [
+      "kuvauksessa: hankintalaki"
+     ],
+     "title": "Työmarkkinoiden muuttuviin osaamistarpeisiin vastaavien työvoimakoulutusten dynaaminen toimittajarekisteri (DPS)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39455/notice/60818/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-02T16:00:00+02:00",
+     "desc": "Aloittavan yrittäjän neuvontapalvelut 1. Hankinnan kohde\n\nHankinnan kohteena on aloittavien yritysten neuvonta- ja valmennuspalvelukokonaisuus, joka muodostuu kahdesta toisiaan täydentävästä osa-alueesta:\n\n1. yrityksen perustamisneuvonnasta yritystoimintaa suunnitteleville henkilöille sekä\n2. yrityksen käynnistämisvaiheen tuesta ja valmennuksesta vastaperustetuille yrityksille.\n\nPalvelujen tavoitteena on madaltaa yrittäjäksi ryhtymisen kynnystä, parantaa yritysten toimintaedellytyksiä sekä vahvistaa uusien yritysten elinkelpoisuutta ja jatkuvuutta ensimmäisten toimintavuosien aikana. Palvelukokonaisuuden tulee muodostaa yhtenäinen asiakaspolku liikeidean arvioinnista yrityksen alkuvaiheen kehittämiseen. \n\nTilaajan näkemyksen mukaan palvelu on syytä kilpailuttaa ja tuottaa yhtenä kokonaisuutena, jolloin yritystoimintaa suunnittelevan henkilön ja myöhemmin yrityksen asiakkuus on yhdellä toimijalla. Tällöin palveluntuottaja pystyy parhaalla mahdollisella tavalla tukemaan yritystoimintaa suunnittelevia henkilöitä yrityksen perustamisessa ja vahvistamaan yritysten elinkelpoisuutta ja kasvuedellytyksiä toiminnan alkuvaiheessa.\n\nSopimuskauden aikana Jyväskylässä yritysneuvonta- ja kehittämispalveluita toteutetaan ns. Jyväskylän mallin mukaisesti osana Yritystalo-toimintakonseptia. Yritystalo on yksi yhteinen palvelukeskus, jonka toiminta-ajatuksena on tuoda kaikki kaupungin yritys- ja työnantajapalvelut saman katon alle. \n\n2. Sopimuskausi ja hankinnan arvo\n\nSopimuskausi on 1.1.2027-31.12.2028.\nHankintaan sisältyy tilaajan yksipuolinen optio ajalle 1.1.2029-31.12.2029.\nHankinnan ennakoitu kokonaisarvo optiokausi mukaan lukien on noin 780 000 euroa (alv 0 %).\nTilaaja ei sitoudu tiettyihin hankintamääriin.\n\n3. Palvelun kohderyhmät\n\nPalvelut suunnataan erityisesti seuraaville asiakasryhmille:\n• työttömät työnhakijat\n• maahanmuuttajat\n• nuoret\n• opiskelijat\n• työssäkäyvät henkilöt\n• muut yritystoiminnan aloittamista suunnittelevat henkilöt\n\nYrityksen perustamisneuvontaa tarjotaan Jyväskylässä asuville henkilöille. Käynnistämisvaiheen tukea tarjotaan Jyväskylään perustetuille tai pääasiallisesti Jyväskylässä toimiville yrityksille enintään 18 kuukauden ajan yrityksen perustamisesta.\n\n4. Palvelun sisältö\n\n4.1 Yrityksen perustamisneuvonta\n\nPalveluntuottajan tulee tarjota yritystoiminnan aloittamista suunnitteleville asiakkaille asiantuntevaa, maksutonta ja puolueetonta neuvontaa.\nPerustamisneuvonnan tulee sisältää vähintään:\n• henkilökohtainen yritysneuvonta\n• ryhmämuotoiset info- ja neuvontatilaisuudet\n• liikeidean arviointi\n• yrittäjävalmiuksien arviointi\n• liiketoimintasuunnitelman laadinnan ohjaus\n• talous- ja kannattavuuslaskelmien ohjaus\n• markkina- ja kilpailutilanteen arviointi\n• yritysmuodon valintaan liittyvä neuvonta\n• rahoitus-, lupa- ja viranomaisprosesseihin liittyvä ohjaus\n• yrityksen perustamiseen liittyvä käytännön ohjaus.\nPalveluntuottajan tulee kyetä palvelemaan asiakkaita suomeksi ja englanniksi. Muiden kielten osalta palveluntuottajan tulee kuvata käytettävät ratkaisut.\n\n4.2 Yrityksen käynnistämisvaiheen tuki ja valmennus\n\nPalveluntuottajan tulee tarjota vastaperustetuille yrityksille suunnitelmallista tukea ja valmennusta yrityksen ensimmäisten toimintakuukausien aikana.\nTuen tulee perustua mahdollisuuksien mukaan yrityksen perustamisvaiheessa laadittuihin suunnitelmiin, laskelmiin ja kehittämistoimenpiteisiin. Palveluntuottajan tulee varmistaa asiakkuuden saumaton jatkuminen perustamisvaiheesta käynnistämisvaiheen palveluihin.\nKäynnistämisvaiheen palvelun tulee sisältää vähintään:\n• yritystoiminnan alkuvaiheen tilannekartoitus\n• liiketoimintasuunnitelman päivittäminen\n• myynnin ja markkinoinnin kehittäminen\n• hinnoittelun ja kannattavuuden seuranta\n• talouden hallinnan ohjaus\n• kassavirran hallinnan tuki\n• digitaalisten työkalujen hyödyntämisen ohjaus\n• verkostojen ja yhteistyökumppaneiden tunnistaminen\n• kasvun ja kehittämisen mahdollisuuksien arviointi\n• yksilöllinen yritysvalmennus.\nPalvelun tulee olla asiakkaan käytettävissä enintään 18 kuukauden ajan yrityksen perustamisesta.\n\n5. Tavoitteet\n\nTilaajan tavoitteena on, että palvelu:\n• edistää uusien yritysten syntymistä Jyväskylään\n• lisää yrittäjyyden houkuttelevuutta eri kohderyhmissä\n• parantaa yritysten alkuvaiheen menestymismahdollisuuksia\n• vähentää yritystoiminnan alkuvaiheen keskeytymistä\n• tukee työllistymistä yrittäjyyden kautta\n• vahvistaa alueen elinvoimaa.\nPalveluntuottajan tulee toiminnassaan tavoitella vähintään seuraavan suuruisia palveluvolyymejä:\n• vähintään 250 uutta perustamisneuvonnan asiakasta vuodessa\n• vähintään 130 perustamisneuvonnan seurauksena syntyvää yritystä vuodessa.\nTilaaja käyttää tavoitteita palvelun vaikuttavuuden arvioinnissa.\n\n6. Palvelun toteuttamistapa\n\nPalveluntuottajan tulee järjestää palvelut ensisijaisesti Jyväskylässä. Palveluntuottajan tulee sitoutua tuottamaan palvelua osana Jyväskylän kaupungin Jyväskylän mallin mukaista Yritystalo-konseptia.\nPalvelua tulee olla saatavilla:\n• lähitapaamisina\n• etäpalveluina\n• puhelin- ja verkkoneuvontana\n• ryhmätilaisuuksina.\nPalveluntuottajan tulee huolehtia asiakkaiden yhdenvertaisesta kohtelusta ja palvelujen saavutettavuudesta.\n\n7. Tarjoajan soveltuvuus\n\nTarjoajalla tulee olla:\n• riittävä kokemus aloittavien yritysten neuvonnasta tai yritysten kehittämispalveluiden tuottamisesta\n• käytettävissään riittävä määrä yritysneuvonnan asiantuntijoita\n• osaaminen yrityksen perustamisesta, liiketoiminnan suunnittelusta, yritysrahoituksesta, taloudesta ja yritysten kehittämisestä\n• valmius tuottaa palvelua monikanavaisesti\n• asiakasohjausmalli yrittäjän osaamisen vahvistamiseksi Jyväskylän seudun koulutustarjontaa hyödyntäen\n• dokumentoitu laadunhallintamalli ja vähintään kahden vuoden kokemus ao. laadunhallintamallin toteuttamisesta\nTarjoajan soveltuvuutta arvioidaan soveltuvuusvaatimusten ja laatukriteerien perusteella.,",
+     "docs_url": "https://tarjouspalvelu.fi/jyvaskyla?id=633809&tpk=61ab1d6a-9db8-46b3-8a8e-6bb66fbf44fa",
+     "dps": false,
+     "framework": false,
+     "id": 60896,
+     "key": "EF-60896",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Aloittavan yrittäjän neuvontapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060896",
+     "org": "Jyväskylän kaupunki",
+     "published": "2026-11-01T19:05:03+02:00",
+     "reasons": [
+      "arviointi, koulutus, valmennus, kehittämispalvelu"
+     ],
+     "title": "Aloittavan yrittäjän neuvontapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39503/notice/60896/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-06T12:00:00+02:00",
+     "desc": "Kulunvalvontajärjestelmän hankinta Hankinnan kohteena on kulunvalvontajärjestelmä tarjouspyynnön ja sen liitteiden mukaisesti. Sopimuskumppaniksi valitaan yksi (1) Toimittaja.\n\nSopimuskauden pituus: Sopimus on voimassa määräaikaisena kaksi (2) vuotta sopimuksen allekirjoituksesta, jonka jälkeen sopimus jatkuu automaattisesti toistaiseksi voimassa olevana.\n\nValitulla toimittajalla ei ole yksinoikeutta hankinnan kohteena olevien palveluiden toimittamiseen. \n\nSopimuksen perusteella hankintoja voivat tehdä myös Tilaajan seuraavat konserniyhtiöt:\n- VTK-Kiinteistöt Oy\n- Vivamus Kiinteistöt Oy\n- Vantaan tilapalvelut Vantti Oy,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=615146&tpk=9b7233ac-ace8-40d2-b148-e74cb62dfd45",
+     "dps": false,
+     "framework": false,
+     "id": 60599,
+     "key": "EF-60599",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Kulunvalvontajärjestelmän hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060599",
+     "org": "Vantaan kaupunki",
+     "published": "2026-10-29T06:05:10+02:00",
+     "reasons": [],
+     "title": "Kulunvalvontajärjestelmän hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38248/notice/60599/overview",
+     "value": 600000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79416000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-23T12:00:00+02:00",
+     "desc": "Aalto University (hereinafter referred to also as ”Customer” or ”Contracting Entity”) requests tenders for Media Monitoring Services and Social Media Publishing & Analytics Services. \n\nThe procurement is divided into lots, as follows:\n\n1. Media Monitoring Services\n2. Social Media Publishing & Analytics Services. \n\nA tenderer can choose to offer their services to one or both lots. The tenderers will be evaluated separately for each of the lots. Only one tenderer will be selected for each lot. The same tenderer can be selected for both lots. Detailed specifications and requirements are described in the invitation to tender and its annexes., Media Monitoring Services Lot is described in more detail in Annex 1 \"Service description - Media Monitoring\" and in Annex 1.1 \"Minimum Requirements - Media Monitoring\"., Social Media Publishing & Analytics Services Lot is described in more detail in Annex 2 \"Service description - Social Media\" and in Annex 2.1 \"Minimum Requirements - Social Media\".,",
+     "docs_url": "https://tarjouspalvelu.fi/aalto?id=596167&tpk=964a5e92-90c5-4051-b025-cc2862ef4203",
+     "dps": false,
+     "framework": false,
+     "id": 60721,
+     "key": "EF-60721",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79416000"
+       ],
+       "title": "Media Monitoring Services"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060721",
+     "org": "Aalto University Foundation sr",
+     "published": "2026-10-29T12:53:57+02:00",
+     "reasons": [],
+     "title": "Media Monitoring Services and Social Media Publishing & Analytics Services",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39399/notice/60721/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-12T13:00:00+02:00",
+     "desc": "Produktion av informationstidning Vörå kommun ger ut en informationstidning, Kommunbladet, som delas ut till alla hushåll i kommunen. Tidningen ges i nuläget ut av Bonnier News Finland som också äger varumärket (Kommunbladet).  Upplagan är 3500 exemplar. Tidningen utkommer nio gånger per år. Utgivningsdagarna och lämningstider slås fast i samråd mellan parterna.  Informationstidningen är förslagsvis i tabloidformat. Tidningen i tabloidformat trycks i 4-färg och har 20 sidor. Sidantalet kan öka vid behov och pris per sida bör uppges vid eventuell ökning av sidantalet. Mera uppgifter anges i bilaga.,",
+     "docs_url": "https://www.hankintailmoitukset.fi/sv/public/procedure/39341/enotice/60616",
+     "dps": false,
+     "framework": false,
+     "id": 60616,
+     "key": "EF-60616",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Produktion av informationstidning"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060616",
+     "org": "Vörå kommun",
+     "published": "2026-10-30T06:05:01+02:00",
+     "reasons": [],
+     "title": "Produktion av informationstidning",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39341/notice/60616/overview",
+     "value": 80000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-13T16:15:00+02:00",
+     "desc": "Pk-yritysbarometrin toteuttaminen vuodelle 2027 (VN/20171/2026) Tarjouspyynnön kohde\n\nHankinnan kohteena on pk-yritysten suhdanneodotuksia selvittävän barometrin tiedonkeruun ja raportoinnin toteuttaminen kahdesti vuodessa. Pk-yritysbarometrissa kuvataan pienten ja keski-suurten yritysten toimintaa ja niiden taloudellista toimintaympäristöä. Tarkastelun kohteena ovat pk-yritysten suhdanneodotukset ja niiden kehitys, kasvu ja uudistuminen. Lisäksi käsitellään kansainvälistymistä, investointeja ja rahoitusta. \n\nEnsimmäinen barometrin kyselykierros toteutetaan joulu- tammikuussa (julkistaminen helmikuun puolivälissä) ja toinen heinä- elokuussa (julkistaminen syyskuun puoliväliin mennessä) vuonna 2027. Ensimmäinen kysely käynnistyisi siis joulukuussa 2026 ja kyselylomakkeen päivittäminen marraskuussa 2026. \n\nEsimerkit kysymyslomakkeesta ovat liitteinä. Kysymyslomakkeen pituus on enintään 50 kysymystä. Kullekin kierrokselle kysymyslomake vahvistetaan kuitenkin aina erikseen. Osa kysymyksistä on vaihtuvia. Lisäksi joitain aihepiirejä tarkastellaan sekä suppealla että laajalla kysymyspatteristolla siten, että osa kysymyksistä sisältyy vain kevään tai syksyn barometriin. \n\nKysely tehdään suomeksi ja ruotsiksi. Lomakkeen käännöstyöstä vastaa tilaaja.\n\nKohdejoukko ja otos\n\nKyselyn kohdejoukkona ovat pk-yritykset (alle 250 henkilöä työllistävät). Otosjoukko muodostetaan siten, että se rakenteeltaan (alueellisuus, toimialajako ja henkilökunnan koko) vastaa mahdollisimman hyvin pk-yritysrakennetta Suomessa. Otantakehikkona on käytetty TOL 2008 toimiala-luokitusta ja Tilastokeskuksen Yritysrekisteriä tai muuta laajapohjaista yritystietokantaa. Toimittajalla tulee olla käytössään yritysten yhteystietojen hankintaan soveltuva kattava rekisteri, jota voidaan tarvittaessa täydentää Suomen Yrittäjien jäsenrekisterin tiedoin. Toimittajan tulee seurata vastaajajoukkoa ja siihen perustuvien tulosten edustavuutta tiedonkeruiden aikana. \n\nToimittajan tulee poimia otokseen ja saada vastaukset riittävältä määrältä yrityksiä siten, että alueellinen, toimialoittainen ja henkilökunnan kokoluokittainen edustavuus toteutuu. Yleensä pk-yritysbarometrin tietopohjana on ollut noin 4 500–6 000 vastanneen yrityksen tiedot.\n\nKysely toteutetaan pääasiassa internetkyselynä, jota voidaan täydentää mobiilipohjaisella kyselyllä. Tasapainoinen näyte varmistetaan tarvittaessa lisähaastatteluilla puhelimitse. \n\n\n\nkts. tarkemmin liite 1 Hankinnan kuvaus,",
+     "docs_url": "https://tarjouspalvelu.fi/tem?id=634034&tpk=1f6a4211-70bd-42d4-a78c-0334c0246015",
+     "dps": false,
+     "framework": false,
+     "id": 60788,
+     "key": "EF-60788",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Pk-yritysbarometrin toteuttaminen vuodelle 2027 (VN/20171/2026)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060788",
+     "org": "Työ- ja elinkeinoministeriö",
+     "published": "2026-10-30T08:50:23+02:00",
+     "reasons": [],
+     "title": "Pk-yritysbarometrin toteuttaminen vuodelle 2027 (VN/20171/2026)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39441/notice/60788/overview",
+     "value": 65000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-26T12:00:00+02:00",
+     "desc": "Digital Investment Facility (DIF) Local Coordinator for Connectivity for Central Asia (C4CA) programme HAUS Finnish Institute of Public Management Ltd is procuring a Central Asia-based Local Coordinator to support the establishment and operation of the Digital Investment Facility (DIF) under the EU-funded Connectivity for Central Asia (C4CA) programme. The assignment is expected to start in Q4/2026 and last approximately 12 months, with a home-based duty station in Central Asia.\n\nDIF is designed as an advisory facility that helps last-mile connectivity projects (rural mobile coverage, suburban fibre and satellite backhaul) move towards investment readiness and connects them with European and international financiers. The Local Coordinator will map and engage ministries, regulators, telecom operators and project promoters in Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan and Turkmenistan, identify candidate projects, support the submission of Expressions of Interest and carry out first-level eligibility screening. The coordinator will also support the selection and preparation of 2–3 pilot projects for tailored technical assistance, contribute to adapting the DIF model and a regional PPP concept to the Central Asian context, and support investor engagement, including roundtables.\n\nFurther details are provided in Annex 1 (ToR).,",
+     "docs_url": "https://tarjouspalvelu.fi/hausoy?id=634875&tpk=4ccee3fc-a448-4890-9c5b-f7fff25bdbda",
+     "dps": false,
+     "framework": false,
+     "id": 60801,
+     "key": "EF-60801",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79400000"
+       ],
+       "title": "Digital Investment Facility (DIF) Local Coordinator for Connectivity for Central Asia (C4CA) programme"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-060801",
+     "org": "HAUS kehittämiskeskus Oy",
+     "published": "2026-10-30T09:41:48+02:00",
+     "reasons": [],
+     "title": "Digital Investment Facility (DIF) Local Coordinator for Connectivity for Central Asia (C4CA) programme",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39446/notice/60801/overview",
+     "value": 60000.0
+    }
+   ],
+   "start": "2026-10-27T00:00:00+02:00"
   }
  },
  "seen": {
@@ -2161,7 +2752,21 @@
   "EF-60184": "2026-10-20",
   "EF-60190": "2026-10-20",
   "EF-60204": "2026-10-20",
-  "EF-60211": "2026-10-20"
+  "EF-60211": "2026-10-20",
+  "EF-60376": "2026-10-27",
+  "EF-60401": "2026-10-27",
+  "EF-60599": "2026-10-27",
+  "EF-60602": "2026-10-27",
+  "EF-60616": "2026-10-27",
+  "EF-60617": "2026-10-27",
+  "EF-60622": "2026-10-27",
+  "EF-60637": "2026-10-27",
+  "EF-60721": "2026-10-27",
+  "EF-60742": "2026-10-27",
+  "EF-60788": "2026-10-27",
+  "EF-60801": "2026-10-27",
+  "EF-60818": "2026-10-27",
+  "EF-60896": "2026-10-27"
  },
- "watermark": "2026-10-26T12:23:48+02:00"
+ "watermark": "2026-11-02T14:46:08+02:00"
 }
