@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-09T15:14:30+02:00",
+ "last_run": "2026-11-16T15:02:43+02:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -3511,6 +3511,620 @@
     }
    ],
    "start": "2026-11-03T00:00:00+02:00"
+  },
+  "2026-11-10": {
+   "end": "2026-11-16T23:59:59+02:00",
+   "id": "2026-11-10",
+   "label": "10.11.2026 - 16.11.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-14T12:00:00+02:00",
+     "desc": "Perintäpalvelut HUS-Yhtymä (jäljempänä HUS tai tilaaja tai hankintayksikkö) pyytää tarjouksia perintäpalveluista. \n\nPerintäpalveluihin sisältyy sekä asiakaslaskujen perintä (sis. palkkasaatavien perintä, työterveyden saatavien perintä sekä vahingonkorvausten laskutus) että organisaatiolaskujen perintä. \n\nPalveluun sisältyy:\n-Maksuvaatimusten lähettäminen\n-Maksusuunnitelmien teko ja eräpäivien siirrot\n-Velallisasiakkaiden yhteystietojen tarkistus ja ylläpito\n-Maksuhäiriömerkintöjen poiston ilmoittaminen luottotietoyhtiöihin\n-Velallisasiakkaan maksukyvyn tarkistus ja oikeudellisen perinnän onnistumisen/tarpeen arviointi\n-Tarvittaessa oikeudelliseen perintään siirtäminen ja oikeudellisessa perinnässä teknisenä toimijana toimiminen\n-Jälkiperintä\n-Velkajärjestelyihin liittyvät toimet\n-Lainopillisten palveluiden tarjoaminen\n\nMaksumuistutusten lähettäminen ei sisälly palveluun (tilaaja lähettää maksumuistutukset itse). Palveluntuottajalla tulee olla verkkopalvelu, jonka HUS tilaajana saa käyttöönsä. Verkkopalvelu toimii pääasiallisena perintäpalveluiden seuranta-, raportointi-, yhteydenpito ja hallintovälineenä tilaajan ja palveluntuottajan välillä. Palveluntuottajalla tulee olla valmius vastaanottaa ja lähettää tilaajan määräämässä muodossa perintään liittyviä aineistoja. Palveluntuottajan tulee tarjota asiakaspalvelua sekä tilaajalle että velallisasiakkaille. \n\nTilaaja korostaa, että palveluntuottajan tulee noudattaa sekä lakia saatavien perinnästä että hyvää perintätapaa perintätoimissaan. Hankinnalla varmistetaan hallinnon toimivuus ja palveluiden järjestäminen. \n\nKyseessä on kokonaishankinta, eli hankintaa ei ole jaettu osiin. Hankintayksikkö voi jättää hankinnan jakamatta osiin, jos se hankinnan luonteen ja laajuuden tai palvelun toteuttamistavan, hankintakokonaisuuden hallittavuuden ja kokonaisvastuun taikka jakamiseen liittyvien riskien vuoksi ei olisi perustellusta syystä mahdollista. Hankintayksikkö voi jättää hankinnan jakamatta osiin myös, jos tarve koordinoida osien eri sopimuskumppaneita voisi vakavasti vaarantaa sopimuksen asianmukaisen toteuttamisen. Lisäksi osiin jakaminen ei välttämättä ole tarkoituksenmukaista silloin, kun liian pieniin osiin jakaminen voi johtaa vaikeasti hallittavaan kokonaisarkkitehtuuriin tai kustannusten jatkuvaan kasvuun.\n\nHankinnan kohteena olevat palvelut muodostavat toiminnallisen ja teknisen kokonaisuuden, jossa palveluntuottaja vastaa kokonaisvaltaisesti perintäprosessin eri vaiheista, raportoinnista, verkkopalvelusta, tietoturvasta ja asiakaspalvelusta. Usean palveluntuottajan käyttö lisäisi vastuunjakoa ja koordinointitarvetta sekä voisi vaarantaa palvelukokonaisuuden tehokkaan ja yhtenäisen toteuttamisen.\n\nHankinnan ennakoitu arvo on 4 100 000 € neljän (4) vuoden mukaan laskettuna (alv 0%). Hankinnan ennakoidussa arvossa on huomioitu niin tilaajan (HUS) kuin velallisasiakkaankin kulut. \n\nHankinnan ennakoidussa arvossa sekä tarjousvertailussa huomioidaan sekä tilaajalle aiheutuvia kustannuksia että sellaisia perintäpalvelun hintatekijöitä, jotka jäävät loppujen lopuksi velallisasiakkaan kuluksi. Näin menetellään, jotta tarjousvertailussa voidaan arvioida palvelun kokonaistaloudellista edullisuutta sekä tilaajan että velallisasiakkaan näkökulmasta. Liitteessä \"Liite 03 Hintaliite\" on eroteltu hintariveittäin kumman osapuolen kuluista loppujen lopuksi on kyse. Loppujen lopuksi velallisasiakkaan maksettaviksi jäävien kulujen huomioiminen tarjousvertailussa perustuu hankintayksikön tavoitteeseen varmistaa, että perintäpalvelu toteutetaan sekä tilaajan että velallisasiakkaiden näkökulmasta kohtuullisin kustannuksin.\n\nHintaliitteellä (Liite 03) käytettävät arvioidut määrät ja painokertoimet perustuvat hankintayksikön toteutuneisiin toimeksiantomääriin sekä tulevalle sopimuskaudelle arvioituun palvelutarpeeseen. Arvioidut määrät on ilmoitettu yhden (1) vuoden mukaan. Hintaliitteellä käytettävät arvioidut määrät ovat ainoastaan tarjousvertailua varten laadittuja arvioita eivätkä ne muodosta palveluntuottajalle määräostovelvoitetta.\n\nHUS-konserniin kuuluvat tytäryhtiöt voivat halutessaan liittyä hankintaan tekemällä palveluntuottajan kanssa erillisen, tämän hankinnan ehtoihin perustuvan sopimuksen. Liittyminen on tytäryhtiöille vapaaehtoista. Hankintayksikkö arvioi, että liittyminen voi koskea esimerkiksi HUS-Kiinteistöjä. Tytäryhtiöiden mukaan liittyminen on huomioitu hankinnan arvossa. \n\nSuunniteltu sopimuskausi on kolmen (3) vuoden määräaikainen 1.11.2027-31.10.2030, jonka jälkeen sopimus jatkuu toistaiseksi voimassa olevana. Käyttöönottoprojektille on varattu aikaa 1.3.2027-31.10.2027. Palveluntuotanto tulee aloittaa 1.11.2027. \n\nHankintalain 65 §:n mukaisesti hankintayksikkö on ennen hankintailmoituksen julkaisemista kuullut alalla toimivia yrityksiä. Hankinnasta on julkaistu tietopyyntö Hilma-palvelussa 6.6.2025 (Ilmoituksen Hilma-numero 2025-025755). Lisäksi hankintayksikkö on antanut tietopyyntöön ilmoittautuneille markkinatoimijoille mahdollisuuden kommentoida alustavia tarjouspyynnön luonnoksia. Kommentointikierroksia on käyty useita. \n\nHankinnan kohde ja sitä koskevat vaatimukset on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/huslogistiikka?id=629001&tpk=bf81ca41-f1c5-43bc-8684-2ec407d71958",
+     "dps": false,
+     "framework": false,
+     "id": 61528,
+     "key": "EF-61528",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Perintäpalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061528",
+     "org": "HUS-yhtymä",
+     "published": "2026-11-10T06:05:07+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "perintäpalvelu"
+     ],
+     "title": "Perintäpalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39895/notice/61528/overview",
+     "value": 4100000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-14T10:00:00+02:00",
+     "desc": "Puitejärjestely, oikeudelliset asiantuntijapalvelut Hankinnan kohteena ovat Metsähallituksen Kiinteistökehityksen oikeudelliset asiantuntijapalvelut. \n\nPalvelut liittyvät ensisijaisesti uusiutuvan energian, datakeskus- ja energiaintensiivisen teollisuuden sekä kaivosalan hankemyynteihin, yhteisyritys- ja yhteistyöjärjestelyihin, kiinteistö- ja muihin transaktioihin sekä laaja-alaisiin sopimusjärjestelyihin. Palveluihin voi sisältyä myös järjestelyjen strukturointia, prosessin juridista ohjausta, due diligence -tarkastuksia sekä niihin liittyviä rahoitus-, vero-, kilpailu-, valtiontuki- ja lupakysymyksiä. \n\nLisäksi hankintaan sisältyy kiinteistöihin, maankäyttöön ja infrastruktuuriin, hankekehitykseen, kaavoitukseen, luvitukseen ja ympäristöoikeuteen, kansalliseen ja EU-tason sääntelyyn sekä hallinnollisiin menettelyihin, muutoksenhakuun ja riidanratkaisuun liittyvää oikeudellista neuvontaa. \n\nHankinnan kohde sekä puitejärjestelyn toimintamalli on kuvattu tarkemmin tarjouspyynnön liitteellä 1 Hankinnan kohteen kuvaus. \n\nHuom. tarjousaika päättyy 14.12.2026 klo 10.,",
+     "docs_url": "https://tarjouspalvelu.fi/metsahallitus?id=637045&tpk=b58e40c3-9b1e-413d-b926-ad133f85cd09",
+     "dps": false,
+     "framework": true,
+     "id": 61740,
+     "key": "EF-61740",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Puitejärjestely, oikeudelliset asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061740",
+     "org": "Metsähallitus",
+     "published": "2026-11-12T05:05:05+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "oikeudelli"
+     ],
+     "title": "Puitejärjestely, oikeudelliset asiantuntijapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40027/notice/61740/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-11T12:00:00+02:00",
+     "desc": "Työoikeudellisten palvelujen hankinta Keva (myöhemmin myös Tilaaja) pyytää tarjouksia työoikeudellisten palvelujen hankinnasta.\n\nHankinnan kohteena on Kevan työoikeudellisten palvelujen hankinta. \n\nTilaaja ei sitoudu mihinkään hankintamääriin.\n\nTarjouskilpailun perusteella valitaan yksi palveluntuottaja.\n\nSopimus on toistaiseksi voimassa oleva sopimus ja alkaa sopimuksen allekirjoittamisesta.,",
+     "docs_url": "https://tarjouspalvelu.fi/keva?id=614193&tpk=5b0240af-669e-4a86-93a1-e8fdc3a08dca",
+     "dps": false,
+     "framework": false,
+     "id": 61768,
+     "key": "EF-61768",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Työoikeudellisten palvelujen hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061768",
+     "org": "Keva",
+     "published": "2026-11-12T06:05:01+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "oikeudelli, tyooikeu"
+     ],
+     "title": "Työoikeudellisten palvelujen hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40047/notice/61768/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79132000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-29T23:00:00+02:00",
+     "desc": "Hankinnan kohteena on Veikkaus Oy:n ja sen tytäryhtiöiden (jäljempänä ”Veikkaus”) pelijärjestelmien ja -ratkaisujen tarkastuspalveluja koskeva usean toimittajan puitejärjestely. Tarkastuspalvelut perustuvat rahapelilain (10/2026) ja suomalaisen valvontaviranomaisen antamien määräysten vaatimuksiin.\n\nHankinnan kohde kuvataan tarkemmin erityisesti liitteessä 1 ”Hankinnan kuvaus” ja liitteessä 2 ”Palveluvaatimukset”.\n\nTarjoajan on jätettävä tarjous ”pelitulosten tuottamiseen käytettävien komponenttien satunnaisuuden ja luotettavuuden” tarkastuspalveluista kaikkien osa-alueiden 1–3 osalta. Tarjoukset arvioidaan ja toimittajat valitaan erikseen kullekin osa-alueelle hankinta-asiakirjoissa esitetyllä tavalla.\n\nKilpailutuksen perusteella puitejärjestelyyn valitaan enintään viisi (5) toimittajaa kullekin osa-alueelle. Sopimukseen ei sisälly vähimmäisostovelvoitetta.\n\n\nVeikkaus on julkaissut hankintailmoituksen suomen- ja englanninkielisenä. Siinä tapauksessa, että kieliversiot ovat keskenään ristiriidassa, englanninkielinen versio on ensisijainen ja oikeudellisesti sitova suomenkieliseen versioon nähden., Arvontapelit ja -laitteet Osa-alueen 1 sisältö kuvataan tarkemmin liitteessä 1 ”Hankinnan kuvaus”., Fyysiset kasinopelit ja -laitteet Osa-alueen 2 sisältö kuvataan tarkemmin liitteessä 1 ”Hankinnan kuvaus”., Peliautomaatit Osa-alueen 3 sisältö kuvataan tarkemmin liitteessä 1 ”Hankinnan kuvaus”.,",
+     "docs_url": "https://tarjouspalvelu.fi/veikkaus?id=632295&tpk=1cd49c14-7d03-41f5-bcbb-f0818d7567d5",
+     "dps": false,
+     "framework": true,
+     "id": 61827,
+     "key": "EF-61827",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79132000"
+       ],
+       "title": "Arvontapelit ja -laitteet"
+      },
+      {
+       "cpv": [
+        "79132000"
+       ],
+       "title": "Fyysiset kasinopelit ja -laitteet"
+      },
+      {
+       "cpv": [
+        "79132000"
+       ],
+       "title": "Peliautomaatit"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061827",
+     "org": "Veikkaus Oy",
+     "published": "2026-11-13T05:05:03+02:00",
+     "reasons": [
+      "CPV 79132000"
+     ],
+     "title": "Arvontapalveluiden ja pelilaitteiden tarkastuspalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40089/notice/61827/overview",
+     "value": 511500.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-02T12:00:00+02:00",
+     "desc": "Hankinnan kohteena on VR-Yhtymä Oyj:n (jäljempänä \"VR\" tai \"hankintayksikkö\") tarvitsemat oikeudelliset palvelut.\n\nHankinnan kohteena ovat VR-Yhtymä Oyj:n ja sen konserniyhtiöiden tarvitsemat oikeudelliset asiantuntijapalvelut. Hankinnan tavoitteena on muodostaa puitejärjestely, jonka avulla hankitaan korkeatasoisia yritysjuridiikan asiantuntijapalveluita VR:n erilaisiin oikeudellisiin toimeksiantoihin.\n\nPuitejärjestely koostuu kahdesta osa-alueesta, joista osa-alue 1 koskee laajan palveluvalikoiman yritysjuridiikan asiantuntijapalveluita ja osa-alue 2 asiantuntijapalveluita, jotka voivat koostua yksittäisistä asiantuntijapalveluiden toimeksiannoista rajatummalla määrällä oikeudenaloja.\n\nMolemmille osa-alueille tehdään oma sopimus ja molempien osa-alueiden osalta neuvottelut käydään ja tarjousten vertailu ja hankintapäätös tehdään erikseen. Tarjoaja voi osallistua tarjouskilpailuun ja tulla valituksi toimittajaksi vain joko osa-alueelle 1 tai osa-alueelle 2. Mikäli tarjoaja jättää osallistumishakemuksen molemmille osa-alueille, sen toinen osallistumishakemus hylätään tarjouskilpailun ehtojen vastaisena, ellei ehdokas itse vetäydy toiselta osa-alueelta. Hankintayksikkö voi viime kädessä päättää, kumpi osallistumishakemus hylätään.\n\nHankinnan alustava sisältö on kuvattu osallistumispyynnön liitteenä olevassa alustavassa hankinnan kohteen kuvauksessa. Hankintaa koskevat asiakirjat ja niiden sisältö täydentyvät hankintamenettelyn aikana ja lopullinen hankinnan kohde ja vaatimukset esitetään lopullisessa tarjouspyynnössä.\n\nHankintasopimusta voidaan hyödyntää myös VR:n kulloisissakin tytär- ja osakkuusyhtiöissä. Hankintamenettelyn aikana hankintaan voi tulla mukaan uusia tytär- tai osakkuusyhtiöitä tai siitä voi poistua tytär- tai osakkuusyhtiöitä.\n\nPuitejärjestelyn perussopimuskausi on kolme (3) vuotta, minkä jälkeen sopimusta voidaan jatkaa kahdella (2) kahden (2) vuoden optiokaudella (3+2+2). Option käytöstä päättää VR. VR:n tavoitteena on, että sopimuskausi alkaa 1.3.2027. Tämä aikataulu voi hankintamenettelyn aikana muuttua.\n\nErityisalojen hankintalain 45 §:n 2 momentissa tarkoitettu puitesopimuksen perusteella mahdollisesti tehtävien hankintojen yhteenlaskettu enimmäisarvo koko sopimuskaudella huomioiden molemmat hankinnan osa-alueet ja hankinnan optiot on 14 000 000 euroa. Tarjoajia pyydetään huomioimaan, että erityisalojen hankintalain 45 §:n 2 momentissa tarkoitettu yhteenlaskettu enimmäisarvo on eri asia kuin hankinnan ennakoitu arvo. \n\nPuitejärjestely ei sisällä määrä- tai vähimmäisostovelvoitetta ja VR:llä on oikeus hankkia puitejärjestelyn kohteena olevia oikeudellisia palveluita myös tämän puitejärjestelyn ulkopuolelta., Osa-alue 1: Laajan palveluvalikoiman asiantuntijapalvelut Laajan palveluvalikoiman yritysjuridiikan asiantuntijapalvelut VR:n laaja-alaisiin oikeudellisiin tarpeisiin. Palveluiden tulee kattaa laajasti yritysjuridiikan eri oikeudenalat sekä mahdollistaa joustava ja korkealaatuinen asiantuntijatuki.\n\nHankinnan tavoitteena on varmistaa VR:lle korkeatasoinen juridinen neuvonanto, joka tuotetaan kustannustehokkaasti ja joka tukee liiketoiminnan vaativiakin tarpeita. Palvelumallin tulee olla riittävän joustava, jotta se mahdollistaa erilaisten ja erikokoisten toimeksiantojen sujuvan toteuttamisen.\n\nHankinnan alustava sisältö on kuvattu osallistumispyynnön liitteenä olevassa alustavassa hankinnan kohteen kuvauksessa., Osa-alue 2: Suppeamman palveluvalikoiman asiantuntijapalvelut Yritysjuridiikan asiantuntijapalvelut yksittäisiin toimeksiantoihin rajatummalla määrällä oikeudenaloja. Hankinnan tavoitteena on osa-alueen 2 osalta löytää hankintayksikön tarpeisiin asianajotoimistoja, joilla on kyky tarjota hankintayksikölle yritysasiakkaille suunnattua oikeudellista neuvontaa erityisesti sopimusoikeuden, IT- ja teknologiaoikeuden, työoikeuden, tietosuojan, immateriaalioikeuden ja riidanratkaisun osa-alueilla.\n\nHankinnan tavoitteena on varmistaa VR:lle korkeatasoinen juridinen neuvonanto, joka tuotetaan kustannustehokkaasti ja joka tukee liiketoiminnan vaativiakin tarpeita. Palvelumallin tulee olla riittävän joustava, jotta se mahdollistaa erilaisten ja erikokoisten toimeksiantojen sujuvan toteuttamisen. \n\nHankinnan alustava sisältö on kuvattu osallistumispyynnön liitteenä olevassa alustavassa hankinnan kohteen kuvauksessa.,",
+     "docs_url": "https://tarjouspalvelu.fi/vryhtymaoy?id=634242&tpk=6c248147-06d7-46ca-a227-6c008a127a7f",
+     "dps": false,
+     "framework": true,
+     "id": 62089,
+     "key": "EF-62089",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 1: Laajan palveluvalikoiman asiantuntijapalvelut"
+      },
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Osa-alue 2: Suppeamman palveluvalikoiman asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062089",
+     "org": "VR-Yhtymä Oyj",
+     "published": "2026-11-15T21:05:04+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "oikeudelli"
+     ],
+     "title": "VR-Yhtymä Oyj: Osallistumispyyntö / Oikeudelliset palvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39515/notice/62089/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-14T09:00:00+02:00",
+     "desc": "Valmennuspalvelukokonaisuus Vantaan kaupunki kilpailuttaa valmennuskokonaisuuden, jonka  tavoitteena on tarjota Vantaan työllisyyden ja kotoutumisen palveluiden asiakkaille järjestämislain 53 § ja 50 § mukaisia palveluita. Palvelu voi sisältää myös muuta työnhakua tukevaa palvelua. Valmennuskokonaisuus on pääosin suoriteperusteinen. Nykyinen sopimus päättyy 16.5.2027. \n\nArvion mukaan Vantaan työllisyyden ja kotoutumisen palvelualueella voisi olla valmennuskokonaisuuden kohderyhmään kuuluvia asiakkaita toukokuussa 2026 n.14 000. Arvio ei tarkoita, että kaikki potentiaaliset asiakkaat ohjautuvat valmennuskokonaisuuden käyttäjiksi.  \n\nValmennuskokonaisuuden palveluita ovat sopimuskauden alussa seuraavat palvelut:  \n\n- Työnhakuklubit \n- Yksilövalmennus ajanvarauksella  \n- Perusdigitaitojen ryhmäopetus \n- Verkkoalusta itseopiskelua varten \n\nTilaaja voi sopimuskauden aikana ottaa käyttöön myös uusia palvelukokonaisuuksia, joihin sovelletaan tämän hankinnan vaatimuksia ja hintoja.\n\nPalvelukokonaisuutta tuottamaan valitaan kaksi (2) Toimittajaa etusijajärjestyksellä. Ensimmäiseksi sijoittunut Toimittaja tuottaa kaikkia valmennuskokonaisuuteen kuuluvia palveluita. Toiseksi sijoittunut Toimittaja tuottaa yksilövalmennusta ajanvarauksella ja tarjoaa palveluun osallistuville omille asiakkailleen verkkoalustan itseopiskelua varten. \n\nTilaaja ei takaa kummallekaan Toimittajalle tiettyä asiakasmäärää, tilausmäärää, palvelusuoritteiden määrää tai laskutusvolyymia. Tilaaja ei myöskään sitoudu jakamaan yksilövalmennus ajanvarauksella -palvelun tilauksia tai niistä muodostuvaa laskutusta toimittajien kesken tasapuolisesti.\n\nTilaaja ei sitoudu siihen, että mahdollisia uusia palveluita tarjotaan tai tilataan molemmilta Toimittajilta samalla tavalla tai samassa laajuudessa. Tilaaja päättää mahdollisten uusien palveluiden käyttöönotosta, laajuudesta ja toteutustavasta. Mahdollisten uusien palveluiden toteuttaja valitaan palvelun sisältöön, palvelun tavoitteisiin, Toimittajan osaamiseen, käytettävissä oleviin resursseihin sekä palvelun tarkoituksenmukaiseen toteuttamiseen liittyvien perusteiden mukaisesti. \n\nTarkempi kuvaus palvelusta liitteellä 2 Hankinnan kohteen kuvaus.,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=632380&tpk=c46a37f7-c1e5-4db2-b239-52275b4029a9",
+     "dps": false,
+     "framework": true,
+     "id": 61530,
+     "key": "EF-61530",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Valmennuspalvelukokonaisuus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061530",
+     "org": "Vantaan kaupunki",
+     "published": "2026-11-10T06:05:08+02:00",
+     "reasons": [
+      "valmennus"
+     ],
+     "title": "Valmennuspalvelukokonaisuus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39897/notice/61530/overview",
+     "value": 2500000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79410000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-16T12:00:00+02:00",
+     "desc": "ostolaskujen ALV-data-analyysipalvelun hankinta Hankinnan kohteena on arvonlisäverotukseen liittyvä data-analyysi- ja asiantuntijapalvelu, jonka tarkoituksena on arvioida ostolaskujen arvonlisäverokäsittelyn oikeellisuutta, tunnistaa kehittämismahdollisuuksia sekä tukea hyvinvointialueen talous- ja veroprosessien kehittämistä. Palvelu sisältää aineistojen analysointia, raportointia ja asiantuntijakonsultointia.\n\nTämä hankinta sisältää vuosien 2024, 2025 ja 2026 vuosien tarkastamisen.,",
+     "docs_url": "https://tarjouspalvelu.fi/khshp?id=631086&tpk=a09168e5-115f-438f-8d4b-66ef9a2c6770",
+     "dps": false,
+     "framework": false,
+     "id": 61546,
+     "key": "EF-61546",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79410000"
+       ],
+       "title": "ostolaskujen ALV-data-analyysipalvelun hankinta"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061546",
+     "org": "Kanta-Hämeen hyvinvointialue",
+     "published": "2026-11-10T06:05:09+02:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "ostolaskujen ALV-data-analyysipalvelun hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38784/notice/61546/overview",
+     "value": 96000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-10T15:00:00+02:00",
+     "desc": "Hankinnan kohteena on ICT-koulutuspalvelut Helsingin kaupungin ja Helsingin Konsernihankinta Oy:n ilmoittautuneiden osakkaiden käyttöön. \nNämä ovat DigiHelsinki Oy (3300938-6), Helsingin kaupungin asunnot Oy (2379058-6), Helsingin Kaupunkitilat Oy (3226884-5), Helsingin Seniorisäätiö (1729947-5) ja Helsinki Partners Oy (3209009-8).\n\nHankinta jakautuu kolmeen osa-alueeseen. \n\nHankinnasta muodostetaan puitejärjestely seuraaville osa-alueille: \n\nOsa-alue 1 / Taso 1: Peruskäyttäjä, johon valitaan neljä (4) palveluntarjoajaa, ellei vaatimukset täyttäviä tarjoajia ole vähemmän.\nOsa-alue 2 / Taso 2A, Peruskäyttäjä, Taso 2B, Tehokäyttäjä ja Taso 2C, Ammattilainen, johon valitaan neljä (4) palveluntarjoajaa, ellei vaatimukset täyttäviä tarjoajia ole vähemmän.\nOsa-alue 3 / Taso 3, Asiantuntija, johon valitaan neljä (4) palveluntarjoajaa, ellei vaatimukset täyttäviä tarjoajia ole vähemmän.\n\nICT-koulutuksilla tarkoitetaan tässä hankinnassa tieto- ja viestintäteknologiaan, digitaalisiin työvälineisiin, ohjelmistoihin, tietoturvaan, data-analytiikkaan, tekoälyyn sekä tietojärjestelmien käyttöön ja kehittämiseen liittyviä koulutuksia, valmennuksia ja työpajoja\n\nTarjouksen voi jättää yhdelle tai useammalle osa-alueelle. Jokaiselle osa-alueelle tehdään erilliset valinnat.\n\nHankinnan enimmäisarvo on kolme (3) miljoonaa euroa (alv 0%). Arvioitu arvo sisältää koko sopimuskauden eli neljä (4) vuotta ja sen arvioidaan jakautuvan osa-alueittain seuraavasti:\nosa-alue 1: 800 000 euroa\nosa-alue 2: 1 100 000 euroa\nosa-alue 3: 1 100 000 euroa.\n\nTilaaja ei sitoudu mihinkään hankintamääriin. Hankinnan kohde on kuvattu tarkemmin tässä tarjouspyynnössä ja sen liitteissä., OSA-ALUE 1: TASO 1 TASO 1\n\nKoulutukset toteutetaan tilaajan tiloissa tai etäyhteydellä. Tason 1 koulutuksiin kuuluvat muun muassa\n\n• Windows-peruskoulutukset mm. tietokoneen peruskäyttö\n• Microsoft 365 -sovellusten perusteet, kuten Word, Excel, PowerPoint, Forms ja Teams\n• Outlookin sähköposti- ja kalenterikäyttö\n• Microsoft 365 Copilotin perusteet työvälineenä\n• muut generatiivisen tekoälyn peruskoulutukset\n• internetin ja intranetin käyttö\n• Power BI Desktop peruskäyttö \n• Power BI Desktop peruskäyttö valmiiden raporttien käyttö\n• tietoturvan perusteet peruskäyttäjille\n• muut tilaajan vakioituun ICT-ympäristöön liittyvät peruskoulutukset  \n\nTarkemmin hankinnan kohde on kuvattu liitteessä 1 Hankinnan kohteen kuvaus., OSA-ALUE 2: TASO 2 TASO 2A, Peruskäyttäjä\n\nKoulutukset toteutetaan toimittajan tiloissa.\n\nTason 2A koulutuksiin kuuluvat muun muassa:\n\n• Windows-peruskoulutukset\n• Microsoft 365 -sovellusten perusteet, kuten Word, Excel, PowerPoint, Forms ja Teams\n• Outlookin sähköposti- ja kalenterikäyttö\n• Microsoft 365 Copilotin perusteet työvälineenä\n• muut generatiivisen tekoälyn peruskoulutukset\n• internetin ja intranetin käyttö\n• Power BI Desktop peruskäyttö \n• Power BI Desktop peruskäyttö valmiiden raporttien käyttö\n• tietoturvan perusteet peruskäyttäjille\n• muut tilaajan vakioituun ICT-ympäristöön liittyvät peruskoulutukset  \n\nTASO 2B, Tehokäyttäjä \n\nKoulutukset voidaan toteuttaa tilaajan tai toimittajan tiloissa tai etäyhteydellä. \n\nTason 2B koulutuksiin kuuluvat muun muassa:\n\n• SharePointin sisällöntuottaminen\n• Adobe-ohjelmistojen perus- ja jatkokoulutukset\n• Power BI Desktop vaativa käyttö\n• digikuvaus\n• viestintään liittyvät koulutukset\n• roolipohjaiset tekoälykoulutukset asiantuntijoille\n• kehotteiden laatimiseen liittyvät koulutukset\n• muut vastaavan vaativuustason koulutukset\n \nTASO 2C, Ammattilainen \n\nKoulutukset voidaan toteuttaa tilaajan tai toimittajan tiloissa tai etäyhteydellä.\n\nTason 2C koulutuksiin kuuluvat muun muassa:\n\n- tietohallinnon ammattilaisille suunnatut koulutukset\n- tietoturvan ammattilaisille suunnatut tietoturvakoulutukset\n- ohjelmointiin liittyvät koulutukset\n- robotiikkaan ja tekoälyyn liittyvät tekniset koulutukset\n- muut vastaavan tasoiset koulutukset\n\nTarkemmin hankinnan kohde on kuvattu liitteessä 1 Hankinnan kohteen kuvaus., OSA-ALUE 3: TASO 3 TASO 3, Asiantuntija \n\nTason 3 koulutukset voidaan toteuttaa tilaajan tai toimittajan tiloissa tai etäyhteydellä. \n\nTason 3 koulutuksiin kuuluvat muun muassa:\n\n- tekoälyvalmennukset asiantuntijoille ja johdolle\n- projekti- ja hankekoulutukset\n- tuoteomistajakoulutukset\n- muut asiantuntijarooleja tukevat koulutukset sekä sertifiointiin johtavat koulutukset\n\nSertifiointikokeet tai sertifikaatit eivät sisälly koulutuksen hintaan, ellei tarjouspyynnössä tai tilauksessa nimenomaisesti toisin ilmoiteta. \n\nTarkemmin hankinnan kohde on kuvattu liitteessä 1 Hankinnan kohteen kuvaus.,",
+     "docs_url": "https://tarjouspalvelu.fi/helsinki?id=616956&tpk=0532ad1d-b359-424d-ab5c-a204a9cc9ab8",
+     "dps": false,
+     "framework": true,
+     "id": 61591,
+     "key": "EF-61591",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "OSA-ALUE 1: TASO 1"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "OSA-ALUE 2: TASO 2"
+      },
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "OSA-ALUE 3: TASO 3"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061591",
+     "org": "Helsingin kaupunki",
+     "published": "2026-11-11T06:05:02+02:00",
+     "reasons": [
+      "koulutus, tekoäly"
+     ],
+     "title": "ICT-koulutukset",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39932/notice/61591/overview",
+     "value": 3000000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79413000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-26T12:00:00+02:00",
+     "desc": "Hankinnan kohteena ovat VTT:n markkinointi- ja viestintätoimistopalvelut eli markkinoinnin ja viestinnän suunnittelu ja sisällöntuotanto kokonaisvaltaisesti ja/tai projektikohtaisesti. Hankinta sisältää muun muassa markkinoinnin ja viestinnän toimenpiteiden suunnittelun, konseptoinnin ja läpiviennin sekä erilaisten sisältöjen tuotannon kohderyhmälähtöisesti niin painetussa kuin digitaalisessa muodossa.  \n\nHankinnan kohde on jaettu kahteen (2) osakokonaisuuteen:\nOsakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto \nOsakokonaisuus 2: Markkinoinnin suunnittelu ja sisällöntuotanto \n\nOsakokonaisuuksien yhteenlaskettu kokonaisarvo sopimuskautena (mukaan lukien mahdolliset optiovuodet) on 1,6 M€ – 2.5 M€.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto Viestinnän suunnittelun ja sisällöntuotannon osakokonaisuus pitää sisällään erilaisten viestintätoimenpiteiden kokonaisvaltaisen suunnittelun ja konseptoinnin sekä sisältöjen ja kokonaisuuksien käytännön toteutuksen.  VTT tarvitsee vaikuttavuutensa näkyväksi tekemiseksi laajaa yleisöä puhuttelevia tekstityyppejä, tutkimussisältöjä kuvittavia ja tarinallistavia sisältöjä sekä ajatusjohtajuutta kirkastavia sisältöjä. Odotamme toimittajalta näkemystä kohderyhmälähtöisestä, asiantuntevasta, inspiroivasta, vaikuttavasta ja vastuullisesta viestinnästä – myös kansainvälisessä markkinassa. \n\nHankinnan ennakoitu arvo sopimuskautena on 600 000–1 000 000 euroa (alv 0%). Puitejärjestelyn enimmäisarvo sopimuskautena on 1 000 000 euroa (alv 0 %)., Osakokonaisuus 2: Markkinoinnin suunnittelu ja sisällöntuotanto VTT:n markkinoinnin suunnittelun ja sisällöntuotannon osakokonaisuus pitää sisällään erilaisten markkinointitoimenpiteiden kokonaisvaltaisen suunnittelun ja erilaisten sisältöjen tuotannon teksti- ja multimediasisällöistä graafiseen suunnitteluun ja projektinhallintaan. Odotamme kumppanilta ennakointikykyä ja näkemystä uusista markkinoinnin suuntauksista, tekoälyn hyödyntämisestä ja vaikutuskeinoista koko ostajapolun vaiheissa eri kohderyhmille – myös kansainvälisessä markkinassa. Tarjoajalla tulee olla valmius toteuttaa toimeksiantoja kokonaisvaltaisesti sisältäen markkinoinnin operatiivisen suunnittelun sekä tuotannon, esimerkiksi graafisen suunnittelun, valokuvauksen, videotuotannon ja sisällöntuotannon. Palvelu voi sisältää digitaalisia toteutuksia tai kampanjan osatoteutuksia, esimerkiksi videotuotantoja. \n\nHankinnan ennakoitu arvo sopimuskautena on 1 000 000–1 500 000 euroa (alv 0%). Puitejärjestelyn enimmäisarvo sopimuskautena on 1 500 000 euroa (alv 0%).,",
+     "docs_url": "https://tarjouspalvelu.fi/vtt?id=631183&tpk=1c3e7332-8290-4307-8971-47633c34225c",
+     "dps": false,
+     "framework": true,
+     "id": 61626,
+     "key": "EF-61626",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79413000"
+       ],
+       "title": "Osakokonaisuus 1: Viestinnän suunnittelu ja sisällöntuotanto"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061626",
+     "org": "Teknologian tutkimuskeskus VTT Oy",
+     "published": "2026-11-11T06:05:05+02:00",
+     "reasons": [
+      "tekoäly"
+     ],
+     "title": "Markkinointi- ja viestintätoimistopalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38937/notice/61626/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "73111000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-25T12:00:00+02:00",
+     "desc": "Hankinnan kohteena on laboratoriopalveluiden hankinta (elintarvike-, vesi- ja ympäristönäytteiden näytteenotto-, kuljetus- ja tutkimuspalvelut) Vantaan kaupungin eri toimialoille ja kaupungin enemmistöosuudella omistamille yhtiöille: \n\n- Kiinteistö Oy Pakkalankuja 11\n- Hakopolun Liikekiinteistö Oy \n- Kiinteistö Oy Vantaan Helikopteritukikohta \n- Korson Pienteollisuustalo Oy \n- Kiinteistö Oy Tiedepuisto \n- Kiinteistö Oy Hakucenter\n- Kiinteistö Oy Tikkurilan Terveysasema\n- Pallastunturin Liikekiinteistö Oy \n- Kiinteistö Oy Lehdokkitien Virastotalo \n- Kiinteistö Oy Vantaan Maakotkantie 10 \n- Kiinteistö Oy Korson Toimistokeskus \n- Ruukkukujan Autopaikat Oy \n- VTK Kiinteistöt Oy \n- Vantaan Tilapalvelut Vantti Oy\n\nSopimustoimittaja voi tarjota samoin ehdoin palvelujaan Vantaan kaupungin seuraaville konsernitoimijoille: Vivamus \nKiinteistöt Oy, VanPark Oy ja Kiinteistö Oy Vantaan Sote tilat.\n\nHankinta on jaettu osiin seuraavasti:\nOsa-alue 1. Uimaranta-, vesistö-, allas- ja talousvesi\nOsa-alue 2. Elintarvike\nOsa-alue 3. Maaperä ja sedimentti\n\nTarkempi kuvaus hankinnan kohteesta on tarjouspyynnön liitteissä 2.1 - 2.3 (Palvelukuvaukset).\n\nJokaiseen osa-alueeseen valitaan yksi (1) palveluntuottaja.\n\nSopimus on voimassa määräaikaisena kaksi (2) vuotta, jonka jälkeen sopimus jatkuu toistaiseksi voimassa olevana. \n\nMikäli sama palveluntuottaja tulee valituksi useammalle kuin yhdelle (1) osa-alueelle, yhdistetään kaikki ko. palveluntuottajan voittamat osa-alueet samalle sopimukselle., Uimaranta-, vesistö-, allas- ja talousvesi Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.1 Palvelukuvaus uimaranta-, vesistö-, allas- ja talousvesi., Elintarvike Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.2 Palvelukuvaus elintarvike., Maaperä ja sedimentti Hankinnan kohde on kuvattu tarkemmin tarjouspyynnön liitteessä 2.3 Palvelukuvaus maaperä ja sedimentti.,",
+     "docs_url": "https://tarjouspalvelu.fi/vantaa?id=607053&tpk=3b9fd310-efd9-4cb2-8554-4a8e437a5522",
+     "dps": false,
+     "framework": false,
+     "id": 61615,
+     "key": "EF-61615",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Uimaranta-, vesistö-, allas- ja talousvesi"
+      },
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Elintarvike"
+      },
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Maaperä ja sedimentti"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061615",
+     "org": "Vantaan kaupunki",
+     "published": "2026-11-11T06:05:05+02:00",
+     "reasons": [
+      "tutkimuspalvelu"
+     ],
+     "title": "Laboratoriopalveluiden hankinta",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38484/notice/61615/overview",
+     "value": 742000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-03T12:00:00+02:00",
+     "desc": "Helsingin Seudun liikenne - kuntayhtymä Y-tunnus 2274586-3 (jäljempänä HSL, Tilaaja, hankintayksikkö) pyytää tarjouksia  joukkoliikenteen suunnitteluun ja muihin sen valmisteluun liittyvien tehtävien puitejärjestelyyn. \n\nHankinta on jaettu kolmeen osa-alueeseen: \n1) Liikennejärjestelmäsuunnittelu\n2) Joukkoliikennesuunnittelu \n3) Vaikutusten arviointi \n\nHankinnan kohde ja sitä koskevat vaatimukset on kuvattu yksityiskohtaisesti tässä tarjouspyynnössä ja sen liitteissä.\nTarjouksen voi tehdä yhdestä tai useammasta osasta., 1) Liikennejärjestelmäsuunnittelu Puitejärjestelyn osa-alueelta 1 voidaan tilata esimerkiksi seuraavia tehtäviä:  \n\na) Liikennejärjestelmäsuunnitelmat\nEsim. avustaminen seudullisen liikennejärjestelmäsuunnitelman ja sen osaselvitysten laadinnassa\n\nb) Liikennejärjestelmää ja maankäyttöä iteroiva yhteissuunnittelu\nEsim. joukkoliikenteen, tieverkon ja pyöräliikenteen seudullisten tavoiteverkkojen laadinta\n\nc) Matkaketjut\nEsim. joukkoliikenteen, kävelyn, pyöräilyn ja/tai erilaisten liikkumispalveluiden solmuihin ja liityntöihin liittyvät selvitykset ja suunnitelmat\n\nd) Kävely, pyöräily ja liikkumisen ohjaus\nEsim. edistämisohjelmat ja -suunnitelmat ja pyöräliikenteen pääverkon päivitys\n\ne) Kestävän kaupunkiliikenteen ja kestävän logistiikan suunnittelu\nEsim. kestävän kaupunkiliikenteen suunnitelman, kestävän kaupunkilogistiikan suunnitelman laadinta tai näihin suunnitelmiin liittyvät osaselvitykset\n\nf) Liikenteen teknologiat ja palvelut\nEsim. automaatio, osaselvitykset, joissa kuvataan teeman nykytilaa ja kehittämistarpeita\n\ng) Liikenteen talous ja rahoitus\nEsim. julkisen talouden (kunnat ja valtio) budjettirajoiteskenaarioiden määrittäminen\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan., 2) Joukkoliikennesuunnittelu Puitejärjestelyn osa-alueelta 2 voidaan tilata esimerkiksi seuraavia tehtäviä:\n\na) Linjastosuunnittelu\nEsim. alueelliset linjastoselvitykset, runkolinjastosuunnitelmat ja laajemmat kokonaisuudet\n\nb) Joukkoliikenteen asiakasymmärrys\nEsim. osallisuus, asiakasymmärrys, esteettömyyskartoitukset, opastinsuunnittelu ja joukkoliikenteen houkuttelevuuden kehittäminen\n\nc) Selvitykset infran kehittämistoimenpiteistä liikennöinnin näkökulmasta\nEsim. sujuvuuden ja luotettavuuden kehittäminen ja kuljettajien sosiaalitilat \n\nd) Raideliikenteen tarjonnan suunnittelu\nEsim. tarjontakuvaukset, kustannusten ja kysynnän mallintaminen\n\ne) Joukkoliikenteen hankintaan ja sopimusehtoihin liittyvä konsultointi\nEsim. päästölaskennat, kaluston laatu ja hankintatapaselvitykset\n\nKilpailutus tämän kohdan (Joukkoliikenteen hankintaan ja sopimusehtoihin liittyvä konsultointi) osalta kattaa vain ne hankinnat, jotka toteutetaan hankintalain mukaisessa menettelyssä. Metro- ja junaliikenteen hankinnat on rajattu tämän kilpailutuksen ulkopuolelle, koska niiden hankinnassa sovelletaan PSA-lainsäädännön mukaista menettelyä.\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan.\n\nJoukkoliikennesuunnittelun osalta joukkoliikenne käsittää kaikki joukkoliikennemuodot. Vain hankintaan liittyvässä konsultoinnissa juna- ja metroliikenne eivät ole mukana., 3) Vaikutusten arviointi Puitejärjestelyn osa-alueelta 3 voidaan tilata esimerkiksi seuraavia tehtäviä:\n\na) Joukkoliikenteen linjastosuunnitelmien tai poikkeusjärjestelyjen vaikutusten arvioinnit\nEsim. vaikutukset kulkutapaosuuksiin ja matkustaminen muutokset poikkeustilanteissa\n\nb) Liikennejärjestelmäsuunnitteluun liittyvät ohjelmatason vaikutusten arvioinnit ja seurantojen tehtävät\nEsim. asiantuntijaresurssi ympäristövaikutusten tai sosiaalisten vaikutusten arvioinnissa, ulkoiset arvioinnit, MAL-seurantojen suunnittelu ml. datan käsittely ja vieminen seurantatietopohjaan (sis. paikkatiedot)\n\nc) Vaikutusten arvioinnin suunnittelu ja menetelmäkehitys (mm. HELMET-mallin avulla)\nEsim. Helmet-liikenne-ennustemallin kehittäminen (raskaan liikenteen päivitys Helmet 5 -mallissa, citylogistiikan mallintaminen, Helmet-mallin soveltaminen operatiivisiin skenaarioihin), laaja joukkoliikenteen kuormitusten vertailu eri datalähteen mukaan + mahdollisesti kenttätutkimukset (Helmet-malli, TravelSense, MatLas, Telia), toimenpidevalikoiman koodaaminen liikenne-ennustemalliin ja seudulliset ajoneuvokanta- ja yksikköpäästöennusteet\n\nd) Liikennejärjestelmätutkimusten suunnittelu ja tutkimusaineistojen analysointi \nEsim. osallistuminen kvantitatiivisten ja kvalitatiivisten asukas- tai käyttäjätutkimusten sisällön suunnitteluun ja tutkimustulosten jatkoanalyyseihin\n\ne) Liikenteen eri vaikutuksiin liittyvät selvitykset eri skenaarioissa tai muissa tarkasteluissa (taloudelliset, sosiaaliset, ympäristölliset vaikutukset) \nEsim. toimenpiteiden julkistaloudelliset vaikutukset (ml. suhteuttaminen kunta- ja valtiontalouden skenaarioihin), elinkeinovaikutukset, sosiaaliset vaikutukset (liikkumiskustannukset eri väestöryhmillä), sote-palvelujen saavutettavuus hyvinvointialueilla ja esteettömyysarvioiden kerääminen\n\nf) Hinnoittelutarkastelut\nEsim. vaikutukset kulkutapaosuuksiin ja HSL-talouteen erilaisilla joukkoliikenteen lippujen tai tieliikenteen hinnoittelun muutoksilla (sis. arviot hintajoustoista).\n\nPuitejärjestelyyn valitaan jokaiseen osa-alueeseen enintään 7 toimittajaa. Tavoitteena on valita vähintään 2 toimittajaa. Mikäli hyväksyttäviä tarjouksia saadaan vähemmän, hankintayksikkö pidättää oikeuden tehdä hankintapäätöksen myös yhden toimittajan kanssa tai keskeyttää hankinnan.,",
+     "docs_url": "https://tarjouspalvelu.fi/hsl?id=536873&tpk=d396ebb5-2fc6-480a-8adc-5eb16f7cd66b",
+     "dps": false,
+     "framework": true,
+     "id": 61681,
+     "key": "EF-61681",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "1) Liikennejärjestelmäsuunnittelu"
+      },
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "2) Joukkoliikennesuunnittelu"
+      },
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "3) Vaikutusten arviointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061681",
+     "org": "Helsingin seudun liikenne -kuntayhtymä",
+     "published": "2026-11-11T06:05:09+02:00",
+     "reasons": [
+      "konsultoin, selvitys, arviointi, vaikutusten arviointi"
+     ],
+     "title": "Liikenteen suunnitteluun liittyvien tehtävien puitejärjestely",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39410/notice/61681/overview",
+     "value": 5000000.0
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-11-19T15:00:00+02:00",
+     "desc": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus HANKINNAN TAUSTA\n\nStrateginen suunta kohti vuotta 2030\n\nBusiness Finlandin Strategia 2030:n keskeisenä tavoitteena on saavuttaa julkishallinnon paras asiakaskokemus sekä kasvattaa Business Finlandin vaikuttavuutta suomalaisen elinkeinoelämän uudistumisessa, kasvussa ja kansainvälistymisessä. Tavoitteen saavuttaminen edellyttää siirtymistä nykyisistä osittain manuaalisista, reaktiivisista ja asiantuntijariippuvaisista toimintamalleista kohti tietojohtoista, ennakoivaa ja skaalautuvaa asiakasohjausta.\n\nDigitalisaation tavoitteena ei ole yksinomaan järjestelmien kehittäminen tai teknologian käyttöönotto, vaan toimintatapojen, prosessien ja kyvykkyyksien kokonaisvaltainen uudistaminen. Business Finland haluaa hyödyntää dataa, analytiikkaa ja tekoälyä asiakkaidensa tunnistamisessa, ohjaamisessa ja palvelemisessa sekä vapauttaa asiantuntijoidensa aikaa tausta- tai rutiinitehtävistä vaikuttavampaan asiakastyöhön.\n\nSamanaikaisesti tavoitteena on vahvistaa asiakkaiden kuuntelemista ja asiakasymmärryksen hyödyntämistä osana palveluiden, toimintamallien ja asiakkuuksien kehittämistä. Asiakaskokemusta, asiakasohjauksen vaikuttavuutta sekä palveluiden käyttöä seurataan ja mitataan systemaattisesti, jotta toimintaa voidaan jatkuvasti kehittää tiedolla johdetusti.\n\nTransformaation onnistumista arvioidaan muun muassa seuraavilla mittareilla:\n\n•\tasiakaskokemus ja asiakkaiden suosittelu\n•\tasiakasohjauksen osuvuus\n•\tpalveluihin ohjautuminen\n•\tpalveluiden käyttöaste\n•\tasiakastarpeiden tunnistamisen onnistuminen\n•\tasiakasaktivoinnin vaikuttavuus\n•\tasiakkuuksien kehitys ja palveluiden hyödyntäminen\n•\tasiantuntijatyön tehokkuus ja automaation hyödyntäminen\n•\tdatan, analytiikan ja tekoälyn hyödyntämisen aste\n•\tBusiness Finlandin strategisten tavoitteiden toteutumista tukevat vaikuttavuusmittarit.\n\n\nNykytilan haasteet ja tarve muutokselle\n\nBusiness Finland on toteuttanut datalla johdetun asiakasohjauksen esiselvityksen, jonka yhteydessä on tunnistettu useita nykytilan kehityskohteita ja pullonkauloja. Näiden ratkaisemiseksi tarvitaan pitkäjänteinen kehittämiskumppani tukemaan organisaation muutosta.\n\nKeskeiset tunnistetut haasteet ovat:\n\n1.\tTiedon hajanaisuus ja rajallinen asiakasymmärrys: Asiakkaisiin, markkinoihin, palveluihin, asiointiin, vuorovaikutukseen ja verkostoihin liittyvä tieto on hajautunut useisiin järjestelmiin, tietovarantoihin ja ulkoisiin tietolähteisiin. Tämän vuoksi organisaatiolla ei ole yhtenäistä ja ajantasaista näkymää asiakkaisiin, asiakkaiden tarpeisiin, potentiaaliin, palveluiden käyttöön, asiointihistoriaan eikä asiakkuuden nykytilaan. Tämä vaikeuttaa asiakkaiden tunnistamista, kohdentamista, priorisointia sekä oikea-aikaista palveluohjausta.\n\n2.\tProaktiivisuuden puute ja AI-avusteisen asiakasohjauksen rajallinen hyödyntäminen: Business Finlandilta puuttuu systemaattinen kyvykkyys tunnistaa, priorisoida ja ohjata oikeat asiakkaat oikeisiin palveluihin oikeaan aikaan. AI-avusteisen analytiikan, kohdentamisen ja palveluohjauksen hyödyntäminen on vielä rajallista, mikä heikentää asiakasohjauksen vaikuttavuutta ja skaalautuvuutta.\n\n3.\tManuaalinen asiakasohjaus ja asiantuntijoiden tunnistaminen: Asiakkaiden tarpeiden yhdistäminen oikeisiin palveluihin, asiantuntijoihin, verkostoihin ja ekosysteemeihin perustuu nykyisin pitkälti manuaaliseen tiedonhakuun ja yksittäisten asiantuntijoiden kokemukseen. Organisaatiolta puuttuu AI-avusteinen kyvykkyys tunnistaa asiakkaan tilanteeseen parhaiten soveltuvat palvelut, asiantuntijat ja yhteistyömahdollisuudet sekä tukea asiantuntijoita oikea-aikaisilla suosituksilla. Tämä hidastaa palveluprosessia, vaikeuttaa tiedon hyödyntämistä ja heikentää asiakasohjauksen skaalautuvuutta.\n\nTavoitetila: Datalla johdetun ja AI-avusteisen asiakasohjauksen malli\n\nPitkän aikavälin visiona on rakentaa yhtenäiseen asiakaskuvaan, datalähtöiseen päätöksentekoon, tekoälyavusteiseen asiakasohjaukseen sekä moderniin data- ja AI-kyvykkyyteen perustuva toimintamalli. Tavoitteena on muodostaa kokonaisvaltainen näkymä asiakkaisiin, heidän tarpeisiinsa, potentiaaliinsa, asiointiinsa ja palveluiden käyttöön sekä hyödyntää tätä tietoa asiakkaiden tunnistamisessa, ohjaamisessa ja kehittämisessä.\n\nTavoitetilassa asiakkaan polku jakautuu kolmeen vaiheeseen, joiden digitaalista kyvykkyyttä Toimittajan tulee tukea kehittämään:\n\n1. Tunnista & tavoita\n\nHyödynnämme sisäisiä ja ulkoisia tietolähteitä tunnistaaksemme uusia potentiaalisia kasvuyrityksiä sekä ennakoidaksemme asiakkaiden tarpeita. Asiakkaille kohdennetaan oikea-aikaisesti heidän tilanteeseensa sopivia palveluita, sisältöjä, tapahtumia ja yhteydenottoja datan, analytiikan ja AI-avusteisen kohdentamisen avulla.\n\n2. Palvele & ratkaise\n\nAutamme asiakkaita löytämään heidän tilanteeseensa parhaiten soveltuvat palvelut, rahoitusinstrumentit, asiantuntijat, verkostot ja kansainvälistymismahdollisuudet. AI-avusteinen asiakasohjaus tukee tarpeiden tunnistamista, asiantuntijoiden työtä, palveluiden suosittelua sekä asiakkaiden ohjautumista tarkoituksenmukaisiin palvelupolkuihin.\n\n3. Seuraa & syvennä\n\nHyödynnämme tietoa asiakkaiden kehityksestä, palveluiden käytöstä ja asiointihistoriasta asiakkuuksien jatkuvaan kehittämiseen. Ennakoimme asiakkaiden tulevia tarpeita ja suosittelemme proaktiivisesti seuraavia palveluita, verkostoja, ohjelmia ja kehittämispolkuja asiakkaan kasvun, kansainvälistymisen ja vaikuttavuuden tukemiseksi.\n\nTämän vuoksi Business Finland etsii kumppania, joka ei ainoastaan toimita teknistä koodia tai arkkitehtuurikuvauksia, vaan kykenee viemään muutoksen läpi kaikilla tasoilla: luomassa arvoa tuottavia käyttötapauksia, rakentamassa vankkaa kyvykkyysperustaa, uudistamassa organisaation yhteistä kieltä ja operointimallia sekä johtamassa kulttuurista muutosta ja asiantuntijoiden datalukutaitoa.,",
+     "docs_url": "https://tarjous.bidi.fi/tender/3",
+     "dps": false,
+     "framework": false,
+     "id": 61697,
+     "key": "EF-61697",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061697",
+     "org": "Business Finland Oy",
+     "published": "2026-11-12T05:05:02+02:00",
+     "reasons": [
+      "asiantuntijatyö, tekoäly, digitalisaatio"
+     ],
+     "title": "Datalähtöisen ja AI-avusteisen asiakasohjauksen kehittämiskumppanuus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37564/notice/61697/overview",
+     "value": 1500000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "80400000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-14T09:00:00+02:00",
+     "desc": "Innovaatiokyvykkyyden, työllistymisen ja yrittäjyyden valmennus asiantuntijoille Tampereen kaupunki pyytää tarjouksia tämän tarjouspyynnön ja sen liitteiden mukaisesti. Avoimella menettelyllä valitaan yksi palveluntuottaja, jonka kanssa tehdään toistaiseksi voimassa oleva hankintasopimus. Hankittavan palvelun sisältö on kuvattu tarkemmin tarjouspyynnön liitteenä olevassa palvelukuvauksessa. Tarjouspyynnön liitteet löytyvät kohdasta Tarjouspyynnön liitteet. Hankittavan palvelun ennakoitu arvo ylittää julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain (hankintalaki 1397/2016) 25 §:n mukaisen kynnysarvon liitteen E hankinnoille, joten kilpailutuksessa sovelletaan hankintalakia. Hankintayksikkö valitsee tarjouksista kokonaistaloudellisesti edullisimman. Kokonaistaloudellisen edullisuuden perusteet (arviointikriteerit) on esitetty tässä tarjouspyynnössä.\n\nTyöllisyys- ja kasvupalvelujen palveluryhmän tehtävänä on edistää vastuullista työllisyys- ja yrittäjyyspolitiikkaa, edesauttaa uusien yritysten syntymistä, tukea yritysten kasvua, turvata osaavan työvoiman kansallista ja kansainvälistä saatavuutta ja työvoiman osaamisen kehittämistä sekä ehkäistä syrjäytymistä työmarkkinoilta. Palveluryhmä järjestää lisäksi kaupungin yleisen toimialan mukaiset työllisyyden, yritysten ja yrittäjyyden palvelut. Hankinnan kohteena on ryhmämuotoinen innovaatiokyvykkyyttä, työllistymistä, yrittäjyyttä, startup-yrittäjyyttä ja alueen yritysten innovaatiokyvykkäiden osaajien saatavuutta edistävä palvelu.,",
+     "docs_url": "https://toimittaja-asiointi.tampere.fi",
+     "dps": false,
+     "framework": false,
+     "id": 61813,
+     "key": "EF-61813",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "80400000"
+       ],
+       "title": "Innovaatiokyvykkyyden, työllistymisen ja yrittäjyyden valmennus asiantuntijoille"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-061813",
+     "org": "Tampereen kaupunki",
+     "published": "2026-11-13T05:05:02+02:00",
+     "reasons": [
+      "kuvauksessa: hankintalaki"
+     ],
+     "title": "Innovaatiokyvykkyyden, työllistymisen ja yrittäjyyden valmennus asiantuntijoille",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37233/notice/61813/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-02T11:00:00+02:00",
+     "desc": "Turun kaupungin hankintapalvelut pyytää Business Turku Oy:n toimeksiannosta tarjouksia talous- ja palkkahallinnon palveluista sekä työajanseurantaratkaisusta ajalle 1.2.2027 (tavoite) - 31.12.2030, jonka jälkeen sopimus jatkuu toistaiseksi voimassa olevana.\n\nSelvyyden vuoksi todetaan, että sopimus käyttöönottoprojekti alkaa heti sopimuksen allekirjoittamisesta ja tavoite ensimmäisen vaiheen tuotantokäytölle on 1.2.2027.\n\nSopimus alkaa käyttöönottoprojektilla, joka on määritelty tarkemmin hankinta-asiakirjoissa.\n\nHankinnan kohde on kuvattu hankinta-asiakirjoissa.\n\nValitaan yksi (1) palveluntuottaja.\n\nOsa 2 (Työajanseurantaoptio) on vapaaehtoinen optio. Optiota ei kuitenkaan voi tarjota itsenäisenä palveluna. Optio voidaan hankkia vain siltä toimittajalta, jolta hankitaan Osan 1 pääpalvelut.\n\nHankinnan valmisteluvaiheessa tehtiin markkinakartoitus, joka toteutettiin julkaisemalla HILMAssa tietopyyntö 18.9.2026. Tietopyyntö oli avoin kaikille kiinnostuneille tarjoajille, ja siihen saatiin kolme vastausta. Saatuja vastauksia hyödynnettiin hankinnan kohteen, vähimmäisvaatimusten, sopimusehtojen ja kilpailutuksen aikataulun valmistelussa. Markkinakartoitus toteutettiin avoimuuden ja tasapuolisen kohtelun periaatteita noudattaen.\n\nHankinnan jakaminen osiin ei ole tilaajan tarpeiden näkökulmasta katsottuna mahdollista, koska jakaminen johtaisi palveluiden kannalta hallitsemattomaan tilanteeseen, jota ei palvelun kriittisyyden vuoksi olisi mahdollista koordinoida turvallisesti säilyttäen samalla palvelun toimivuus. Jakaminen tuottaisi palveluprosesseihin sekä osapuolten vastuisiin ja vastuiden seurantaan merkittäviä haasteita. Hankinnan sopimushallinta tulisi teknisesti erittäin raskaaksi ja kalliiksi, ja jakaminen vaarantaisi sopimuksen asianmukaisen seurannan. Sopimuksen jakaminen osiin heikentäisi merkittävästi myös kilpailutuksella saatavia volyymihyötyjä, koska hankinta voisi jakautua usealle toimittajalle heikentäen sopimuksen arvoa ja sen kiinnostavuutta yksittäiselle toimittajalle., Talous- ja palkkahallinnon palvelut Hankinta on kuvattuna tässä tarjouspyynnössä ja sen liitteissä., OPTIO - Työajanseurantaratkaisu Hankinta on kuvattuna tässä tarjouspyynnössä ja sen liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/turku?id=637147&tpk=9f1ba47b-a74b-428b-b77e-84070aa42c86",
+     "dps": false,
+     "framework": false,
+     "id": 62040,
+     "key": "EF-62040",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Talous- ja palkkahallinnon palvelut"
+      },
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "OPTIO - Työajanseurantaratkaisu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062040",
+     "org": "Business Turku Oy Ab",
+     "published": "2026-11-15T14:05:03+02:00",
+     "reasons": [
+      "kuvauksessa: sopimushallin"
+     ],
+     "title": "Business Turku Oy:n talous- ja palkkahallinnon palvelut  sekä työajanseurantaratkaisu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40217/notice/62040/overview",
+     "value": 300000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-07T12:00:00+02:00",
+     "desc": "Suun terveydenhuollon tiedonhallinnan asiantuntija- ja konsultointipalvelu HANKINNAN KOHDE\n\nHankinnan kohteena on suun terveydenhuollon tiedonhallinnan asiantuntija- ja konsultointipalvelu tarjouspyynnössä ja sen liitteissä määritellyn mukaisesti.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyynnössä ja sen liitteissä, erityisesti liitteessä 2 \"Palvelukuvaus\".\n\nSOPIMUSKAUSI\n\nTavoitteena on, että sopimus tulee voimaan 4.1.2027 alkaen. Sopimuskausi täydennetään lopulliseen hankintasopimukseen ennen allekirjoittamista. Sopimus tulee voimaan aikaisintaan, kun molemmat sopijapuolet ovat allekirjoittaneet sopimuksen ja kun sopimuksen allekirjoittamiselle ei ole hankintalaista johtuvia esteitä. Jos sopimuksen voimaantulo lykkääntyy, päivitetään sopimuskauden päivämääriä siten, että sopimuskauden kesto kuukausina pysyy samana. Lisäksi sopimukseen sisältyy Tilaajan optio jatkaa sopimuskautta enintään kaksi (2) kertaa aina yhdeksi (1) vuodeksi kerrallaan.\n\nHANKINNAN LAAJUUS\n\nHankinnan laajuus on kuvattu tarjouspyynnön liitteessä 2 \"Palvelukuvaus\". Arvioitu hankittava työmäärä on 200 henkilötyötuntia vuodessa. Arvioitu työmäärä ei sido hankintayksikköä sopimuskaudella.,",
+     "docs_url": "https://tarjouspalvelu.fi/thl?id=634152&tpk=87618450-839c-4ce3-901e-a65169dc60ba",
+     "dps": false,
+     "framework": false,
+     "id": 62149,
+     "key": "EF-62149",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Suun terveydenhuollon tiedonhallinnan asiantuntija- ja konsultointipalvelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062149",
+     "org": "Terveyden ja hyvinvoinnin laitos",
+     "published": "2026-11-16T11:55:10+02:00",
+     "reasons": [
+      "konsultoin"
+     ],
+     "title": "Suun terveydenhuollon tiedonhallinnan asiantuntija- ja konsultointipalvelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/37575/notice/62149/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73111000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-17T12:00:00+02:00",
+     "desc": "Whole genome sequencing (WGS) service Finnish Institute for Health and Welfare (THL) requests your Tender for whole genome sequencing of bacteria (WGS) Service. \n\nThe procurement concerns a service for whole genome sequencing of bacteria consisting of bacterial DNA extraction and whole genome sequencing (WGS) service, including shipment cost of the samples according to UN 3373. The procurement also contains a possibility to send DNA samples for WGS instead of bacterial pellets.\n  \nThe procurement is described in more detail in the Call for Tender and its annexes. The process and content of service order is described in Procurement description annex 3.\n\nThe contract period is valid for two (2) years, and thereafter until further notice. The estimated effective date of the Contract is February 2027.\n\nThe Contract will be awarded to one (1) service provider. \n\nBy submitting a tender, the tenderer accepts the terms and conditions set out in this Call for Tenders and its annexes.\n\nCall for Tenders and annexes: \n\nAnnex 1: JYSE 2025 SERVICE \nAnnex 2: Data processing annex\nAnnex 3: Procurement description \nAnnex 4: List of Bacteria \nAnnex 5: Description of Handi Service\nAnnex 6: Subcontractors \nAnnex 7: Contract draft,",
+     "docs_url": "https://tarjouspalvelu.fi/thl?id=627058&tpk=8bd8ab56-1a6f-4bb6-a72b-e35056a14812",
+     "dps": false,
+     "framework": false,
+     "id": 62051,
+     "key": "EF-62051",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73111000"
+       ],
+       "title": "Whole genome sequencing (WGS) service"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062051",
+     "org": "Finnish Institute for Health and Welfare",
+     "published": "2026-11-15T08:05:05+02:00",
+     "reasons": [],
+     "title": "Whole genome sequencing (WGS) service",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40225/notice/62051/overview",
+     "value": null
+    }
+   ],
+   "start": "2026-11-10T00:00:00+02:00"
   }
  },
  "seen": {
@@ -3599,8 +4213,24 @@
   "EF-61456": "2026-11-03",
   "EF-61464": "2026-11-03",
   "EF-61498": "2026-11-03",
+  "EF-61528": "2026-11-10",
+  "EF-61530": "2026-11-10",
   "EF-61541": "2026-11-03",
-  "EF-61563": "2026-11-03"
+  "EF-61546": "2026-11-10",
+  "EF-61563": "2026-11-03",
+  "EF-61591": "2026-11-10",
+  "EF-61615": "2026-11-10",
+  "EF-61626": "2026-11-10",
+  "EF-61681": "2026-11-10",
+  "EF-61697": "2026-11-10",
+  "EF-61740": "2026-11-10",
+  "EF-61768": "2026-11-10",
+  "EF-61813": "2026-11-10",
+  "EF-61827": "2026-11-10",
+  "EF-62040": "2026-11-10",
+  "EF-62051": "2026-11-10",
+  "EF-62089": "2026-11-10",
+  "EF-62149": "2026-11-10"
  },
- "watermark": "2026-11-09T15:14:30+02:00"
+ "watermark": "2026-11-16T15:02:43+02:00"
 }
