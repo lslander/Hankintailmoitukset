@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-16T15:02:43+02:00",
+ "last_run": "2026-11-23T17:10:38+02:00",
  "periods": {
   "2026-09-22": {
    "end": "2026-09-28T23:59:59+03:00",
@@ -4125,6 +4125,454 @@
     }
    ],
    "start": "2026-11-10T00:00:00+02:00"
+  },
+  "2026-11-17": {
+   "end": "2026-11-23T23:59:59+02:00",
+   "id": "2026-11-17",
+   "label": "17.11.2026 - 23.11.2026",
+   "notices": [
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79100000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-04T14:00:00+02:00",
+     "desc": "Juridinen asiantuntijakumppani EurLexGPT:n kehitykseen Hankinnan kohde\n\nSitra hankkii juridisen asiantuntijakumppanin (”juridinen kumppani”) EurLexGPT:n kehitykseen OIVA-hankkeen ajaksi. Kumppani tukee EurLexGPT:n oikeudellisten vaatimusten määrittelyä ja vastaa ratkaisun vastausten oikeudellisesta laadunarvioinnista. Siihen kuuluvat:\n• säädösaineistojen ja oikeuslähteiden hierarkian sekä aineistorajausten määrittely sekä osallistuminen ontologian laatimiseen yhdessä Sitran, pilottikumppaneiden ja teknisen kumppanin kanssa; \n• oikeudellisen laadunarviointimenetelmän kehittäminen ja sen pohjana olevien testiaineistojen (kysymykset, odotetut vastaukset ja lähteet) laatiminen;\n• mallin vastausten ja lähdeviitteiden oikeudellinen laadunarviointi menetelmän mukaisesti; sekä\n• kehityssuositukset teknisille kehittäjille.\n\nLisäksi juridinen kumppani toimii Sitran strategisena sparrauskumppanina oikeusteknologian kentällä. Kumppani ideoi yhdessä Sitran kanssa EurLexGPT:n mahdollisia käyttötapauksia ja hyödyntäjiä. Kumppani tuo myös näkemyksiä siitä, miten ratkaisun skaalautumista voidaan edistää hankkeen aikana ja miten sen jatkokehitys turvataan hankkeen jälkeen (exit-suunnitelma). Juridisen kumppanin mahdollinen oma rooli ratkaisun tunnettuuden ja käyttöönoton edistämisessä katsotaan eduksi (ks. kohta 8.3)\n\nStrategia- ja suunnitteluvaiheen jälkeen oikeudellisen vaatimusmäärittelyn tukeminen ja oikeudellinen laadunarviointi on kehitystyön jatkuva ja kiinteä osa, ei vasta lopussa tehtävä tarkastus. Oikeudellisen laadunarvioinnin havainnot viedään kehittäjille sprinteittäin, jotta niitä voidaan hyödyntää lakitietokannan, kielimallin hienosäädön ja hakuratkaisun (esim. RAG) parantamisessa. Kaikessa työssä pidetään mielessä skaalautuvuus: oikeudellisen arviointimenetelmän ja testiaineistojen on oltava dokumentoituja ja uudelleenkäytettäviä, jotta niitä voidaan hyödyntää myös uusilla sääntelyalueilla, muissa jäsenvaltioissa ja muissa kieliversioissa hankkeen aikana tai sen jälkeen.\n\nHankinnan tarkempi kuvaus on esitetty \"Hankinnan kohteen kuvauksessa\" sekä tarjouspyynnön muissa liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/sitra?id=636981&tpk=b68bedb0-e7e3-4453-8592-c7fe429f13a6",
+     "dps": false,
+     "framework": false,
+     "id": 62570,
+     "key": "EF-62570",
+     "level": "vahva",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79100000"
+       ],
+       "title": "Juridinen asiantuntijakumppani EurLexGPT:n kehitykseen"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062570",
+     "org": "Suomen itsenäisyyden juhlarahasto",
+     "published": "2026-11-19T12:23:44+02:00",
+     "reasons": [
+      "CPV 79100000",
+      "juridi"
+     ],
+     "title": "Juridinen asiantuntijakumppani EurLexGPT:n kehitykseen",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40521/notice/62570/overview",
+     "value": 110717.13
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79411000"
+     ],
+     "currency": "",
+     "deadline": "2026-11-26T12:00:00+02:00",
+     "desc": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys Kittilän kunta pyytää tarjouksia koululautakunnan, hyvinvointivointilautakunnan, teknisen lautakunnan sekä kunnanhallituksen alaisten toimintojen laajasta toiminnallisesta auditoinnista. Auditoinnin tavoitteena on tarkastella näiden toimialojen kulurakennetta ja toimintaprosesseja kriittisesti, kuitenkin tavoitteena säilyttää nykyinen palvelutaso ja laatu.\n\nToimeksiannon tavoitteena on tuottaa Kittilän kunnalle riippumaton ja asiantuntijapohjainen arvio kunnan palvelutuotannon nykytilasta, tehokkuudesta ja kustannusrakenteesta sekä tunnistaa konkreettisia kehittämistoimenpiteitä palveluiden järjestämiseksi taloudellisesti kestävämmällä tavalla. Auditoinnin tulee tuottaa suosituksia, joilla voidaan parantaa toiminnan tehokkuutta, resurssien kohdentamista ja kustannusvaikuttavuutta siten, että palveluiden laatu, vaikuttavuus, saavutettavuus ja kuntalaisten yhdenvertainen palvelujen saatavuus turvataan.\n\nTyöhön haetaan asiantuntijaa, jolla on erinomaista osaamista ja kokemusta kuntien auditointiprosessien menestyksekkäästä suorittamisesta sekä ymmärrystä Lapin kuntien erityisolosuhteista ja kuntien toimintoja koskevasta lainsäädännöstä.\n\nTarkempi kuvaus hankinnasta on annettu tarjouspyynnön liitteessä.,",
+     "docs_url": "https://tarjouspalvelu.fi/kittila?id=633483&tpk=cf3fd180-02c6-4e2d-9a3e-c3f0b296d894",
+     "dps": false,
+     "framework": false,
+     "id": 62226,
+     "key": "EF-62226",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79411000"
+       ],
+       "title": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062226",
+     "org": "Kittilän kunta",
+     "published": "2026-11-16T17:19:32+02:00",
+     "reasons": [
+      "selvitys"
+     ],
+     "title": "Kittilän kunnan toimintojen auditointi- ja kustannustehokkuusselvitys",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/39347/notice/62226/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-18T12:00:00+02:00",
+     "desc": "Opintosetelikokeilun arviointi- ja seurantahanke (2026-2030) Hankinnan kohteena oleva arviointi- ja seurantahanke kohdistuu vuosina 2026–2028 toteutettavan opintosetelikokeilun toimeenpanon ajanjaksolle, joka ajoittuu vuosille 2026–2030. \n\nHankinnan sisältö on kuvattu tarjouspyynnöissä ja se liitteissä.,",
+     "docs_url": "https://tarjouspalvelu.fi/valtioneuvostonkanslia?id=631860&tpk=cdafc289-7fac-4ff0-bc44-700e8062819d",
+     "dps": false,
+     "framework": false,
+     "id": 62114,
+     "key": "EF-62114",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73000000"
+       ],
+       "title": "Opintosetelikokeilun arviointi- ja seurantahanke (2026-2030)"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062114",
+     "org": "Opetus- ja kulttuuriministeriö",
+     "published": "2026-11-17T05:05:04+02:00",
+     "reasons": [
+      "arviointi"
+     ],
+     "title": "Opintosetelikokeilun arviointi- ja seurantahanke (2026-2030)",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40265/notice/62114/overview",
+     "value": 450000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79411100"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-02T10:00:00+02:00",
+     "desc": "Tiedekeskus Aurora -hankkeen kiinteistöinvestoinnin kaupallisen toteutus-, omistus- ja rahoitusmallin sekä sijoittaja- ja toimijahaun asiantuntijapalvelu Hankinnan kohteena on kiinteistöinvestoinnin kaupallinen toteutettavuusarvio sekä toteutus-, omistus-, yhtiö- ja rahoitusmallien vertailu ja markkinatestaus. Peruspalveluun kuuluvat kaupallinen tilatarveselvitys, alustava investointikustannusarvio, muokattava taloudellinen laskentamalli sekä rajattu kotimainen ja kansainvälinen sijoittaja-, käyttäjä-, operaattori- ja kumppanihaku.\n\nTiedekeskus Aurora on Sodankylään suunniteltu tiede-, tutkimus-, koulutus-, innovaatio- ja matkailukokonaisuus. Toimeksiannossa tarkastellaan Aurora-tiedekeskukseen tukeutuvaa kokonaisuutta ja vaihtoehtoista matkailu-, elämys-, viihde- ja palvelukokonaisuutta ilman tiedekeskuksen toteutumista suunnitellussa muodossa. Molempia skenaarioita vertaillaan ja testataan yhdessä markkinatestauskokonaisuudessa. Suositus voi koskea myös hankkeen pienentämistä, vaiheistamista, lykkäämistä tai toteuttamatta jättämistä. Aloituskokous on tarkoitus pitää vuoden 2026 puolella, ja lopulliset tuotokset toimitetaan viimeistään 18.6.2027.\n\nHankinnan kohde on kuvattu tarkemmin liitteessä 1. \n\nTarjouksen valintaperusteena on kokonaistaloudellisesti edullisin tarjous. \n\nHUOM! Hankinnan hinta on kaikille tarjoajille kiinteä 70.000 euroa (alv 0 %), minkä vuoksi tarjoukset vertaillaan yksinomaan laadun perusteella. Tarjouksista valitaan tarjouspyynnössä kuvatussa laadullisessa vertailussa korkeimman kokonaispistemäärän saanut tarjous. \n\nLisäksi tilaajalla mahdollisuus tilata optiot, joiden arvo yhteensä enintään 20.000 euroa (alv 0 %). Optiot kuvattu tarkemmin liitteessä 1.,",
+     "docs_url": "https://tarjouspalvelu.fi/sodankyla?id=637443&tpk=79defa9f-0fc8-4c70-ae3e-55f56c485560",
+     "dps": false,
+     "framework": false,
+     "id": 62347,
+     "key": "EF-62347",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79411100"
+       ],
+       "title": "Tiedekeskus Aurora -hankkeen kiinteistöinvestoinnin kaupallisen toteutus-, omistus- ja rahoitusmallin sekä sijoittaja- ja toimijahaun asiantuntijapalvelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062347",
+     "org": "Sodankylän kunta",
+     "published": "2026-11-17T16:12:35+02:00",
+     "reasons": [
+      "asiantuntijapalvelu, selvitys, koulutus"
+     ],
+     "title": "Tiedekeskus Aurora -hankkeen kiinteistöinvestoinnin kaupallisen toteutus-, omistus- ja rahoitusmallin sekä sijoittaja- ja toimijahaun asiantuntijapalvelu",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40399/notice/62347/overview",
+     "value": 90000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79417000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-18T12:00:00+02:00",
+     "desc": "Hankinnan kohteena on turvatekniikka palveluineen koko Fintrafficin konsernille, kattaen kaikki yhtiöt ja liiketoiminnot.\n\nHankinnan kohde muodostuu seuraavista osa-alueista:\n1. Järjestelmät ja laitteet palveluineen, johon sisältyy mm. kameravalvonta, kulunvalvonta, rikosilmoitin ja varaosavarastointi\n2. Lukitusratkaisut palveluineen, johon sisältyy mm. sähköinen lukitusjärjestelmä, mekaaninen lukitusjärjestelmä, hybridijärjestelmä ja varaosavarastointi \n3. Kokonaispalvelu, johon sisältyy mm. järjestelmät ja laitteet palveluineen, lukitusratkaisut palveluineen ja varaosavarastointi \n4. Turvakalusteet palveluineen, johon sisältyy mm. kassakaapit, paloturvakaapit ja varaosavarastointi \n5. Dronepalvelut, johon sisältyy mm.  liikenteenvalvonta, kehävalvonta, aluevalvonta ja varaosavarastointi\n6. Varavoimalaitteet palveluineen, johon sisältyy mm. UPS, akut, aurinkovoima, tuulivoima ja varaosavarastointi \n7. Fyysinen turvallisuus palveluineen, johon sisältyy mm.  turva-aidat, portit, puomit, esteet, ovet, pyöräsakaraportit ja varaosavarastointi\n8. Asiantuntijapalvelu, johon sisältyy mm. suunnittelu, projektinhallinta, tuki- ja ylläpito, kehitys ja laadunvarmistus    \n9. Varastointi- ja varautumispalvelut, johon sisältyy mm. varastointi, varaston hallinnointi ja muu logistiikka. \n\nHankinnan kohde ja vaatimukset ovat kuvattu tarkemmin tarjouspyynnön liitteissä., Osa-alue 1: Järjestelmät ja laitteet palveluineen Järjestelmät ja laitteet palveluineen, johon sisältyy mm. kameravalvonta, kulunvalvonta, rikosilmoitinjärjestelmät ja varaosavarastointi., Osa-alue 2: Lukitusratkaisut palveluineen Lukitusratkaisut palveluineen, johon sisältyy mm. sähköinen lukitusjärjestelmä, mekaaninen lukitusjärjestelmä, hybridijärjestelmä ja varaosavarastointi., Osa-alue 3: Kokonaispalvelu – Järjestelmät ja lukitus palveluineen Kokonaispalvelu, johon sisältyy mm. kameravalvonta, kulunvalvonta, rikosilmoitin, sähköinen lukitusjärjestelmä, mekaaninen lukitusjärjestelmä, hybridijärjestelmä ja varaosavarastointi., Osa-alue 4: Turvakalusteet palveluineen Turvakalusteet palveluineen, johon sisältyy mm. kassakaapit ja paloturvakaapit sekä varaosavarastointi., Osa-alue 5: Dronepalvelut Dronepalvelut, johon sisältyy mm. liikenteenvalvonta, kehävalvonta, aluevalvonta ja varaosavarastointi., Osa-alue 6: Varavoimalaitteet palveluineen Varavoimalaitteet palveluineen, johon sisältyy mm. UPS, akut, aurinkovoima ja tuulivoima ja varaosavarastointi., Osa-alue 7: Fyysinen turvallisuus palveluineen Fyysisen turvallisuuden ratkaisut palveluineen, johon sisältyy mm. turva-aidat, portit, puomit, esteet, turvaovet, pyöräsakaraportit ja varaosavarastointi., Osa-alue 8: Asiantuntijapalvelu Asiantuntijapalvelu, johon sisältyy mm. suunnittelu, projektinhallinta, huolto, tuki- ja ylläpito, kehitys ja laadunvarmistus., Osa-alue 9: Varastointi- ja varautumispalvelut Varautumispalvelut, jossa alustavasti mukana varastointi, varaston hallinnointi ja muu logistiikka.,",
+     "docs_url": "https://tarjouspalvelu.fi/fintraffic?id=631556&tpk=07213afb-42bd-44ae-b460-53c4a61fb375",
+     "dps": false,
+     "framework": true,
+     "id": 62245,
+     "key": "EF-62245",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79417000"
+       ],
+       "title": "Osa-alue 8: Asiantuntijapalvelu"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062245",
+     "org": "Liikenteenohjausyhtiö Fintraffic Oy",
+     "published": "2026-11-18T05:05:02+02:00",
+     "reasons": [
+      "asiantuntijapalvelu"
+     ],
+     "title": "Turvallisuustekniikka 2026–2030",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/27837/notice/62245/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000",
+      "73000000",
+      "79400000",
+      "79410000",
+      "79411100"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-21T12:00:00+02:00",
+     "desc": "Hankinnan kohteena ovat VTT:n strategista suunnittelua, päätöksentekoa, liiketoiminnan kehittämistä ja soveltuvin osin tutkimusalueiden tietotarpeita tukevat asiantuntija-, ennakointi- ja analyysipalvelut. \n\nHankinnan kohde on jaettu neljään osakokonaisuuteen:\n• Osakokonaisuus 1: Makrotalousaineistot ja -analyysit\n• Osakokonaisuus 2: Tulevaisuustieto ja toimintaympäristön seuranta\n• Osakokonaisuus 3: Skenaariotyö ja fasilitoidut skenaariotyöpajat\n• Osakokonaisuus 4: Markkina-analyysit ja muut kohdennetut analyysipalvelut\n\nTarjoaja voi jättää tarjouksen yhteen tai useampaan osakokonaisuuteen. \n\nKilpailutuksella etsitään toimittajia kolmen (3) vuoden varsinaiselle sopimuskaudelle. VTT:llä on oikeus jatkaa varsinaista sopimuskautta yhden (1) vuoden optiokaudella. Tavoitteena on, että sopimukset tulevat voimaan helmikuussa 2027 ja palvelujen tuottaminen alkaa viimeistään maaliskuussa 2027.\n\nKilpailutuksen perusteella muodostetaan neljä (4) osakokonaisuuskohtaista puitejärjestelyä VTT:n tarvitsemien asiantuntijapalvelujen hankkimiseksi. VTT valitsee kuhunkin osakokonaisuuteen kaksi (2) sopimuskumppania. Sama toimittaja voi valikoitua yhteen tai useampaan osakokonaisuuteen.\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 2: Tulevaisuustieto ja toimintaympäristön seuranta Tulevaisuustieto ja toimintaympäristön seuranta, kuten ennakointi, trendien, ilmiöiden ja heikkojen signaalien tarkastelu sekä toimintaympäristöanalyysit. Tarkastelussa ennakoidaan tulevia kehityssuuntia ja arvioidaan niihin liittyviä mahdollisuuksia ja riskejä VTT:n näkökulmasta.\n\nOsakokonaisuuden hankintojen enimmäisarvo koko sopimuskaudella on 200 000 euroa (alv 0 %).\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 3: Skenaariotyö ja fasilitoidut skenaariotyöpajat Skenaariotyöt ja fasilitoidut skenaariotyöpajat, mukaan lukien vaihtoehtoisten tulevaisuuden kehityskulkujen muodostaminen, analysointi ja kuvaaminen sekä skenaariotyöhön liittyvä menetelmäosaaminen ja työpajojen fasilitointi. Skenaariotyö voi olla laaja-alainen tai rajattu esimerkiksi tiettyyn teemaan, markkinaan, teknologiaan, maantieteelliseen alueeseen tai yksittäiseen strategiseen kysymykseen. \n\nHankittava palvelu on luonteeltaan VTT:n omaa skenaario- ja ennakointityötä täydentävää. Sen tarkoituksena on tuoda tarvittaessa lisäkapasiteettia, ulkopuolista asiantuntemusta tai erityisosaamista yksittäisiin, erikseen määriteltyihin toimeksiantoihin.\n\nOsakokonaisuuden hankintojen enimmäisarvo koko sopimuskaudella on 150 000 euroa (alv 0 %).\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 4: Markkina-analyysit ja muut kohdennetut analyysipalvelut Markkina-analyysit ja muut kohdennetut analyysipalvelut, kuten markkina-, asiakas-, kilpailija-, teknologia-, toimiala- ja arvoketjuanalyysit, benchmarking sekä muut rajattuun tietotarpeeseen perustuvat analyysi- ja selvitystehtävät. Analyysit tukevat esimerkiksi markkinamahdollisuuksien, asiakastarpeiden, kilpailutilanteen ja teknologioiden kaupallisten mahdollisuuksien arviointia.\n\nOsakokonaisuuden hankintojen enimmäisarvo koko sopimuskaudella on 300 000 euroa (alv 0 %).\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa., Osakokonaisuus 1: Makrotalousaineistot ja -analyysit VTT:n toimintaympäristön kannalta olennaista talouskehitystä käsittelevät makrotalouskatsaukset sekä tarvittaessa erilliset makrotaloudelliset selvitykset ja vaikutusanalyysit. Tarkastelussa arvioidaan talouden kehitysnäkymiä ja niiden merkitystä VTT:n toiminnalle ja ulkoisten asiakkaiden tarpeille. \n\nOsakokonaisuuden hankintojen enimmäisarvo koko sopimuskaudella on 150 000 euroa (alv 0 %).\n\nHankinnan kohde on kuvattu tarkemmin tarjouspyyntöasiakirjoissa.,",
+     "docs_url": "https://tarjouspalvelu.fi/vtt?id=632688&tpk=053100b2-7009-4f85-a22c-9a859d14b445",
+     "dps": false,
+     "framework": true,
+     "id": 62387,
+     "key": "EF-62387",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000",
+        "73000000",
+        "79410000",
+        "79411100"
+       ],
+       "title": "Osakokonaisuus 2: Tulevaisuustieto ja toimintaympäristön seuranta"
+      },
+      {
+       "cpv": [
+        "79000000",
+        "73000000",
+        "79400000",
+        "79410000",
+        "79411100"
+       ],
+       "title": "Osakokonaisuus 3: Skenaariotyö ja fasilitoidut skenaariotyöpajat"
+      },
+      {
+       "cpv": [
+        "79000000",
+        "73000000",
+        "79400000"
+       ],
+       "title": "Osakokonaisuus 4: Markkina-analyysit ja muut kohdennetut analyysipalvelut"
+      },
+      {
+       "cpv": [
+        "79000000",
+        "73000000",
+        "79411100"
+       ],
+       "title": "Osakokonaisuus 1: Makrotalousaineistot ja -analyysit"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062387",
+     "org": "Teknologian tutkimuskeskus VTT Oy",
+     "published": "2026-11-19T05:05:08+02:00",
+     "reasons": [
+      "asiantuntijapalvelu, selvitys, arviointi"
+     ],
+     "title": "Markkina-analyysi- ja skenaariopalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40426/notice/62387/overview",
+     "value": 800000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000"
+     ],
+     "currency": "EUR",
+     "deadline": "2026-12-18T13:00:00+02:00",
+     "desc": "Soveltuvuus- ja potentiaaliarviointipalvelut Hankinnan kohteena ovat Tilaajan tarpeisiin tuotettavat soveltuvuus- ja potentiaaliarviointipalvelut. Palveluja käytetään Tilaajan sisäisten ja ulkoisten rekrytointien tukena sekä henkilöstön kehittämisessä. Palveluntuottajan tulee pystyä tuottamaan arviointeja eri henkilöstöryhmille, kuten johtajille, esihenkilöille / päälliköille ja asiantuntijoille. Palvelun tavoitteena on tuottaa Tilaajalle luotettavaa, objektiivista ja tutkimusnäyttöön perustuvaa arviointitietoa päätöksenteon tueksi. Arviointien tulee tukea laadukasta rekrytointia ja henkilöstön kehittämistä.\n\nHankinta sisältää seuraavat palvelut:\n• johtajan soveltuvuusarviointi \n• esihenkilön/päällikön soveltuvuusarviointi \n• asiantuntijan soveltuvuusarviointi \n• johtajan, esihenkilön/päällikön ja asiantuntijan potentiaaliarviointi\n\n********************************************************\n\nSoveltuvuusarviointeja hankitaan vuodessa arviolta 40-80 kpl. Potentiaaliarviointeja tilataan Sopimuskaudella tarpeen mukaan (harvoin).\n\nHankinnan kohdetta on kuvattu tarkemmin tarjouspyynnön liitteellä 1 (Hankinnan kohteen kuvaus).\n\nHankintaan valitaan toteuttajaksi yksi (1) Toimittaja. Tarjoajan tulee nimetä tarjouksessaan kolme (3) Palvelua suorittavaa Asiantuntijaa.\n\n******************************************\n\nSOPIMUSKAUSI\n\nVarsinainen sopimuskausi on 24 kuukautta, jonka jälkeen Sopimusta voidaan jatkaa optiokaudelle 24 kk.\n\nSopimuskauden suunniteltu alkamisajankohta on tammikuu - helmikuu 2027. \n\n\nHANKINNAN KOKONAISARVO\n\nHankinnan arvioitu arvo on 80 000  euroa/  vuosi (alv 0 %). Hankinnan arvioitu kokonaisarvo on noin 320 000 euroa (alv 0 %) mukaan lukien mahdollinen optiokausi.,",
+     "docs_url": "https://tarjouspalvelu.fi/businessfinland?id=621930&tpk=ebdb2c03-88c5-42db-ac8a-2b6f353234c4",
+     "dps": false,
+     "framework": false,
+     "id": 62480,
+     "key": "EF-62480",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000"
+       ],
+       "title": "Soveltuvuus- ja potentiaaliarviointipalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062480",
+     "org": "Business Finland Oy",
+     "published": "2026-11-19T06:05:09+02:00",
+     "reasons": [
+      "arviointi, rekrytoin"
+     ],
+     "title": "Soveltuvuus- ja potentiaaliarviointipalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40473/notice/62480/overview",
+     "value": 320000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "79000000",
+      "79411000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-11T12:00:00+02:00",
+     "desc": "Digitoimintojen tavoitetilan ja toimeenpanon arviointi Hankinnan kohteena on Tilaajan digitaalisten toimintojen nykytilan, organisoinnin ja kyvykkyyksien arviointi sekä digitaalista transformaatiota koskevien nykyisten strategisten linjausten, vision ja tiekartan validointi.\n\nOsana hankintaa arvioidaan Tilaajan olemassa olevat digitaalista transformaatiota koskevat dokumentit, suunnitelmat ja linjaukset. Arvioinnissa tarkastellaan muun muassa digitaalisen transformaation vision ja tiekartan selkeyttä, tarkoituksenmukaisuutta, kokonaisuutta, toteutettavuutta ja aikataulun realistisuutta suhteessa Tilaajan strategisiin tavoitteisiin sekä organisaation nykyisiin kyvykkyyksiin ja resursseihin.\n\nHankinnassa ei laadita uutta digitaalisen transformaation visiota tai tiekarttaa, mutta mikäli nykyisiin Tilaajan linjauksiin tai tiekarttaan liittyy olennaisia täsmennystarpeita, Asiantuntijan tulee tuoda ne esiin ja esittää perustellut kehittämisehdotukset.\n\nHankinnan tavoitteena on muodostaa kokonaiskuva Tilaajan digitaalisten toimintojen nykytilasta ja arvioida, kuinka hyvin nykyiset toimintamallit, organisointi, roolit, vastuut, prosessit ja kyvykkyydet tukevat Tilaajan strategiaa ja digitaalisen transformaation tavoitteita. \n\nHankinnan kohdetta on kuvattu tarkemmin tarjouspyynnön liitteellä 1 (hankinnan kohteen kuvaus).\n\nHankinnan aikataulu: Tilaajan hyväksymän loppuraportin tulee olla toimitettuna Tilaajalle viimeistään 31.5.2027.  (ks. liite 1 hankinnan kohteen kuvaus, Kohta 3.3. \"Hankinnan aikataulu\").\n\nHankinnan suunniteltu sopimuskausi on 01/2027 ( xx.1.2027)-30.6.2027. \n*** HUOM! Eformsissa oli ilmoitettava päivämäärä tarkasti ja siellä on ilmoitettu 1.1.2027. Tavoite on, että Sopimus alkaa heti tammikuussa, kun hankintapäätös on annettu tiedoksi ja Sopimus allekirjoitettu.,",
+     "docs_url": "https://tarjouspalvelu.fi/businessfinland?id=630843&tpk=507ef836-5d4d-4b18-838b-21352cb5ea4b",
+     "dps": false,
+     "framework": false,
+     "id": 62566,
+     "key": "EF-62566",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79000000",
+        "79411000"
+       ],
+       "title": "Digitoimintojen tavoitetilan ja toimeenpanon arviointi"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062566",
+     "org": "Business Finland Oy",
+     "published": "2026-11-19T12:12:58+02:00",
+     "reasons": [
+      "arviointi"
+     ],
+     "title": "Digitoimintojen tavoitetilan ja toimeenpanon arviointi",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40517/notice/62566/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79400000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-17T12:00:00+02:00",
+     "desc": "Maksajaviraston tietoturvallisuuden asiantuntijapalvelut Hankinnan kohteena olevat asiantuntijapalvelut muodostuvat seuraavista osa-alueista:\n\n- Osa-alue 1 Sisäiset auditoinnit: Maksajavirastotoimintaan liittyvät sisäiset auditoinnit ja siihen liittyvä prosessikokonaisuus (suunnittelu, toteutus, raportointi)\n- Osa-alue 2 Konsultointi: Ruokaviraston konsultointi ja erillistoimeksiannot, jotka liittyvät EU:n maksajavirastovaatimuksiin (komission delegoitu asetus 2022/1172). Osa-alueeseen sisältyvät esimerkiksi hallintajärjestelmän kehittäminen, erilaiset selvitykset ja koulutukset.\n\nHankinta ei käsitä tietoteknistä tietoturvallisuuskonsultointia, vaan hankinnassa on kyse tietoturvallisuuden hallintajärjestelmään liittyvästä konsultointi- ja asiantuntijapalveluista. Hankinnan tarkoituksena on kehittää ISO/IEC 27001:2022-standardin mukaisia vaatimuksia maksajavirastotoiminnassa käsittäen myös maksajavirastotoimijat.\n\nHankinnan tavoitteena on maksajavirastotoimintaan liittyvien tietoturvakäytäntöjen ja toiminnan kehittäminen, tuottavuuden parantaminen, kustannustehokkuuden lisääminen, auditointien toteuttaminen sekä viraston toimintaan liittyvän erityisosaamisen ja -asiantuntemuksen lisääminen.\n\nHankinnan sopimuskausi tulisi olemaan 1.4.2027 – 31.3.2030 + optiot ajalle 1.4.2030-31.3.2031 ja 1.4.2031-31.3.2032. \n\nPalvelun arvioitu kokonaislaajuus on noin 24–26 htp (180–195 tuntia) vuodessa. \n\nHankinnan sisältö sekä laajuus on määritelty tarjouspyynnössä ja sen liitteissä. Tarjottavan palvelun tulee täyttää kaikki tässä\ntarjouspyynnössä ja sen liitteissä asetetut vaatimukset, jotta sen voidaan katsoa olevan tarjouspyynnön mukainen.,",
+     "docs_url": "https://tarjouspalvelu.fi/ruokavirasto?id=637140&tpk=26581f35-a8d6-4d7f-87c2-d6e00da2b48e",
+     "dps": false,
+     "framework": false,
+     "id": 62635,
+     "key": "EF-62635",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79400000"
+       ],
+       "title": "Maksajaviraston tietoturvallisuuden asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062635",
+     "org": "Ruokavirasto",
+     "published": "2026-11-20T08:05:20+02:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "Maksajaviraston tietoturvallisuuden asiantuntijapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/38041/notice/62635/overview",
+     "value": null
+    },
+    {
+     "corrigendum": true,
+     "cpv": [
+      "79410000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-03T12:00:00+02:00",
+     "desc": "Tukirahoituksen asiantuntijapalvelut Hankinnan kohteena on tukirahoitukseen liittyvien asiantuntijapalveluiden puitejärjestely hankinta-asiakirjojen tarkemmin \nosoittamassa laajuudessa. Palveluiden kohteena ovat Fintraffic-konsernin kaikki yhtiöt. Tarkoituksena on hankkia puitejärjestelyn kautta asiantuntijatukea mm. seuraaviin (mutta ei näihin rajoittuen) tehtäviin:\n\n- Rahoitusohjelmakonsultointi ja suunnittelu\n- Projektikohtainen tukirahoituksen etsintä\n- Projekti-ideoiden kehittäminen, hakemusten kirjoittaminen ja asiakirjojen laatiminen, kuten vaaditut kustannus-hyötyanalyysit, hankesuunnitelmat, toimintasuunnitelmat, taloudellisen suunnitelmat, muut rahoitushakemuksiin liittyvät asiakirjat\n- Projektinhallinta hakuvaiheessa tilanteissa, joissa Fintraffic-konserniin kuuluva yhtiö toimii joko konsortion vetäjänä tai yhtenä toimijana \n- Mahdollisesti innovaatiorahoitusta tukeva verkostohallinta. \n\nPuitejärjestely on kuvattu tarkemmin liitteessä B.2 hankinnan kohteen kuvaus sekä muissa hankinta-asiakirjoissa.\n\nSOPIMUSKAUSI\n\nSopimuskausi alkaa puitesopimuksen allekirjoittamisesta ja se on voimassa määräaikaisena kaksi (2) vuotta. Sopimukseen liittyy kaksi yhden vuoden optiokautta. Optiokaudet voidaan ottaa käyttöön vuosi kerrallaan tai kaksi vuotta kerrallaan.  Sopimus päättyy \nautomaattisesti, mikäli sopimusta ei ole irtisanottu tai tilaaja ei ole ottanut optiokautta käyttöön. \n\nPUITEJÄRJESTELYN LAAJUUS\n\nPuitejärjestelyn ennakoitu arvonlisäveroton enimmäisarvo on 300 000 euroa sisältäen myös mahdolliset optiokaudet.,",
+     "docs_url": "https://tarjouspalvelu.fi/fintraffic?id=623931&tpk=351648e2-4d80-4e0f-97c2-9dda801afc48",
+     "dps": false,
+     "framework": true,
+     "id": 62707,
+     "key": "EF-62707",
+     "level": "tarkista",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "79410000"
+       ],
+       "title": "Tukirahoituksen asiantuntijapalvelut"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062707",
+     "org": "Liikenteenohjausyhtiö Fintraffic Oy",
+     "published": "2026-11-22T13:05:02+02:00",
+     "reasons": [
+      "konsultoin, asiantuntijapalvelu"
+     ],
+     "title": "Tukirahoituksen asiantuntijapalvelut",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/33726/notice/62707/overview",
+     "value": null
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73300000"
+     ],
+     "currency": "EUR",
+     "deadline": "2027-01-11T10:00:00+02:00",
+     "desc": "Espoon kaupunki (myöhemmin myös Tilaaja) pyytää tarjouksia kysely- ja haastattelututkimuksista, nettipaneeleista ja muista tiedonkeruupalveluista. \n\nTarkempi kuvaus hankinnan sisällöstä on tarjouspyynnön liitteellä \"Hankinnan kohteen kuvaus\".\n\nHankinta toteutetaan hankintalain mukaisena puitejärjestelynä. Hankinnan ennakoitu kokonaisarvo on 280 000 € (alv 0 %).\n\nEspoon kaupunki valitsee kilpailutuksen perusteella:\n- osa-alueelle 1. ''Kysely- ja haastattelututkimukset'' kuusi (6) toimittajaa.\n- osa-alueelle 2. ''Nettipaneelit'' kolme (3) toimittajaa.\n- osa-alueelle 3. ''Muut tiedonkeruupalvelut'' kolme (3) toimittajaa.\n\nHankinnan valmistelu\n\nHankintayksikkö on valmistellut hankintaa arvioimalla markkinoilla olevia vaihtoehtoja ja kilpailuolosuhteita sekä hankinnan toteuttamistapoja. \n\nMarkkinakartoituksessa on kuultu alan toimijoita kirjallisesti ja markkinavuoropuhelun kautta, arvioitu hankinnan jakamista osiin sekä eri toteutusmalleja.\n\nMarkkinakartoitus on toteutettu siten, ettei yksittäistä toimittajaa ole suosittu ja kartoituksessa on toimittu tasapuolisesti ja avoimesti.\n\nMarkkinakartoituksen keskeiset havainnot ovat, että markkinoilla toimii useita erikokoisia yrityksiä. Hankintayksikkö arvioi, että potentiaalisia tarjoajia on yli 10 kpl.\n \nKartoituksessa saatuja havaintoja on hyödynnetty hankinnan kohteen määrittelyssä, hankinnan rakenteessa, soveltuvuusvaatimusten asettamisessa ja tarjousten vertailuperusteiden määrittelyssä.\n \nHankinnan valmistelussa on huomioitu hankintalain 65 §:n mukaiset markkinakartoitusta koskevat periaatteet ja hankintayksikkö katsoo valmistelun tukevan kilpailun toteutumista.\n\nHankinnan jakaminen osiin\n\nHankintayksikkö on arvioinut hankinnan jakamista osiin ja päätynyt toteuttamaan hankinnan seuraavissa osissa: osa-alue 1. ''Kysely- ja haastattelututkimukset'', osa-alue 2. ''Nettipaneelit'' ja osa-alue 3. ''Muut tiedonkeruupalvelut''. Ratkaisu perustuu hankinnan kohteeseen, markkinatilanteeseen ja tarkoituksenmukaisen kilpailun edistämiseen.\n\nHankinnan jakamisella pyritään edistämään kilpailua ja pk-yritysten osallistumismahdollisuuksia., Osa-alue 1. Kysely- ja haastattelututkimukset Tarkempi kuvaus hankinnan sisällöstä on tarjouspyynnön liitteellä \"Hankinnan kohteen kuvaus\".\n\nOsa-alueen 1. ennakoitu kokonaisarvo ilman arvonlisäveroa on 230 000 €., Osa-alue 2. Nettipaneelit Tarkempi kuvaus hankinnan sisällöstä on tarjouspyynnön liitteellä \"Hankinnan kohteen kuvaus\".\n\nOsa-alueen 2. ennakoitu kokonaisarvo ilman arvonlisäveroa on 25 000 €., Osa-alue 3. Muut tiedonkeruupalvelut Tarkempi kuvaus hankinnan sisällöstä on tarjouspyynnön liitteellä \"Hankinnan kohteen kuvaus\".\n\nOsa-alueen 3. ennakoitu kokonaisarvo ilman arvonlisäveroa on 25 000 €.,",
+     "docs_url": "https://tarjouspalvelu.fi/espoo?id=622015&tpk=3a8df3fb-099d-4a5b-addf-93a2012b984a",
+     "dps": false,
+     "framework": true,
+     "id": 62119,
+     "key": "EF-62119",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73300000"
+       ],
+       "title": "Osa-alue 1. Kysely- ja haastattelututkimukset"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062119",
+     "org": "Espoon kaupunki",
+     "published": "2026-11-17T05:05:04+02:00",
+     "reasons": [],
+     "title": "Kysely- ja haastattelututkimusten hankinta 2027",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40269/notice/62119/overview",
+     "value": 280000.0
+    },
+    {
+     "corrigendum": false,
+     "cpv": [
+      "73110000"
+     ],
+     "currency": "",
+     "deadline": "2026-12-21T12:00:00+02:00",
+     "desc": "Biogeokemiallisen tutkimushankkeen näytteiden esikäsittely, analysointi ja tulosten toimitus Tarjous tulee kattaa seuraavien näytemateriaalien kuivauksen, jauhamisen, analysoinnin ja tulosten raportoinnin:\n\n- n. 90 sieninäytettä (2-11 g per näyte)\n- n. 290 kuusen oksanäytettä (6-150 g per näyte)\n- n. 220 kuusen kaarnanäytettä (20-200 g per näyte)\n\nTilaaja toimittaa näytteet erillisissä pusseissa (kangas- tai paperipussi). Analysointikulu tulee osoittaa näytekohtaisesti. Sieninäytteet ovat pieniä, ja kuusinäytteet suurempia, mikä on huomioitava näytekäsittelyn ja analysoinnin suunnittelussa.\n\nTilaajan kontrollinäytteet (vertailumateriaalit ja kenttäkaksoisnäytteet) toimitetaan toimittajalle ilman muita tunnistetietoja kuin näytetunnusnumero. \n\n\nOptio lisähankintamahdollisuuksien kuvaus\n\nSeuraavien näytemateriaalien kuivatus, jauhaminen, analysointi ja tulosten raportointi:\nn. 290 kuusen neulasnäytettä (16-200 g per näyte).\n\nGeologian tutkimuskeskus päättää mahdollisesta lisähankinnasta ja siitä sovitaan kirjallisesti erikseen.,",
+     "docs_url": "https://tarjouspalvelu.fi/gtk?id=636254&tpk=8f3a7629-a266-41fb-a2f4-c6c7fce31a56",
+     "dps": false,
+     "framework": false,
+     "id": 62749,
+     "key": "EF-62749",
+     "level": "heikko",
+     "lot_only": false,
+     "lots": [
+      {
+       "cpv": [
+        "73110000"
+       ],
+       "title": "Biogeokemiallisen tutkimushankkeen näytteiden esikäsittely, analysointi ja tulosten toimitus"
+      }
+     ],
+     "main_type": "ContractNotices",
+     "number": "2026-062749",
+     "org": "Geologian tutkimuskeskus",
+     "published": "2026-11-20T15:06:41+02:00",
+     "reasons": [],
+     "title": "Biogeokemiallisen tutkimushankkeen näytteiden esikäsittely, analysointi ja tulosten toimitus",
+     "url": "https://www.hankintailmoitukset.fi/fi/public/procurement/40633/notice/62749/overview",
+     "value": null
+    }
+   ],
+   "start": "2026-11-17T00:00:00+02:00"
   }
  },
  "seen": {
@@ -4230,7 +4678,19 @@
   "EF-62040": "2026-11-10",
   "EF-62051": "2026-11-10",
   "EF-62089": "2026-11-10",
-  "EF-62149": "2026-11-10"
+  "EF-62114": "2026-11-17",
+  "EF-62119": "2026-11-17",
+  "EF-62149": "2026-11-10",
+  "EF-62226": "2026-11-17",
+  "EF-62245": "2026-11-17",
+  "EF-62347": "2026-11-17",
+  "EF-62387": "2026-11-17",
+  "EF-62480": "2026-11-17",
+  "EF-62566": "2026-11-17",
+  "EF-62570": "2026-11-17",
+  "EF-62635": "2026-11-17",
+  "EF-62707": "2026-11-17",
+  "EF-62749": "2026-11-17"
  },
- "watermark": "2026-11-16T15:02:43+02:00"
+ "watermark": "2026-11-23T17:10:38+02:00"
 }
